@@ -1,0 +1,1227 @@
+[
+  {
+    "topic": "Installation",
+    "pageTitle": "Server-side",
+    "url": "https://inertiajs.com/server-side-setup",
+    "link": "https://inertiajs.com/server-side-setup",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Server-side setup",
+        "section_title": "Server-side setup",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-setup"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Server-side setup",
+        "section_title": "Laravel starter kits",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-setup#laravel-starter-kits"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Server-side setup",
+        "section_title": "Install dependencies",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-setup#install-dependencies"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Server-side setup",
+        "section_title": "Root template",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-setup#root-template"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Server-side setup",
+        "section_title": "Middleware",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-setup#middleware"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Server-side setup",
+        "section_title": "Creating responses",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-setup#creating-responses"
+      }
+    ]
+  },
+  {
+    "topic": "Installation",
+    "pageTitle": "Client-side",
+    "url": "https://inertiajs.com/client-side-setup",
+    "link": "https://inertiajs.com/client-side-setup",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Client-side setup",
+        "section_title": "Client-side setup",
+        "link_title": "",
+        "url": "https://inertiajs.com/client-side-setup"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Client-side setup",
+        "section_title": "Laravel starter kits",
+        "link_title": "",
+        "url": "https://inertiajs.com/client-side-setup#laravel-starter-kits"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Client-side setup",
+        "section_title": "Install dependencies",
+        "link_title": "",
+        "url": "https://inertiajs.com/client-side-setup#install-dependencies"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Client-side setup",
+        "section_title": "Initialize the Inertia app",
+        "link_title": "",
+        "url": "https://inertiajs.com/client-side-setup#initialize-the-inertia-app"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Client-side setup",
+        "section_title": "Resolving components",
+        "link_title": "",
+        "url": "https://inertiajs.com/client-side-setup#resolving-components"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Client-side setup",
+        "section_title": "Defining a root element",
+        "link_title": "",
+        "url": "https://inertiajs.com/client-side-setup#defining-a-root-element"
+      }
+    ]
+  },
+  {
+    "topic": "Core Concepts",
+    "pageTitle": "Who is it for",
+    "url": "https://inertiajs.com/who-is-it-for",
+    "link": "https://inertiajs.com/who-is-it-for",
+    "pageLinks": [
+      {
+        "topic": "Core Concepts",
+        "page_title": "Who is Inertia.js for?",
+        "section_title": "Who is Inertia.js for?",
+        "link_title": "",
+        "url": "https://inertiajs.com/who-is-it-for"
+      }
+    ]
+  },
+  {
+    "topic": "Core Concepts",
+    "pageTitle": "How it works",
+    "url": "https://inertiajs.com/how-it-works",
+    "link": "https://inertiajs.com/how-it-works",
+    "pageLinks": [
+      {
+        "topic": "Core Concepts",
+        "page_title": "How it works",
+        "section_title": "How it works",
+        "link_title": "",
+        "url": "https://inertiajs.com/how-it-works"
+      }
+    ]
+  },
+  {
+    "topic": "Core Concepts",
+    "pageTitle": "The protocol",
+    "url": "https://inertiajs.com/the-protocol",
+    "link": "https://inertiajs.com/the-protocol",
+    "pageLinks": [
+      {
+        "topic": "Core Concepts",
+        "page_title": "The protocol",
+        "section_title": "The protocol",
+        "link_title": "",
+        "url": "https://inertiajs.com/the-protocol"
+      },
+      {
+        "topic": "Core Concepts",
+        "page_title": "The protocol",
+        "section_title": "HTML responses",
+        "link_title": "",
+        "url": "https://inertiajs.com/the-protocol#html-responses"
+      },
+      {
+        "topic": "Core Concepts",
+        "page_title": "The protocol",
+        "section_title": "Inertia responses",
+        "link_title": "",
+        "url": "https://inertiajs.com/the-protocol#inertia-responses"
+      },
+      {
+        "topic": "Core Concepts",
+        "page_title": "The protocol",
+        "section_title": "The page object",
+        "link_title": "",
+        "url": "https://inertiajs.com/the-protocol#the-page-object"
+      },
+      {
+        "topic": "Core Concepts",
+        "page_title": "The protocol",
+        "section_title": "Asset versioning",
+        "link_title": "",
+        "url": "https://inertiajs.com/the-protocol#asset-versioning"
+      },
+      {
+        "topic": "Core Concepts",
+        "page_title": "The protocol",
+        "section_title": "Partial reloads",
+        "link_title": "",
+        "url": "https://inertiajs.com/the-protocol#partial-reloads"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Pages",
+    "url": "https://inertiajs.com/pages",
+    "link": "https://inertiajs.com/pages",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Pages",
+        "section_title": "Pages",
+        "link_title": "",
+        "url": "https://inertiajs.com/pages"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Pages",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/pages#top"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Pages",
+        "section_title": "Creating pages",
+        "link_title": "",
+        "url": "https://inertiajs.com/pages#creating-pages"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Pages",
+        "section_title": "Creating layouts",
+        "link_title": "",
+        "url": "https://inertiajs.com/pages#creating-layouts"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Pages",
+        "section_title": "Persistent layouts",
+        "link_title": "",
+        "url": "https://inertiajs.com/pages#persistent-layouts"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Pages",
+        "section_title": "Default layouts",
+        "link_title": "",
+        "url": "https://inertiajs.com/pages#default-layouts"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Responses",
+    "url": "https://inertiajs.com/responses",
+    "link": "https://inertiajs.com/responses",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Responses",
+        "section_title": "Responses",
+        "link_title": "",
+        "url": "https://inertiajs.com/responses"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Responses",
+        "section_title": "Creating responses",
+        "link_title": "",
+        "url": "https://inertiajs.com/responses#creating-responses"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Responses",
+        "section_title": "Root template data",
+        "link_title": "",
+        "url": "https://inertiajs.com/responses#root-template-data"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Responses",
+        "section_title": "Maximum response size",
+        "link_title": "",
+        "url": "https://inertiajs.com/responses#maximum-response-size"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Redirects",
+    "url": "https://inertiajs.com/redirects",
+    "link": "https://inertiajs.com/redirects",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Redirects",
+        "section_title": "Redirects",
+        "link_title": "",
+        "url": "https://inertiajs.com/redirects"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Redirects",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/redirects#top"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Redirects",
+        "section_title": "303 response code",
+        "link_title": "",
+        "url": "https://inertiajs.com/redirects#303-response-code"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Redirects",
+        "section_title": "External redirects",
+        "link_title": "",
+        "url": "https://inertiajs.com/redirects#external-redirects"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Routing",
+    "url": "https://inertiajs.com/routing",
+    "link": "https://inertiajs.com/routing",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Routing",
+        "section_title": "Routing",
+        "link_title": "",
+        "url": "https://inertiajs.com/routing"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Routing",
+        "section_title": "Defining routes",
+        "link_title": "",
+        "url": "https://inertiajs.com/routing#top"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Routing",
+        "section_title": "Shorthand routes",
+        "link_title": "",
+        "url": "https://inertiajs.com/routing#shorthand-routes"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Routing",
+        "section_title": "Generating URLs",
+        "link_title": "",
+        "url": "https://inertiajs.com/routing#generating-routes"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Title & meta",
+    "url": "https://inertiajs.com/title-and-meta",
+    "link": "https://inertiajs.com/title-and-meta",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Title & meta",
+        "section_title": "Title & meta",
+        "link_title": "",
+        "url": "https://inertiajs.com/title-and-meta"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Title & meta",
+        "section_title": "Head component",
+        "link_title": "",
+        "url": "https://inertiajs.com/title-and-meta#head-component"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Title & meta",
+        "section_title": "Title shorthand",
+        "link_title": "",
+        "url": "https://inertiajs.com/title-and-meta#title-shorthand"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Title & meta",
+        "section_title": "Title callback",
+        "link_title": "",
+        "url": "https://inertiajs.com/title-and-meta#title-callback"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Title & meta",
+        "section_title": "Multiple Head instances",
+        "link_title": "",
+        "url": "https://inertiajs.com/title-and-meta#multiple-head-instances"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Title & meta",
+        "section_title": "Head extension",
+        "link_title": "",
+        "url": "https://inertiajs.com/title-and-meta#head-extension"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Links",
+    "url": "https://inertiajs.com/links",
+    "link": "https://inertiajs.com/links",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Links",
+        "link_title": "",
+        "url": "https://inertiajs.com/links"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#top"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Creating links",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#creating-links"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Method",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#method"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Data",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#data"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Custom headers",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#custom-headers"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Browser history",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#browser-history"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "State preservation",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#state-preservation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Scroll preservation",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#scroll-preservation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Partial reloads",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#partial-reloads"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Links",
+        "section_title": "Active states",
+        "link_title": "",
+        "url": "https://inertiajs.com/links#active-states"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Manual visits",
+    "url": "https://inertiajs.com/manual-visits",
+    "link": "https://inertiajs.com/manual-visits",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Manual visits",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Method",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#method"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Data",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#data"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Custom headers",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#custom-headers"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "File uploads",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#file-uploads"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Browser history",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#browser-history"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "State preservation",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#state-preservation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Scroll preservation",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#scroll-preservation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Partial reloads",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#partial-reloads"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Visit cancellation",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#visit-cancellation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Manual visits",
+        "section_title": "Event callbacks",
+        "link_title": "",
+        "url": "https://inertiajs.com/manual-visits#event-callbacks"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Forms",
+    "url": "https://inertiajs.com/forms",
+    "link": "https://inertiajs.com/forms",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Forms",
+        "section_title": "Forms",
+        "link_title": "",
+        "url": "https://inertiajs.com/forms"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Forms",
+        "section_title": "Submitting forms",
+        "link_title": "",
+        "url": "https://inertiajs.com/forms#submitting-forms"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Forms",
+        "section_title": "Server-side validation",
+        "link_title": "",
+        "url": "https://inertiajs.com/forms#server-side-validation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Forms",
+        "section_title": "Form helper",
+        "link_title": "",
+        "url": "https://inertiajs.com/forms#form-helper"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Forms",
+        "section_title": "File uploads",
+        "link_title": "",
+        "url": "https://inertiajs.com/forms#file-uploads"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Forms",
+        "section_title": "XHR / fetch submissions",
+        "link_title": "",
+        "url": "https://inertiajs.com/forms#xhr-fetch-submissions"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "File uploads",
+    "url": "https://inertiajs.com/file-uploads",
+    "link": "https://inertiajs.com/file-uploads",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "File uploads",
+        "section_title": "File uploads",
+        "link_title": "",
+        "url": "https://inertiajs.com/file-uploads"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "File uploads",
+        "section_title": "FormData conversion",
+        "link_title": "",
+        "url": "https://inertiajs.com/file-uploads#form-data-conversion"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "File uploads",
+        "section_title": "File upload example",
+        "link_title": "",
+        "url": "https://inertiajs.com/file-uploads#file-upload-example"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "File uploads",
+        "section_title": "Multipart limitations",
+        "link_title": "",
+        "url": "https://inertiajs.com/file-uploads#multipart-limitations"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Validation",
+    "url": "https://inertiajs.com/validation",
+    "link": "https://inertiajs.com/validation",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Validation",
+        "section_title": "Validation",
+        "link_title": "",
+        "url": "https://inertiajs.com/validation"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Validation",
+        "section_title": "How it works",
+        "link_title": "",
+        "url": "https://inertiajs.com/validation#how-it-works"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Validation",
+        "section_title": "Sharing errors",
+        "link_title": "",
+        "url": "https://inertiajs.com/validation#sharing-errors"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Validation",
+        "section_title": "Displaying errors",
+        "link_title": "",
+        "url": "https://inertiajs.com/validation#displaying-errors"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Validation",
+        "section_title": "Repopulating input",
+        "link_title": "",
+        "url": "https://inertiajs.com/validation#repopulating-input"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Validation",
+        "section_title": "Error bags",
+        "link_title": "",
+        "url": "https://inertiajs.com/validation#error-bags"
+      }
+    ]
+  },
+  {
+    "topic": "The Basics",
+    "pageTitle": "Shared data",
+    "url": "https://inertiajs.com/shared-data",
+    "link": "https://inertiajs.com/shared-data",
+    "pageLinks": [
+      {
+        "topic": "The Basics",
+        "page_title": "Shared data",
+        "section_title": "Shared data",
+        "link_title": "",
+        "url": "https://inertiajs.com/shared-data"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Shared data",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/shared-data#top"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Shared data",
+        "section_title": "Sharing data",
+        "link_title": "",
+        "url": "https://inertiajs.com/shared-data#sharing-data"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Shared data",
+        "section_title": "Accessing shared data",
+        "link_title": "",
+        "url": "https://inertiajs.com/shared-data#accessing-shared-data"
+      },
+      {
+        "topic": "The Basics",
+        "page_title": "Shared data",
+        "section_title": "Flash messages",
+        "link_title": "",
+        "url": "https://inertiajs.com/shared-data#flash-messages"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Events",
+    "url": "https://inertiajs.com/events",
+    "link": "https://inertiajs.com/events",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Events",
+        "link_title": "",
+        "url": "https://inertiajs.com/events"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Registering listeners",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#registering-listeners"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Removing listeners",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#removing-listeners"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Cancelling events",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#cancelling-events"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Before",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#before"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Start",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#start"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Progress",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#progress"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Success",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#success"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Error",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#error"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Invalid",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#invalid"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Exception",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#exception"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Finish",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#finish"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Navigate",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#navigate"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Events",
+        "section_title": "Event callbacks",
+        "link_title": "",
+        "url": "https://inertiajs.com/events#event-callbacks"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Testing",
+    "url": "https://inertiajs.com/testing",
+    "link": "https://inertiajs.com/testing",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Testing",
+        "section_title": "Testing",
+        "link_title": "",
+        "url": "https://inertiajs.com/testing"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Testing",
+        "section_title": "End-to-end tests",
+        "link_title": "",
+        "url": "https://inertiajs.com/testing#end-to-end-tests"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Testing",
+        "section_title": "Client-side unit tests",
+        "link_title": "",
+        "url": "https://inertiajs.com/testing#client-side-unit-tests"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Testing",
+        "section_title": "Endpoint tests",
+        "link_title": "",
+        "url": "https://inertiajs.com/testing#endpoint-tests"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Partial reloads",
+    "url": "https://inertiajs.com/partial-reloads",
+    "link": "https://inertiajs.com/partial-reloads",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Partial reloads",
+        "section_title": "Partial reloads",
+        "link_title": "",
+        "url": "https://inertiajs.com/partial-reloads"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Partial reloads",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/partial-reloads#top"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Partial reloads",
+        "section_title": "Making partial visits",
+        "link_title": "",
+        "url": "https://inertiajs.com/partial-reloads#making-partial-visits"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Partial reloads",
+        "section_title": "Lazy data evaluation",
+        "link_title": "",
+        "url": "https://inertiajs.com/partial-reloads#lazy-data-evaluation"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Scroll management",
+    "url": "https://inertiajs.com/scroll-management",
+    "link": "https://inertiajs.com/scroll-management",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Scroll management",
+        "section_title": "Scroll management",
+        "link_title": "",
+        "url": "https://inertiajs.com/scroll-management"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Scroll management",
+        "section_title": "Scroll resetting",
+        "link_title": "",
+        "url": "https://inertiajs.com/scroll-management#scroll-resetting"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Scroll management",
+        "section_title": "Scroll preservation",
+        "link_title": "",
+        "url": "https://inertiajs.com/scroll-management#scroll-preservation"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Scroll management",
+        "section_title": "Scroll regions",
+        "link_title": "",
+        "url": "https://inertiajs.com/scroll-management#scroll-regions"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Authentication",
+    "url": "https://inertiajs.com/authentication",
+    "link": "https://inertiajs.com/authentication",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Authentication",
+        "section_title": "Authentication",
+        "link_title": "",
+        "url": "https://inertiajs.com/authentication"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Authorization",
+    "url": "https://inertiajs.com/authorization",
+    "link": "https://inertiajs.com/authorization",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Authorization",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://inertiajs.com/authorization"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "CSRF protection",
+    "url": "https://inertiajs.com/csrf-protection",
+    "link": "https://inertiajs.com/csrf-protection",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "CSRF protection",
+        "section_title": "CSRF protection",
+        "link_title": "",
+        "url": "https://inertiajs.com/csrf-protection"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSRF protection",
+        "section_title": "Making requests",
+        "link_title": "",
+        "url": "https://inertiajs.com/csrf-protection#making-requests"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSRF protection",
+        "section_title": "Handling mismatches",
+        "link_title": "",
+        "url": "https://inertiajs.com/csrf-protection#handling-mismatches"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Error handling",
+    "url": "https://inertiajs.com/error-handling",
+    "link": "https://inertiajs.com/error-handling",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Error handling",
+        "section_title": "Error handling",
+        "link_title": "",
+        "url": "https://inertiajs.com/error-handling"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Error handling",
+        "section_title": "Development",
+        "link_title": "",
+        "url": "https://inertiajs.com/error-handling#development"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Error handling",
+        "section_title": "Production",
+        "link_title": "",
+        "url": "https://inertiajs.com/error-handling#production"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Asset versioning",
+    "url": "https://inertiajs.com/asset-versioning",
+    "link": "https://inertiajs.com/asset-versioning",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Asset versioning",
+        "section_title": "Asset versioning",
+        "link_title": "",
+        "url": "https://inertiajs.com/asset-versioning"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Asset versioning",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/asset-versioning#introduction"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Asset versioning",
+        "section_title": "Configuration",
+        "link_title": "",
+        "url": "https://inertiajs.com/asset-versioning#configuration"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Asset versioning",
+        "section_title": "Cache busting",
+        "link_title": "",
+        "url": "https://inertiajs.com/asset-versioning#cache-busting"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Progress indicators",
+    "url": "https://inertiajs.com/progress-indicators",
+    "link": "https://inertiajs.com/progress-indicators",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Progress indicators",
+        "section_title": "Progress indicators",
+        "link_title": "",
+        "url": "https://inertiajs.com/progress-indicators"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Progress indicators",
+        "section_title": "Default",
+        "link_title": "",
+        "url": "https://inertiajs.com/progress-indicators#default"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Progress indicators",
+        "section_title": "Custom",
+        "link_title": "",
+        "url": "https://inertiajs.com/progress-indicators#custom"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Remembering state",
+    "url": "https://inertiajs.com/remembering-state",
+    "link": "https://inertiajs.com/remembering-state",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Remembering state",
+        "section_title": "Remembering state",
+        "link_title": "",
+        "url": "https://inertiajs.com/remembering-state"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Remembering state",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://inertiajs.com/remembering-state#top"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Remembering state",
+        "section_title": "Saving local state",
+        "link_title": "",
+        "url": "https://inertiajs.com/remembering-state#saving-local-state"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Remembering state",
+        "section_title": "Multiple components",
+        "link_title": "",
+        "url": "https://inertiajs.com/remembering-state#multiple-components"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Remembering state",
+        "section_title": "Form helper",
+        "link_title": "",
+        "url": "https://inertiajs.com/remembering-state#form-helper"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Remembering state",
+        "section_title": "Manually saving state",
+        "link_title": "",
+        "url": "https://inertiajs.com/remembering-state#manually-saving-state"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Server-side rendering",
+    "url": "https://inertiajs.com/server-side-rendering",
+    "link": "https://inertiajs.com/server-side-rendering",
+    "pageLinks": [
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Server-side Rendering (SSR)",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Laravel starter kits",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#laravel-starter-kits"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Install dependencies",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#install-dependencies"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Add server entry-point",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#add-server-entry-point"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Setup Vite",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#setup-vite-js"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Update npm script",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#update-npm-script"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Running the SSR server",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#running-the-ssr-server"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Client side hydration",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#client-side-hydration"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Server-side Rendering (SSR)",
+        "section_title": "Deployment",
+        "link_title": "",
+        "url": "https://inertiajs.com/server-side-rendering#deployment"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-family: 'Bakbak One', display;
+}
+
+.icon-bg {
+    background-image: url('http://laradocs.test/img/faded-icons-bg.png');
+    background-repeat: repeat-x;
+}

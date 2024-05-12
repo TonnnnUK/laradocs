@@ -1,0 +1,2459 @@
+[
+  {
+    "topic": "Start Here",
+    "pageTitle": "Start Here",
+    "url": "https://alpinejs.dev/start-here",
+    "link": "https://alpinejs.dev/start-here",
+    "pageLinks": [
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Start Here",
+        "link_title": "",
+        "url": "https://alpinejs.dev/start-here"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a counter",
+        "link_title": "",
+        "url": "https://alpinejs.dev/start-here#building-a-counter"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a counter",
+        "link_title": "Declaring data",
+        "url": "https://alpinejs.dev/start-here#declaring-data"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a counter",
+        "link_title": "Listening for events",
+        "url": "https://alpinejs.dev/start-here#listening-for-events"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a counter",
+        "link_title": "Reacting to changes",
+        "url": "https://alpinejs.dev/start-here#reacting-to-changes"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a dropdown",
+        "link_title": "",
+        "url": "https://alpinejs.dev/start-here#building-a-dropdown"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a dropdown",
+        "link_title": "Toggling elements",
+        "url": "https://alpinejs.dev/start-here#toggling-elements"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a dropdown",
+        "link_title": "Listening for a click outside",
+        "url": "https://alpinejs.dev/start-here#listening-for-a-click-outside"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a search input",
+        "link_title": "",
+        "url": "https://alpinejs.dev/start-here#building-a-search-input"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a search input",
+        "link_title": "Multi line formatting",
+        "url": "https://alpinejs.dev/start-here#multi-line-formatting"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a search input",
+        "link_title": "Binding to inputs",
+        "url": "https://alpinejs.dev/start-here#binding-to-inputs"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a search input",
+        "link_title": "Computed properties using getters",
+        "url": "https://alpinejs.dev/start-here#computed-properties-using-getters"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Building a search input",
+        "link_title": "Looping elements",
+        "url": "https://alpinejs.dev/start-here#looping-elements"
+      },
+      {
+        "topic": "Start Here",
+        "page_title": "Start Here",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://alpinejs.dev/start-here#recap"
+      }
+    ]
+  },
+  {
+    "topic": "Upgrade From V2",
+    "pageTitle": "Upgrade From V2",
+    "url": "https://alpinejs.dev/upgrade-guide",
+    "link": "https://alpinejs.dev/upgrade-guide",
+    "pageLinks": [
+      {
+        "topic": "Upgrade from V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Upgrade from V2",
+        "link_title": "",
+        "url": "https://alpinejs.dev/upgrade-guide"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "",
+        "url": "https://alpinejs.dev/upgrade-guide#breaking-changes"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "$el is now always the current element",
+        "url": "https://alpinejs.dev/upgrade-guide#el-no-longer-root"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "Automatically evaluate init() functions defined on data object",
+        "url": "https://alpinejs.dev/upgrade-guide#auto-init"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "Need to call Alpine.start() after import",
+        "url": "https://alpinejs.dev/upgrade-guide#need-to-call-alpine-start"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "x-show.transition is now x-transition",
+        "url": "https://alpinejs.dev/upgrade-guide#removed-show-dot-transition"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "x-if no longer supports x-transition",
+        "url": "https://alpinejs.dev/upgrade-guide#x-if-no-transitions"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "x-data cascading scope",
+        "url": "https://alpinejs.dev/upgrade-guide#x-data-scope"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "x-init no longer accepts a callback return",
+        "url": "https://alpinejs.dev/upgrade-guide#x-init-no-callback"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "Returning false from event handlers no longer implicitly \"preventDefault\"s",
+        "url": "https://alpinejs.dev/upgrade-guide#no-false-return-from-event-handlers"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "x-spread is now x-bind",
+        "url": "https://alpinejs.dev/upgrade-guide#x-spread-now-x-bind"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "Use global lifecycle events instead of Alpine.deferLoadingAlpine()",
+        "url": "https://alpinejs.dev/upgrade-guide#use-global-events-now"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "x-ref no longer supports binding",
+        "url": "https://alpinejs.dev/upgrade-guide#x-ref-no-more-dynamic"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Breaking Changes",
+        "link_title": "IE11 no longer supported",
+        "url": "https://alpinejs.dev/upgrade-guide#no-ie-11"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Deprecated APIs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/upgrade-guide#deprecated-apis"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Deprecated APIs",
+        "link_title": "Event listener modifier .away should be replaced with .outside",
+        "url": "https://alpinejs.dev/upgrade-guide#away-replace-with-outside"
+      },
+      {
+        "topic": "Upgrade From V2",
+        "page_title": "Upgrade from V2",
+        "section_title": "Deprecated APIs",
+        "link_title": "Prefer Alpine.data() to global Alpine function data providers",
+        "url": "https://alpinejs.dev/upgrade-guide#alpine-data-instead-of-global-functions"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Installation",
+    "url": "https://alpinejs.dev/essentials/installation",
+    "link": "https://alpinejs.dev/essentials/installation",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/installation"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Installation",
+        "section_title": "From a script tag",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/installation#from-a-script-tag"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Installation",
+        "section_title": "As a module",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/installation#as-a-module"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "State",
+    "url": "https://alpinejs.dev/essentials/state",
+    "link": "https://alpinejs.dev/essentials/state",
+    "pageLinks": [
+      {
+        "topic": "State",
+        "page_title": "State",
+        "section_title": "State",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/state"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "State",
+        "section_title": "Local state",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/state#local-state-x-data"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "State",
+        "section_title": "Local state",
+        "link_title": "Nesting data",
+        "url": "https://alpinejs.dev/essentials/state#nesting-data"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "State",
+        "section_title": "Local state",
+        "link_title": "Single-element data",
+        "url": "https://alpinejs.dev/essentials/state#single-element-data"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "State",
+        "section_title": "Local state",
+        "link_title": "Data-less Alpine",
+        "url": "https://alpinejs.dev/essentials/state#data-less-alpine"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "State",
+        "section_title": "Local state",
+        "link_title": "Re-usable data",
+        "url": "https://alpinejs.dev/essentials/state#re-usable-data"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "State",
+        "section_title": "Global state",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/state#global-state"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Templating",
+    "url": "https://alpinejs.dev/essentials/templating",
+    "link": "https://alpinejs.dev/essentials/templating",
+    "pageLinks": [
+      {
+        "topic": "Templating",
+        "page_title": "Templating",
+        "section_title": "Templating",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Text content",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating#text-content"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Toggling elements",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating#toggling-elements"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Toggling elements",
+        "link_title": "x-show",
+        "url": "https://alpinejs.dev/essentials/templating#x-show"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Toggling elements",
+        "link_title": "x-if",
+        "url": "https://alpinejs.dev/essentials/templating#x-if"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Toggling with transitions",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating#toggling-with-transitions"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Toggling with transitions",
+        "link_title": "Transition helpers",
+        "url": "https://alpinejs.dev/essentials/templating#transition-helpers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Toggling with transitions",
+        "link_title": "Transition classes",
+        "url": "https://alpinejs.dev/essentials/templating#transition-classes"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Binding attributes",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating#binding-attributes"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Looping elements",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating#looping-elements"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Templating",
+        "section_title": "Inner HTML",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/templating#inner-html"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Events",
+    "url": "https://alpinejs.dev/essentials/events",
+    "link": "https://alpinejs.dev/essentials/events",
+    "pageLinks": [
+      {
+        "topic": "Events",
+        "page_title": "Events",
+        "section_title": "Events",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Events",
+        "section_title": "Listening for simple events",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events#listening-for-simple-events"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Events",
+        "section_title": "Listening for specific keys",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events#listening-for-specific-keys"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Events",
+        "section_title": "Preventing default",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events#preventing-default"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Events",
+        "section_title": "Accessing the event object",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events#accessing-the-event-object"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Events",
+        "section_title": "Dispatching custom events",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events#dispatching-custom-events"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Events",
+        "section_title": "Listening for events on window",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/events#listening-for-events-on-window"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Lifecycle",
+    "url": "https://alpinejs.dev/essentials/lifecycle",
+    "link": "https://alpinejs.dev/essentials/lifecycle",
+    "pageLinks": [
+      {
+        "topic": "Lifecycle",
+        "page_title": "Lifecycle",
+        "section_title": "Lifecycle",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/lifecycle"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "Element initialization",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/lifecycle#element-initialization"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "After a state change",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/lifecycle#after-a-state-change"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "After a state change",
+        "link_title": "$watch",
+        "url": "https://alpinejs.dev/essentials/lifecycle#watch"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "After a state change",
+        "link_title": "x-effect",
+        "url": "https://alpinejs.dev/essentials/lifecycle#x-effect"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "Alpine initialization",
+        "link_title": "",
+        "url": "https://alpinejs.dev/essentials/lifecycle#alpine-initialization"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "Alpine initialization",
+        "link_title": "alpine:init",
+        "url": "https://alpinejs.dev/essentials/lifecycle#alpine-initializing"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle",
+        "section_title": "Alpine initialization",
+        "link_title": "alpine:initialized",
+        "url": "https://alpinejs.dev/essentials/lifecycle#alpine-initialized"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-data",
+    "url": "https://alpinejs.dev/directives/data",
+    "link": "https://alpinejs.dev/directives/data",
+    "pageLinks": [
+      {
+        "topic": "x-data",
+        "page_title": "x-data",
+        "section_title": "x-data",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-data",
+        "section_title": "Scope",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data#scope"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-data",
+        "section_title": "Methods",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data#methods"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-data",
+        "section_title": "Getters",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data#getters"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-data",
+        "section_title": "Data-less components",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data#data-less-components"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-data",
+        "section_title": "Single-element components",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data#single-element-components"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-data",
+        "section_title": "Re-usable Data",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/data#re-usable-data"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-init",
+    "url": "https://alpinejs.dev/directives/init",
+    "link": "https://alpinejs.dev/directives/init",
+    "pageLinks": [
+      {
+        "topic": "x-init",
+        "page_title": "x-init",
+        "section_title": "x-init",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/init"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-init",
+        "section_title": "$nextTick",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/init#next-tick"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-init",
+        "section_title": "Standalone x-init",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/init#standalone-x-init"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-init",
+        "section_title": "Auto-evaluate init() method",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/init#auto-evaluate-init-method"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-show",
+    "url": "https://alpinejs.dev/directives/show",
+    "link": "https://alpinejs.dev/directives/show",
+    "pageLinks": [
+      {
+        "topic": "x-show",
+        "page_title": "x-show",
+        "section_title": "x-show",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/show"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-show",
+        "section_title": "With transitions",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/show#with-transitions"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-show",
+        "section_title": "Using the important modifier",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/show#using-the-important-modifier"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-bind",
+    "url": "https://alpinejs.dev/directives/bind",
+    "link": "https://alpinejs.dev/directives/bind",
+    "pageLinks": [
+      {
+        "topic": "x-bind",
+        "page_title": "x-bind",
+        "section_title": "x-bind",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/bind"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Shorthand syntax",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/bind#shorthand-syntax"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Binding classes",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/bind#binding-classes"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Binding classes",
+        "link_title": "Shorthand conditionals",
+        "url": "https://alpinejs.dev/directives/bind#shorthand-conditionals"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Binding classes",
+        "link_title": "Class object syntax",
+        "url": "https://alpinejs.dev/directives/bind#class-object-syntax"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Binding classes",
+        "link_title": "Special behavior",
+        "url": "https://alpinejs.dev/directives/bind#special-behavior"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Binding styles",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/bind#binding-styles"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-bind",
+        "section_title": "Binding Alpine Directives Directly",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/bind#bind-directives"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-on",
+    "url": "https://alpinejs.dev/directives/on",
+    "link": "https://alpinejs.dev/directives/on",
+    "pageLinks": [
+      {
+        "topic": "x-on",
+        "page_title": "x-on",
+        "section_title": "x-on",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/on"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Shorthand syntax",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/on#shorthand-syntax"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "The event object",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/on#the-event-object"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Keyboard events",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/on#keyboard-events"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Custom events",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/on#custom-events"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/on#modifiers"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".prevent",
+        "url": "https://alpinejs.dev/directives/on#prevent"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".stop",
+        "url": "https://alpinejs.dev/directives/on#stop"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".outside",
+        "url": "https://alpinejs.dev/directives/on#outside"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".window",
+        "url": "https://alpinejs.dev/directives/on#window"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".document",
+        "url": "https://alpinejs.dev/directives/on#document"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".once",
+        "url": "https://alpinejs.dev/directives/on#once"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".debounce",
+        "url": "https://alpinejs.dev/directives/on#debounce"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".throttle",
+        "url": "https://alpinejs.dev/directives/on#throttle"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".self",
+        "url": "https://alpinejs.dev/directives/on#self"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".camel",
+        "url": "https://alpinejs.dev/directives/on#camel"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".dot",
+        "url": "https://alpinejs.dev/directives/on#dot"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".passive",
+        "url": "https://alpinejs.dev/directives/on#passive"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-on",
+        "section_title": "Modifiers",
+        "link_title": ".capture",
+        "url": "https://alpinejs.dev/directives/on#.capture"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-text",
+    "url": "https://alpinejs.dev/directives/text",
+    "link": "https://alpinejs.dev/directives/text",
+    "pageLinks": [
+      {
+        "topic": "x-text",
+        "page_title": "x-text",
+        "section_title": "x-text",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/text"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-html",
+    "url": "https://alpinejs.dev/directives/html",
+    "link": "https://alpinejs.dev/directives/html",
+    "pageLinks": [
+      {
+        "topic": "x-html",
+        "page_title": "x-html",
+        "section_title": "x-html",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/html"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-model",
+    "url": "https://alpinejs.dev/directives/model",
+    "link": "https://alpinejs.dev/directives/model",
+    "pageLinks": [
+      {
+        "topic": "x-model",
+        "page_title": "x-model",
+        "section_title": "x-model",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Text inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#text-inputs"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Textarea inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#textarea-inputs"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Checkbox inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#checkbox-inputs"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Checkbox inputs",
+        "link_title": "Single checkbox with boolean",
+        "url": "https://alpinejs.dev/directives/model#single-checkbox-with-boolean"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Checkbox inputs",
+        "link_title": "Multiple checkboxes bound to array",
+        "url": "https://alpinejs.dev/directives/model#multiple-checkboxes-bound-to-array"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Radio inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#radio-inputs"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Select inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#select-inputs"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Select inputs",
+        "link_title": "Single select",
+        "url": "https://alpinejs.dev/directives/model#single-select"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Select inputs",
+        "link_title": "Single select with placeholder",
+        "url": "https://alpinejs.dev/directives/model#single-select-with-placeholder"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Select inputs",
+        "link_title": "Multiple select",
+        "url": "https://alpinejs.dev/directives/model#multiple-select"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Select inputs",
+        "link_title": "Dynamically populated Select Options",
+        "url": "https://alpinejs.dev/directives/model#dynamically-populated-select-options"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Range inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#range-inputs"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#modifiers"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": ".lazy",
+        "url": "https://alpinejs.dev/directives/model#lazy"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": ".number",
+        "url": "https://alpinejs.dev/directives/model#number"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": ".boolean",
+        "url": "https://alpinejs.dev/directives/model#boolean"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": ".debounce",
+        "url": "https://alpinejs.dev/directives/model#debounce"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": ".throttle",
+        "url": "https://alpinejs.dev/directives/model#throttle"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Modifiers",
+        "link_title": ".fill",
+        "url": "https://alpinejs.dev/directives/model#fill"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-model",
+        "section_title": "Programmatic access",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/model#programmatic%20access"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-modelable",
+    "url": "https://alpinejs.dev/directives/modelable",
+    "link": "https://alpinejs.dev/directives/modelable",
+    "pageLinks": [
+      {
+        "topic": "x-modelable",
+        "page_title": "x-modelable",
+        "section_title": "x-modelable",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/modelable"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-for",
+    "url": "https://alpinejs.dev/directives/for",
+    "link": "https://alpinejs.dev/directives/for",
+    "pageLinks": [
+      {
+        "topic": "x-for",
+        "page_title": "x-for",
+        "section_title": "x-for",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/for"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-for",
+        "section_title": "Keys",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/for#keys"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-for",
+        "section_title": "Accessing indexes",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/for#accessing-indexes"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-for",
+        "section_title": "Iterating over a range",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/for#iterating-over-a-range"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-for",
+        "section_title": "Contents of a <template>",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/for#contents-of-a-template"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-transition",
+    "url": "https://alpinejs.dev/directives/transition",
+    "link": "https://alpinejs.dev/directives/transition",
+    "pageLinks": [
+      {
+        "topic": "x-transition",
+        "page_title": "x-transition",
+        "section_title": "x-transition",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/transition"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-transition",
+        "section_title": "The transition helper",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/transition#the-transition-helper"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-transition",
+        "section_title": "The transition helper",
+        "link_title": "Customizing duration",
+        "url": "https://alpinejs.dev/directives/transition#customizing-duration"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-transition",
+        "section_title": "The transition helper",
+        "link_title": "Customizing delay",
+        "url": "https://alpinejs.dev/directives/transition#customizing-delay"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-transition",
+        "section_title": "The transition helper",
+        "link_title": "Customizing opacity",
+        "url": "https://alpinejs.dev/directives/transition#customizing-opacity"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-transition",
+        "section_title": "The transition helper",
+        "link_title": "Customizing scale",
+        "url": "https://alpinejs.dev/directives/transition#customizing-scale"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-transition",
+        "section_title": "Applying CSS classes",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/transition#applying-css-classes"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-effect",
+    "url": "https://alpinejs.dev/directives/effect",
+    "link": "https://alpinejs.dev/directives/effect",
+    "pageLinks": [
+      {
+        "topic": "x-effect",
+        "page_title": "x-effect",
+        "section_title": "x-effect",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/effect"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-ignore",
+    "url": "https://alpinejs.dev/directives/ignore",
+    "link": "https://alpinejs.dev/directives/ignore",
+    "pageLinks": [
+      {
+        "topic": "x-ignore",
+        "page_title": "x-ignore",
+        "section_title": "x-ignore",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/ignore"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-ref",
+    "url": "https://alpinejs.dev/directives/ref",
+    "link": "https://alpinejs.dev/directives/ref",
+    "pageLinks": [
+      {
+        "topic": "x-ref",
+        "page_title": "x-ref",
+        "section_title": "x-ref",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/ref"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-cloak",
+    "url": "https://alpinejs.dev/directives/cloak",
+    "link": "https://alpinejs.dev/directives/cloak",
+    "pageLinks": [
+      {
+        "topic": "x-cloak",
+        "page_title": "x-cloak",
+        "section_title": "x-cloak",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/cloak"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-cloak",
+        "section_title": "Alternative to global syntax",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/cloak#alternative-to-global-syntax"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-teleport",
+    "url": "https://alpinejs.dev/directives/teleport",
+    "link": "https://alpinejs.dev/directives/teleport",
+    "pageLinks": [
+      {
+        "topic": "x-teleport",
+        "page_title": "x-teleport",
+        "section_title": "x-teleport",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/teleport"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-teleport",
+        "section_title": "x-teleport",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/teleport#x-teleport"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-teleport",
+        "section_title": "Forwarding events",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/teleport#forwarding-events"
+      },
+      {
+        "topic": "Directives",
+        "page_title": "x-teleport",
+        "section_title": "Nesting",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/teleport#nesting"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-if",
+    "url": "https://alpinejs.dev/directives/if",
+    "link": "https://alpinejs.dev/directives/if",
+    "pageLinks": [
+      {
+        "topic": "x-if",
+        "page_title": "x-if",
+        "section_title": "x-if",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/if"
+      }
+    ]
+  },
+  {
+    "topic": "Directives",
+    "pageTitle": "x-id",
+    "url": "https://alpinejs.dev/directives/id",
+    "link": "https://alpinejs.dev/directives/id",
+    "pageLinks": [
+      {
+        "topic": "x-id",
+        "page_title": "x-id",
+        "section_title": "x-id",
+        "link_title": "",
+        "url": "https://alpinejs.dev/directives/id"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$el",
+    "url": "https://alpinejs.dev/magics/el",
+    "link": "https://alpinejs.dev/magics/el",
+    "pageLinks": [
+      {
+        "topic": "$el",
+        "page_title": "$el",
+        "section_title": "$el",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/el"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$refs",
+    "url": "https://alpinejs.dev/magics/refs",
+    "link": "https://alpinejs.dev/magics/refs",
+    "pageLinks": [
+      {
+        "topic": "$refs",
+        "page_title": "$refs",
+        "section_title": "$refs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/refs"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$refs",
+        "section_title": "",
+        "link_title": "Limitations",
+        "url": "https://alpinejs.dev/magics/refs#limitations"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$store",
+    "url": "https://alpinejs.dev/magics/store",
+    "link": "https://alpinejs.dev/magics/store",
+    "pageLinks": [
+      {
+        "topic": "$store",
+        "page_title": "$store",
+        "section_title": "$store",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/store"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$store",
+        "section_title": "Single-value stores",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/store#single-value-stores"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$watch",
+    "url": "https://alpinejs.dev/magics/watch",
+    "link": "https://alpinejs.dev/magics/watch",
+    "pageLinks": [
+      {
+        "topic": "$watch",
+        "page_title": "$watch",
+        "section_title": "$watch",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/watch"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$watch",
+        "section_title": "",
+        "link_title": "Getting the \"old\" value",
+        "url": "https://alpinejs.dev/magics/watch#getting-the-old-value"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$watch",
+        "section_title": "",
+        "link_title": "Deep watching",
+        "url": "https://alpinejs.dev/magics/watch#deep-watching"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$dispatch",
+    "url": "https://alpinejs.dev/magics/dispatch",
+    "link": "https://alpinejs.dev/magics/dispatch",
+    "pageLinks": [
+      {
+        "topic": "$dispatch",
+        "page_title": "$dispatch",
+        "section_title": "$dispatch",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/dispatch"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$dispatch",
+        "section_title": "Dispatching to other components",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/dispatch#dispatching-to-components"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$dispatch",
+        "section_title": "Dispatching to x-model",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/dispatch#dispatching-to-x-model"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$nextTick",
+    "url": "https://alpinejs.dev/magics/nextTick",
+    "link": "https://alpinejs.dev/magics/nextTick",
+    "pageLinks": [
+      {
+        "topic": "$nextTick",
+        "page_title": "$nextTick",
+        "section_title": "$nextTick",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/nextTick"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$nextTick",
+        "section_title": "Promises",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/nextTick#promises"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$root",
+    "url": "https://alpinejs.dev/magics/root",
+    "link": "https://alpinejs.dev/magics/root",
+    "pageLinks": [
+      {
+        "topic": "$root",
+        "page_title": "$root",
+        "section_title": "$root",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/root"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$data",
+    "url": "https://alpinejs.dev/magics/data",
+    "link": "https://alpinejs.dev/magics/data",
+    "pageLinks": [
+      {
+        "topic": "$data",
+        "page_title": "$data",
+        "section_title": "$data",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/data"
+      }
+    ]
+  },
+  {
+    "topic": "Magics",
+    "pageTitle": "$id",
+    "url": "https://alpinejs.dev/magics/id",
+    "link": "https://alpinejs.dev/magics/id",
+    "pageLinks": [
+      {
+        "topic": "$id",
+        "page_title": "$id",
+        "section_title": "$id",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/id"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$id",
+        "section_title": "Basic usage",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/id#basic-usage"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$id",
+        "section_title": "Grouping with x-id",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/id#groups-with-x-id"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$id",
+        "section_title": "Nesting",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/id#nesting"
+      },
+      {
+        "topic": "Magics",
+        "page_title": "$id",
+        "section_title": "Keyed IDs (For Looping)",
+        "link_title": "",
+        "url": "https://alpinejs.dev/magics/id#keyed-ids"
+      }
+    ]
+  },
+  {
+    "topic": "Globals",
+    "pageTitle": "Alpine.data()",
+    "url": "https://alpinejs.dev/globals/alpine-data",
+    "link": "https://alpinejs.dev/globals/alpine-data",
+    "pageLinks": [
+      {
+        "topic": "Alpine.data",
+        "page_title": "Alpine.data",
+        "section_title": "Alpine.data",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.data",
+        "section_title": "Registering from a bundle",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data#registering-from-a-bundle"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.data",
+        "section_title": "Initial parameters",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data#initial-parameters"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.data",
+        "section_title": "Init functions",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data#init-functions"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.data",
+        "section_title": "Destroy functions",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data#destroy-functions"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.data",
+        "section_title": "Using magic properties",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data#using-magic-properties"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.data",
+        "section_title": "Encapsulating directives with x-bind",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-data#encapsulating-directives-with-x-bind"
+      }
+    ]
+  },
+  {
+    "topic": "Globals",
+    "pageTitle": "Alpine.store()",
+    "url": "https://alpinejs.dev/globals/alpine-store",
+    "link": "https://alpinejs.dev/globals/alpine-store",
+    "pageLinks": [
+      {
+        "topic": "Alpine.store",
+        "page_title": "Alpine.store",
+        "section_title": "Alpine.store",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-store"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.store",
+        "section_title": "Registering A Store",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-store#registering-a-store"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.store",
+        "section_title": "Accessing stores",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-store#accessing%20stores"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.store",
+        "section_title": "Initializing stores",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-store#initializing-stores"
+      },
+      {
+        "topic": "Globals",
+        "page_title": "Alpine.store",
+        "section_title": "Single-value stores",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-store#single-value-stores"
+      }
+    ]
+  },
+  {
+    "topic": "Globals",
+    "pageTitle": "Alpine.bind()",
+    "url": "https://alpinejs.dev/globals/alpine-bind",
+    "link": "https://alpinejs.dev/globals/alpine-bind",
+    "pageLinks": [
+      {
+        "topic": "Alpine.bind",
+        "page_title": "Alpine.bind",
+        "section_title": "Alpine.bind",
+        "link_title": "",
+        "url": "https://alpinejs.dev/globals/alpine-bind"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Mask",
+    "url": "https://alpinejs.dev/plugins/mask",
+    "link": "https://alpinejs.dev/plugins/mask",
+    "pageLinks": [
+      {
+        "topic": "Mask Plugin",
+        "page_title": "Mask Plugin",
+        "section_title": "Mask Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/mask"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Mask Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/mask#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Mask Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/mask#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Mask Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/mask#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Mask Plugin",
+        "section_title": "x-mask",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/mask#x-mask"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Mask Plugin",
+        "section_title": "Dynamic Masks",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/mask#mask-functions"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Mask Plugin",
+        "section_title": "Money Inputs",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/mask#money-inputs"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Intersect",
+    "url": "https://alpinejs.dev/plugins/intersect",
+    "link": "https://alpinejs.dev/plugins/intersect",
+    "pageLinks": [
+      {
+        "topic": "Intersect Plugin",
+        "page_title": "Intersect Plugin",
+        "section_title": "Intersect Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/intersect"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/intersect#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/intersect#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/intersect#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "x-intersect",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/intersect#x-intersect"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "x-intersect",
+        "link_title": "x-intersect:enter",
+        "url": "https://alpinejs.dev/plugins/intersect#x-intersect-enter"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "x-intersect",
+        "link_title": "x-intersect:leave",
+        "url": "https://alpinejs.dev/plugins/intersect#x-intersect-leave"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Modifiers",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/intersect#modifiers"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".once",
+        "url": "https://alpinejs.dev/plugins/intersect#once"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".half",
+        "url": "https://alpinejs.dev/plugins/intersect#half"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".full",
+        "url": "https://alpinejs.dev/plugins/intersect#full"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".threshold",
+        "url": "https://alpinejs.dev/plugins/intersect#threshold"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Intersect Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".margin",
+        "url": "https://alpinejs.dev/plugins/intersect#margin"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Persist",
+    "url": "https://alpinejs.dev/plugins/persist",
+    "link": "https://alpinejs.dev/plugins/persist",
+    "pageLinks": [
+      {
+        "topic": "Persist Plugin",
+        "page_title": "Persist Plugin",
+        "section_title": "Persist Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/persist#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/persist#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "$persist",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#magic-persist"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "How does it work?",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#how-it-works"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Setting a custom key",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#custom-key"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Using a custom storage",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#custom-storage"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Using $persist with Alpine.data",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#using-persist-with-alpine-data"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Persist Plugin",
+        "section_title": "Using the Alpine.$persist global",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/persist#using-alpine-persist-global"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Focus",
+    "url": "https://alpinejs.dev/plugins/focus",
+    "link": "https://alpinejs.dev/plugins/focus",
+    "pageLinks": [
+      {
+        "topic": "Focus Plugin",
+        "page_title": "Focus Plugin",
+        "section_title": "Focus Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/focus#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/focus#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "x-trap",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#x-trap"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "x-trap",
+        "link_title": "Nesting dialogs",
+        "url": "https://alpinejs.dev/plugins/focus#nesting"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "x-trap",
+        "link_title": "Modifiers",
+        "url": "https://alpinejs.dev/plugins/focus#modifiers"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": ".inert",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#inert"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": ".noscroll",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#noscroll"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": ".noreturn",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#noreturn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": ".noautofocus",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#noautofocus"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Focus Plugin",
+        "section_title": "$focus",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/focus#focus-magic"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Collapse",
+    "url": "https://alpinejs.dev/plugins/collapse",
+    "link": "https://alpinejs.dev/plugins/collapse",
+    "pageLinks": [
+      {
+        "topic": "Collapse Plugin",
+        "page_title": "Collapse Plugin",
+        "section_title": "Collapse Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/collapse"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/collapse#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/collapse#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/collapse#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "x-collapse",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/collapse#x-collapse"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "Modifiers",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/collapse#modifiers"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".duration",
+        "url": "https://alpinejs.dev/plugins/collapse#dot-duration"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Collapse Plugin",
+        "section_title": "Modifiers",
+        "link_title": ".min",
+        "url": "https://alpinejs.dev/plugins/collapse#dot-min"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Anchor",
+    "url": "https://alpinejs.dev/plugins/anchor",
+    "link": "https://alpinejs.dev/plugins/anchor",
+    "pageLinks": [
+      {
+        "topic": "Anchor Plugin",
+        "page_title": "Anchor Plugin",
+        "section_title": "Anchor Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/anchor#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/anchor#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "x-anchor",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor#x-anchor"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Positioning",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor#positioning"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Offset",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor#offset"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Manual styling",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor#manual-styling"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Anchor Plugin",
+        "section_title": "Anchor to an ID",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/anchor#from-id"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Morph",
+    "url": "https://alpinejs.dev/plugins/morph",
+    "link": "https://alpinejs.dev/plugins/morph",
+    "pageLinks": [
+      {
+        "topic": "Morph Plugin",
+        "page_title": "Morph Plugin",
+        "section_title": "Morph Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/morph"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Morph Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/morph#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Morph Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/morph#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Morph Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/morph#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Morph Plugin",
+        "section_title": "Alpine.morph()",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/morph#alpine-morph"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Morph Plugin",
+        "section_title": "Alpine.morph()",
+        "link_title": "Lifecycle Hooks",
+        "url": "https://alpinejs.dev/plugins/morph#lifecycle-hooks"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Morph Plugin",
+        "section_title": "Alpine.morph()",
+        "link_title": "Keys",
+        "url": "https://alpinejs.dev/plugins/morph#keys"
+      }
+    ]
+  },
+  {
+    "topic": "Plugins",
+    "pageTitle": "Sort",
+    "url": "https://alpinejs.dev/plugins/sort",
+    "link": "https://alpinejs.dev/plugins/sort",
+    "pageLinks": [
+      {
+        "topic": "Sort Plugin",
+        "page_title": "Sort Plugin",
+        "section_title": "Sort Plugin",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#installation"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/plugins/sort#via-cdn"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/plugins/sort#via-npm"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Basic usage",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#basic-usage"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Sort handlers",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#sort-handlers"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Sorting groups",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#sorting-groups"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Drag handles",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#drag-handles"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Ghost elements",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#ghost-elements"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Ghost elements",
+        "link_title": "Styling the ghost element",
+        "url": "https://alpinejs.dev/plugins/sort#ghost-styling"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Sorting class on body",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#sorting-class"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "CSS hover bug",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#css-hover-bug"
+      },
+      {
+        "topic": "Plugins",
+        "page_title": "Sort Plugin",
+        "section_title": "Custom configuration",
+        "link_title": "",
+        "url": "https://alpinejs.dev/plugins/sort#custom-configuration"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "CSP",
+    "url": "https://alpinejs.dev/advanced/csp",
+    "link": "https://alpinejs.dev/advanced/csp",
+    "pageLinks": [
+      {
+        "topic": "CSP (Content-Security Policy) Build",
+        "page_title": "CSP (Content-Security Policy) Build",
+        "section_title": "CSP (Content-Security Policy) Build",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/csp"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSP (Content-Security Policy) Build",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/csp#installation"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSP (Content-Security Policy) Build",
+        "section_title": "Installation",
+        "link_title": "Via CDN",
+        "url": "https://alpinejs.dev/advanced/csp#via-cdn"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSP (Content-Security Policy) Build",
+        "section_title": "Installation",
+        "link_title": "Via NPM",
+        "url": "https://alpinejs.dev/advanced/csp#via-npm"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSP (Content-Security Policy) Build",
+        "section_title": "Basic Example",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/csp#basic-example"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "CSP (Content-Security Policy) Build",
+        "section_title": "API Restrictions",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/csp#api-restrictions"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Reactivity",
+    "url": "https://alpinejs.dev/advanced/reactivity",
+    "link": "https://alpinejs.dev/advanced/reactivity",
+    "pageLinks": [
+      {
+        "topic": "Reactivity",
+        "page_title": "Reactivity",
+        "section_title": "Reactivity",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/reactivity"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Reactivity",
+        "section_title": "Alpine.reactive()",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/reactivity#alpine-reactive"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Reactivity",
+        "section_title": "Alpine.effect()",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/reactivity#alpine-effect"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Extending",
+    "url": "https://alpinejs.dev/advanced/extending",
+    "link": "https://alpinejs.dev/advanced/extending",
+    "pageLinks": [
+      {
+        "topic": "Extending",
+        "page_title": "Extending",
+        "section_title": "Extending",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/extending"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Lifecycle concerns",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/extending#lifecycle-concerns"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Lifecycle concerns",
+        "link_title": "Via a script tag",
+        "url": "https://alpinejs.dev/advanced/extending#via-script-tag"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Lifecycle concerns",
+        "link_title": "Via an NPM module",
+        "url": "https://alpinejs.dev/advanced/extending#via-npm"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/extending#custom-directives"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "Method Signature",
+        "url": "https://alpinejs.dev/advanced/extending#method-signature"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "Simple Example",
+        "url": "https://alpinejs.dev/advanced/extending#simple-example"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "Evaluating expressions",
+        "url": "https://alpinejs.dev/advanced/extending#evaluating-expressions"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "Introducing reactivity",
+        "url": "https://alpinejs.dev/advanced/extending#introducing-reactivity"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "Cleaning Up",
+        "url": "https://alpinejs.dev/advanced/extending#cleaning-up"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom directives",
+        "link_title": "Custom order",
+        "url": "https://alpinejs.dev/advanced/extending#custom-order"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom magics",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/extending#custom-magics"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom magics",
+        "link_title": "Method Signature",
+        "url": "https://alpinejs.dev/advanced/extending#method-signature"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom magics",
+        "link_title": "Magic Properties",
+        "url": "https://alpinejs.dev/advanced/extending#magic-properties"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Custom magics",
+        "link_title": "Magic Functions",
+        "url": "https://alpinejs.dev/advanced/extending#magic-functions"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Writing and sharing plugins",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/extending#writing-and-sharing-plugins"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Writing and sharing plugins",
+        "link_title": "Script include",
+        "url": "https://alpinejs.dev/advanced/extending#script-include"
+      },
+      {
+        "topic": "Advanced",
+        "page_title": "Extending",
+        "section_title": "Writing and sharing plugins",
+        "link_title": "Bundle module",
+        "url": "https://alpinejs.dev/advanced/extending#bundle-module"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced",
+    "pageTitle": "Async",
+    "url": "https://alpinejs.dev/advanced/async",
+    "link": "https://alpinejs.dev/advanced/async",
+    "pageLinks": [
+      {
+        "topic": "Async",
+        "page_title": "Async",
+        "section_title": "Async",
+        "link_title": "",
+        "url": "https://alpinejs.dev/advanced/async"
+      }
+    ]
+  }
+]
