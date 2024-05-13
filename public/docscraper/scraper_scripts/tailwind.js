@@ -89,7 +89,7 @@ async function run(){
                     page_title: pageTitle,
                     section_title: node.querySelector('a').innerText.replace(/\n/g, ''),
                     link_title: '',
-                    url: link.url+node.querySelector('a').href,
+                    url: node.querySelector('a').href,
                 });
               } 
 
@@ -100,7 +100,7 @@ async function run(){
                     page_title: pageTitle,
                     section_title: lastSectionHeading,
                     link_title: node.querySelector('a').innerText,
-                    url: link.url+node.querySelector('a').href,
+                    url: node.querySelector('a').href,
                 });
               }
 
