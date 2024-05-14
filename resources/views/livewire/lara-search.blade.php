@@ -44,8 +44,8 @@
 
         <!-- results -->
         <div class="mt-4 flex flex-wrap">
-            <div wire:loading wire:target="updatedSearch" class="w-full flex justify-center my-2">
-                <span class="animate-ping absolute inline-flex h-3 w-3 rounded-full bg-sky-400 opacity-75"></span>
+            <div wire:loading class="w-full flex justify-center my-2">
+                <span class="animate-ping inline-flex h-3 w-3 rounded-full bg-sky-400 opacity-75"></span>
             </div>
 
             @if(count($results) > 0 &&  strlen($search) >= 4  )
