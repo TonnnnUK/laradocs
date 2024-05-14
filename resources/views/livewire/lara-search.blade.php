@@ -7,9 +7,9 @@
                 <label wire:key="{{$framework->id}}" wire:click="filterSearch()" class="flex flex-col justify-between items-center border-gray-300 border-r px-3 pb-1 cursor-pointer">
                     <div class="py-2 w-6 flex justify-center items-center grow">
                         @if( in_array( $framework->id, $filters ))
-                        <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="w-[95%]">
+                        <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%]">
                         @else
-                        <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="w-[95%] grayscale">
+                        <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%] grayscale">
                         @endif
                     </div>
                     <input class="w-3 h-3" type="checkbox" wire:model.live="filters" value="{{ intval($framework->id) }}" wire:key="{{$framework->id}}">

@@ -24,10 +24,11 @@
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
-        <link href="https://fonts.bunny.net/css?family=bakbak-one:400" rel="stylesheet" />
+        <link href="https://fonts.bunny.net/css?family=bakbak-one:400" rel="stylesheet preload" />
 
         <style>
             h1 {
+                font-display: optional;
                 font-family: 'Bakbak One', Arial, display;
             }
 
