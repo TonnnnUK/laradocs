@@ -7,10 +7,6 @@
 
     $searchWords = explode(' ', $search);
     $highlight = '';
-    
-    if($link['link_title'] == '') {
-        $link['link_title'] = $link['section_title'];
-    }
 
 @endphp
 
@@ -42,7 +38,7 @@
                         @endphp
                         {!! $highlightedTitle !!}
 
-                        @if( $title != 'topic_title' && $title != 'link_title' && $link['link_title'] != '' )
+                        @if( $title != 'topic_title' && $title != 'link_title')
                         <span class="mx-2">&raquo;</span>
                         @endif
                     </span>
