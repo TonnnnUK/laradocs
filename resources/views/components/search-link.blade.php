@@ -25,12 +25,13 @@
             <span class="font-bold">{{$link['framework']['name']}}</span>
         </div>
         
-        <div class="flex items-end">
+        <div class="flex items-center">
             <div class="flex flex-wrap items-center">
                 {{-- Iterate over each title element and highlight matching words --}}
-                @foreach(['topic_title', 'page_title', 'section_title', 'link_title'] as $title)
+                @php $types = ['topic_title', 'page_title', 'section_title', 'link_title']; @endphp
+                @foreach( $types as $title)
 
-                    <span class="@if($title == 'topic_title') w-full text-lg mb-1 @else w-auto @endif @if($title == 'link_title' && ($link['section_title'] == $link['link_title'])) text-xs @endif">
+                    <span class="@if($title == 'topic_title') w-full text-lg mb-1 @else w-auto @endif">
                         
                         @php
                             // Replace each word in the title with highlighted version
@@ -41,7 +42,7 @@
                         @endphp
                         {!! $highlightedTitle !!}
 
-                        @if( $title != 'topic_title' && $title != 'link_title' )
+                        @if( $title != 'topic_title' && $title != 'link_title' && $link['link_title'] != '' )
                         <span class="mx-2">&raquo;</span>
                         @endif
                     </span>
