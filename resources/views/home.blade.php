@@ -39,7 +39,7 @@
             <div class="mt-4 opacity-60 w-full flex flex-wrap">
                 <div class="w-full flex justify-center mb-4">
                     <div class="w-1/4 mb-4 flex justify-center items-center gap-2">
-                        <img width="20" height="20" class="inline w-8" src="/img/icons/laravel.svg" />  <img class="inline w-28" src="/img/logos/laravel-text.svg" />  
+                        <img width="20" height="20" class="inline w-8" src="/img/icons/laravel.svg" />  <img width="120" height="30" class="inline w-28" src="/img/logos/laravel-text.svg" />  
                     </div>
                     <div class="w-1/4 mb-4 flex justify-center items-center">
                         <img width="120" height="30" class="inline w-40" src="/img/logos/livewire.svg" />  

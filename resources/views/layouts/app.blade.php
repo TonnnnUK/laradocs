@@ -26,6 +26,18 @@
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=bakbak-one:400" rel="stylesheet" />
 
+        <style>
+            h1 {
+                font-family: 'Bakbak One', Arial, display;
+            }
+
+            .icon-bg {
+                background-image: url('http://laradocs.test/img/faded-icons-bg.png');
+                background-repeat: repeat-x;
+            }
+        </style>
+
+
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
