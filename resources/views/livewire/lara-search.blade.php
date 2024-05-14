@@ -94,22 +94,27 @@
             },
 
             async typeWriter(text) {
-                this.$refs.typewriter.innerHTML = '';
-                var i = 0; // Initialize i to 1
-                var txt = text;
-                var speed = 50; /* The speed/duration of the effect in milliseconds */
-                while (i <= txt.length) { 
-                    this.$refs.typewriter.innerHTML += txt.charAt(i - 1); // Adjust index to i - 1
-                    i++;
-                    await this.sleep(speed);
+                if(this.$refs.typewriter){
+                    this.$refs.typewriter.innerHTML = '';
+                    var i = 0; // Initialize i to 1
+                    var txt = text;
+                    var speed = 50; /* The speed/duration of the effect in milliseconds */
+                    while (i <= txt.length) { 
+                        this.$refs.typewriter.innerHTML += txt.charAt(i - 1); // Adjust index to i - 1
+                        i++;
+                        await this.sleep(speed);
+                    }
                 }
+            
             },
 
 
             hideTypewriter(){
-                this.$refs.typewriter.style.left = '-2000px';
-                this.focusSearch();
-                this.addPlaceholder();
+                if(this.$refs.typewriter){
+                    this.$refs.typewriter.remove();
+                    this.focusSearch();
+                    this.addPlaceholder();
+                }
             },
 
             focusSearch(){
