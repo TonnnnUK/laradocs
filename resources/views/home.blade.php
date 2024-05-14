@@ -39,10 +39,10 @@
             <div class="mt-4 opacity-60 w-full flex flex-wrap">
                 <div class="w-full flex justify-center mb-4">
                     <div class="w-1/4 mb-4 flex justify-center items-center gap-2">
-                        <img class="inline w-8" src="/img/icons/laravel.svg" />  <img class="inline w-28" src="/img/logos/laravel-text.svg" />  
+                        <img width="20" height="20" class="inline w-8" src="/img/icons/laravel.svg" />  <img class="inline w-28" src="/img/logos/laravel-text.svg" />  
                     </div>
                     <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img class="inline w-40" src="/img/logos/livewire.svg" />  
+                        <img width="120" height="30" class="inline w-40" src="/img/logos/livewire.svg" />  
                     </div>
                     <div class="w-1/3 mb-4 flex justify-center items-center">
                         <x-inertia-icon class="w-36 bg-purple-500 px-1 pt-1 pb-2" />
@@ -53,7 +53,7 @@
                 </div>
                 <div class="w-full flex justify-center mb-4">
                     <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img class="inline w-36" src="/img/logos/alpine.svg" />  
+                        <img width="120" height="30" class="inline w-36" src="/img/logos/alpine.svg" />  
                     </div>
                     <div class="w-1/4 mb-4 flex justify-center items-center">
                         <x-tailwind-icon class="w-40" />
@@ -70,10 +70,10 @@
                         <x-spatie-icon class="w-24" />
                     </div>
                     <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img class="inline w-32" src="/img/logos/pest.svg" />  
+                        <img width="120" height="30" class="inline w-32" src="/img/logos/pest.svg" />  
                     </div>
                     <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img class="inline w-32" src="/img/logos/carbon.png" />  
+                        <img width="120" height="30" class="inline w-32" src="/img/logos/carbon.png" />  
                     </div>
                 </div>
             </div>
