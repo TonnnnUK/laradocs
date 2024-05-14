@@ -1,0 +1,820 @@
+[
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Basic Usage",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Add The Trait",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-add-the-trait"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Create A Permission",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-create-a-permission"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Assign A Permission To A Role",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-assign-a-permission-to-a-role"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Sync Permissions To A Role",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-sync-permissions-to-a-role"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Remove Permission From A Role",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-remove-permission-from-a-role"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Guard Name",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-guard-name"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Get Permissions For A User",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-get-permissions-for-a-user"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Scopes",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-scopes"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Eloquent Calls",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-eloquent-calls"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Basic Usage",
+        "section_title": "Counting Users Having A Role",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/basic-usage#content-counting-users-having-a-role"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Direct Permissions",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/direct-permissions",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/direct-permissions",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Direct Permissions",
+        "section_title": "Best Practice",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/direct-permissions#content-best-practice"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Direct Permissions",
+        "section_title": "Direct Permissions to Users",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/direct-permissions#content-direct-permissions-to-users"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Using Permissions via Roles",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using Permissions via Roles",
+        "section_title": "Assigning Roles",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions#content-assigning-roles"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using Permissions via Roles",
+        "section_title": "Checking Roles",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions#content-checking-roles"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using Permissions via Roles",
+        "section_title": "Assigning Permissions to Roles",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions#content-assigning-permissions-to-roles"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using Permissions via Roles",
+        "section_title": "What Permissions Does A Role Have?",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions#content-what-permissions-does-a-role-have"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using Permissions via Roles",
+        "section_title": "Assigning Direct Permissions To A User",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/role-permissions#content-assigning-direct-permissions-to-a-user"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Enums",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/enums",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/enums",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Enums",
+        "section_title": "Enum Prerequisites",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/enums#content-enum-prerequisites"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Enums",
+        "section_title": "Code Requirements",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/enums#content-code-requirements"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Enums",
+        "section_title": "Creating Roles/Permissions using Enums",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/enums#content-creating-rolespermissions-using-enums"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Enums",
+        "section_title": "Package methods supporting BackedEnums:",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/enums#content-package-methods-supporting-backedenums"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Teams permissions",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Teams permissions",
+        "section_title": "Enabling Teams Permissions Feature",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions#content-enabling-teams-permissions-feature"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Teams permissions",
+        "section_title": "Working with Teams Permissions",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions#content-working-with-teams-permissions"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Teams permissions",
+        "section_title": "Roles Creating",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions#content-roles-creating"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Teams permissions",
+        "section_title": "Roles/Permissions Assignment &amp; Removal",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions#content-rolespermissions-assignment--removal"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Teams permissions",
+        "section_title": "Changing The Active Team ID",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions#content-changing-the-active-team-id"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Teams permissions",
+        "section_title": "Defining a Super-Admin on Teams",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/teams-permissions#content-defining-a-super-admin-on-teams"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Wildcard permissions",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Wildcard permissions",
+        "section_title": "Enabling Wildcard Features",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions#content-enabling-wildcard-features"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Wildcard permissions",
+        "section_title": "Wildcard Syntax",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions#content-wildcard-syntax"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Wildcard permissions",
+        "section_title": "Using Wildcards",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions#content-using-wildcards"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Wildcard permissions",
+        "section_title": "Meaning of the * Asterisk",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions#content-meaning-of-the--asterisk"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Wildcard permissions",
+        "section_title": "Subparts",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/wildcard-permissions#content-subparts"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Blade directives",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/blade-directives",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/blade-directives",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Blade directives",
+        "section_title": "Permissions",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/blade-directives#content-permissions"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Blade directives",
+        "section_title": "Roles",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/blade-directives#content-roles"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Blade directives",
+        "section_title": "Blade and Roles",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/blade-directives#content-blade-and-roles"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Defining a Super-Admin",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/super-admin",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/super-admin",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Defining a Super-Admin",
+        "section_title": "Policy",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/super-admin#content-policy-before"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Using multiple guards",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using multiple guards",
+        "section_title": "The Downside To Multiple Guards",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards#content-the-downside-to-multiple-guards"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using multiple guards",
+        "section_title": "Forcing Use Of A Single Guard",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards#content-forcing-use-of-a-single-guard"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using multiple guards",
+        "section_title": "Using permissions and roles with multiple guards",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards#content-using-permissions-and-roles-with-multiple-guards"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using multiple guards",
+        "section_title": "Assigning permissions and roles to guard users",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards#content-assigning-permissions-and-roles-to-guard-users"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Using multiple guards",
+        "section_title": "Using blade directives with multiple guards",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/multiple-guards#content-using-blade-directives-with-multiple-guards"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Artisan Commands",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/artisan",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/artisan",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Artisan Commands",
+        "section_title": "Creating roles and permissions with Artisan Commands",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/artisan#content-creating-roles-and-permissions-with-artisan-commands"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Artisan Commands",
+        "section_title": "Displaying roles and permissions in the console",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/artisan#content-displaying-roles-and-permissions-in-the-console"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Artisan Commands",
+        "section_title": "Resetting the Cache",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/artisan#content-resetting-the-cache"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Middleware",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/middleware",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/middleware",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Middleware",
+        "section_title": "Default Middleware",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/middleware#content-default-middleware"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Middleware",
+        "section_title": "Package Middleware",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/middleware#content-package-middleware"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Middleware",
+        "section_title": "Using Middleware in Routes and Controllers",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/middleware#content-using-middleware-in-routes-and-controllers"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Middleware",
+        "section_title": "Middleware via Static Methods",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/middleware#content-middleware-via-static-methods"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Passport Client Credentials Grant usage",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/passport",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/passport",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Passport Client Credentials Grant usage",
+        "section_title": "Install Passport",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/passport#content-install-passport"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Passport Client Credentials Grant usage",
+        "section_title": "Extend the Client model",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/passport#content-extend-the-client-model"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Passport Client Credentials Grant usage",
+        "section_title": "Middleware",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/passport#content-middleware"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Passport Client Credentials Grant usage",
+        "section_title": "Config",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/passport#content-config"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Usage",
+    "pageTitle": "Example App",
+    "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/new-app",
+    "link": "https://spatie.be/docs/laravel-permission/v6/basic-usage/new-app",
+    "pageLinks": [
+      {
+        "topic": "Basic Usage",
+        "page_title": "Example App",
+        "section_title": "Creating A Demo App",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/new-app#content-creating-a-demo-app"
+      },
+      {
+        "topic": "Basic Usage",
+        "page_title": "Example App",
+        "section_title": "Sharing",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/basic-usage/new-app#content-sharing"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Roles vs Permissions",
+    "url": "https://spatie.be/docs/laravel-permission/v6/best-practices/roles-vs-permissions",
+    "link": "https://spatie.be/docs/laravel-permission/v6/best-practices/roles-vs-permissions",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Roles vs Permissions",
+        "section_title": "Roles vs Permissions",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/best-practices/roles-vs-permissions"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Model Policies",
+    "url": "https://spatie.be/docs/laravel-permission/v6/best-practices/using-policies",
+    "link": "https://spatie.be/docs/laravel-permission/v6/best-practices/using-policies",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Model Policies",
+        "section_title": "Model Policies",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/best-practices/using-policies"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Performance Tips",
+    "url": "https://spatie.be/docs/laravel-permission/v6/best-practices/performance",
+    "link": "https://spatie.be/docs/laravel-permission/v6/best-practices/performance",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance Tips",
+        "section_title": "Performance Tips",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/best-practices/performance"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Testing",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/testing",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/testing",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Testing",
+        "section_title": "Clear Cache During Tests",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/testing#content-clear-cache-during-tests"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Testing",
+        "section_title": "Clear Cache When Using Seeders",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/testing#content-clear-cache-when-using-seeders"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Testing",
+        "section_title": "Bypassing Cache When Testing",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/testing#content-bypassing-cache-when-testing"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Testing",
+        "section_title": "Testing Using Factories",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/testing#content-testing-using-factories"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Database Seeding",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/seeding",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/seeding",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Database Seeding",
+        "section_title": "Flush cache before/after seeding",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/seeding#content-flush-cache-beforeafter-seeding"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Database Seeding",
+        "section_title": "Roles/Permissions Seeder",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/seeding#content-rolespermissions-seeder"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Database Seeding",
+        "section_title": "User Seeding with Factories and States",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/seeding#content-user-seeding-with-factories-and-states"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Database Seeding",
+        "section_title": "Speeding up seeding for large data sets",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/seeding#content-speeding-up-seeding-for-large-data-sets"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Exceptions",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/exceptions",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/exceptions",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Exceptions",
+        "section_title": "Exceptions",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/exceptions"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Extending",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Extending",
+        "section_title": "Adding fields to your models",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending#content-adding-fields-to-your-models"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Extending",
+        "section_title": "Adding a description to roles and permissions",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending#content-adding-a-description-to-roles-and-permissions"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Extending",
+        "section_title": "Extending User Models",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending#content-extending-user-models"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Extending",
+        "section_title": "Child User Models",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending#content-child-user-models"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Extending",
+        "section_title": "Extending Role and Permission Models",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/extending#content-extending-role-and-permission-models"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Cache",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Cache",
+        "section_title": "Automatic Cache Refresh Using Built-In Functions",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache#content-automatic-cache-refresh-using-built-in-functions"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Cache",
+        "section_title": "Manual cache reset",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache#content-manual-cache-reset"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Cache",
+        "section_title": "Cache Configuration Settings",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache#content-cache-configuration-settings"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Cache",
+        "section_title": "Disabling Cache",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache#content-disabling-cache"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Cache",
+        "section_title": "File cache driver",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/cache#content-file-cache-driver"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Custom Permission Check",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/custom-permission-check",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/custom-permission-check",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Custom Permission Check",
+        "section_title": "Default Permission Check Functionality",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/custom-permission-check#content-default-permission-check-functionality"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Custom Permission Check",
+        "section_title": "Using Custom Permission Check Functionality",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/custom-permission-check#content-using-custom-permission-check-functionality"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "UUID/ULID",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/uuid",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/uuid",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "UUID/ULID",
+        "section_title": "Migrations",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/uuid#content-migrations"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "UUID/ULID",
+        "section_title": "Configuration (OPTIONAL)",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/uuid#content-configuration-optional"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "UUID/ULID",
+        "section_title": "Models",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/uuid#content-models"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "PhpStorm Interaction",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/phpstorm",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/phpstorm",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "PhpStorm Interaction",
+        "section_title": "Extending PhpStorm",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/phpstorm#content-extending-phpstorm"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Other",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/other",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/other",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Other",
+        "section_title": "Other",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/other"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "Timestamps",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/timestamps",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/timestamps",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "Timestamps",
+        "section_title": "Excluding Timestamps from JSON",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/timestamps#content-excluding-timestamps-from-json"
+      },
+      {
+        "topic": "Advanced usage",
+        "page_title": "Timestamps",
+        "section_title": "Adding Timestamps to Pivots",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/timestamps#content-adding-timestamps-to-pivots"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced usage",
+    "pageTitle": "UI Options",
+    "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/ui-options",
+    "link": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/ui-options",
+    "pageLinks": [
+      {
+        "topic": "Advanced usage",
+        "page_title": "UI Options",
+        "section_title": "Need a UI?",
+        "link_title": "",
+        "url": "https://spatie.be/docs/laravel-permission/v6/advanced-usage/ui-options#content-need-a-ui"
+      }
+    ]
+  }
+]

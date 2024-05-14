@@ -1,0 +1,5201 @@
+[
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Installation",
+    "url": "https://nova.laravel.com/docs/installation.html",
+    "link": "https://nova.laravel.com/docs/installation.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Requirements",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#requirements"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Browser Support",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#browser-support"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Installing Nova via Composer",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#installing-nova-via-composer"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Registering a Nova License Key and Production URL",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#registering-a-nova-license-key-and-production-url"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Registering a Nova License Key and Production URL",
+        "link_title": "Verifying Your Nova License Key Configuration",
+        "url": "https://nova.laravel.com/docs/installation.html#verifying-your-nova-license-key-configuration"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Verifying Your Nova License Key Configuration",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#verifying-your-nova-license-key-configuration"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Authenticating Nova in CI Environments",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#authenticating-nova-in-ci-environments"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Using Nova on Development and Staging Domains",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#using-nova-on-development-and-staging-domains"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Authorizing Access to Nova",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#authorizing-access-to-nova"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#customization"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Branding",
+        "url": "https://nova.laravel.com/docs/installation.html#branding"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Customizing Nova's Footer",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-footer"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Customizing Nova's Authentication Guard",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-authentication-guard"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Customizing Nova's Password Reset Functionality",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-password-reset-functionality"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Customizing Nova's Storage Disk Driver",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-storage-disk-driver"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Customizing Nova's Initial Path",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-initial-path"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Enabling Breadcrumbs",
+        "url": "https://nova.laravel.com/docs/installation.html#enabling-breadcrumbs"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Enabling RTL Support",
+        "url": "https://nova.laravel.com/docs/installation.html#enabling-rtl-support"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customization",
+        "link_title": "Disabling Nova's Theme Switcher",
+        "url": "https://nova.laravel.com/docs/installation.html#disabling-nova-s-theme-switcher"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Branding",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#branding"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customizing Nova's Footer",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-footer"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customizing Nova's Authentication Guard",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-authentication-guard"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customizing Nova's Password Reset Functionality",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-password-reset-functionality"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customizing Nova's Storage Disk Driver",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-storage-disk-driver"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Customizing Nova's Initial Path",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#customizing-nova-s-initial-path"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Enabling Breadcrumbs",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#enabling-breadcrumbs"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Enabling RTL Support",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#enabling-rtl-support"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Disabling Nova's Theme Switcher",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#disabling-nova-s-theme-switcher"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Error Reporting",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#error-reporting"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Updating Nova",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#updating-nova"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Updating Nova",
+        "link_title": "Updating Nova's Assets",
+        "url": "https://nova.laravel.com/docs/installation.html#updating-nova-s-assets"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Updating Nova",
+        "link_title": "Keeping Nova's Assets Updated",
+        "url": "https://nova.laravel.com/docs/installation.html#keeping-nova-s-assets-updated"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Updating Nova's Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#updating-nova-s-assets"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Keeping Nova's Assets Updated",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#keeping-nova-s-assets-updated"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Code Distribution",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/installation.html#code-distribution"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Release Notes",
+    "url": "https://nova.laravel.com/docs/releases.html",
+    "link": "https://nova.laravel.com/docs/releases.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Responsive Design",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#responsive-design"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Painless Branding",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#painless-branding"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Collapsable Relations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#collapsable-relations"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Action Callbacks",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#action-callbacks"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Batchable Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#batchable-actions"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "New Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#new-fields"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Dependent Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#dependent-fields"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Filterable Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#filterable-fields"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Notifications",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#notifications"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Impersonation",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#impersonation"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Custom Menus",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#custom-menus"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Progress Metric",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#progress-metric"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Resource Replication",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#resource-replication"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Resource Preview Modal",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#resource-preview-modal"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "HasOne::ofMany Support",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#hasone-ofmany-support"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Inline HasOne Creation",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#inline-hasone-creation"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Release Notes ​",
+        "section_title": "Search Improvements",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/releases.html#search-improvements"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Upgrade Guide",
+    "url": "https://nova.laravel.com/docs/upgrade.html",
+    "link": "https://nova.laravel.com/docs/upgrade.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#dependency-upgrades"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "Server",
+        "url": "https://nova.laravel.com/docs/upgrade.html#server"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "Client",
+        "url": "https://nova.laravel.com/docs/upgrade.html#client"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "Updating Composer Dependencies",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-composer-dependencies"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "Updating Configuration, Assets, and Translations",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-configuration-assets-and-translations"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "Registering a Nova License Key and Production URL",
+        "url": "https://nova.laravel.com/docs/upgrade.html#registering-a-nova-license-key-and-production-url"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dependency Upgrades",
+        "link_title": "Updating Third-Party Nova Packages",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-third-party-nova-packages"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Server",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#server"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Client",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#client"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Updating Composer Dependencies",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-composer-dependencies"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Updating Configuration, Assets, and Translations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-configuration-assets-and-translations"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Registering a Nova License Key and Production URL",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#registering-a-nova-license-key-and-production-url"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Updating Third-Party Nova Packages",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-third-party-nova-packages"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#high-impact-changes"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "Nova Request",
+        "url": "https://nova.laravel.com/docs/upgrade.html#nova-request"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "Main Dashboard Class",
+        "url": "https://nova.laravel.com/docs/upgrade.html#main-dashboard-class"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "Dashboard Methods",
+        "url": "https://nova.laravel.com/docs/upgrade.html#dashboard-methods"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "Client-Side Timezone Detection",
+        "url": "https://nova.laravel.com/docs/upgrade.html#client-side-timezone-detection"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "Date / DateTime Fields & HTML5",
+        "url": "https://nova.laravel.com/docs/upgrade.html#date-datetime-fields-html5"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "High Impact Changes",
+        "link_title": "Algolia Place Field",
+        "url": "https://nova.laravel.com/docs/upgrade.html#algolia-place-field"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Nova Request",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#nova-request"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Main Dashboard Class",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#main-dashboard-class"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Dashboard Methods",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#dashboard-methods"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Client-Side Timezone Detection",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#client-side-timezone-detection"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Date / DateTime Fields & HTML5",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#date-datetime-fields-html5"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Algolia Place Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#algolia-place-field"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Medium Impact Changes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#medium-impact-changes"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Medium Impact Changes",
+        "link_title": "Updating Custom Tool, Cards, Fields, Filters",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-custom-tool-cards-fields-filters"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Medium Impact Changes",
+        "link_title": "Event Cancellation on Save",
+        "url": "https://nova.laravel.com/docs/upgrade.html#event-cancellation-on-save"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Medium Impact Changes",
+        "link_title": "Field::default Method Only Applies to Create, Attach, & Action Requests",
+        "url": "https://nova.laravel.com/docs/upgrade.html#field-default-method-only-applies-to-create-attach-action-requests"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Medium Impact Changes",
+        "link_title": "Relationship Name Conventions",
+        "url": "https://nova.laravel.com/docs/upgrade.html#relationship-name-conventions"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Medium Impact Changes",
+        "link_title": "Action::actionClass Method Removed",
+        "url": "https://nova.laravel.com/docs/upgrade.html#action-actionclass-method-removed"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Updating Custom Tool, Cards, Fields, Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#updating-custom-tool-cards-fields-filters"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Event Cancellation on Save",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#event-cancellation-on-save"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Field::default Method Only Applies to Create, Attach, & Action Requests",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#field-default-method-only-applies-to-create-attach-action-requests"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Relationship Name Conventions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#relationship-name-conventions"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Action::actionClass Method Removed",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#action-actionclass-method-removed"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Low Impact Changes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#low-impact-changes"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Low Impact Changes",
+        "link_title": "Eloquent User Provider Required",
+        "url": "https://nova.laravel.com/docs/upgrade.html#eloquent-user-provider-required"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Low Impact Changes",
+        "link_title": "Reduce Encoded Filter String Length",
+        "url": "https://nova.laravel.com/docs/upgrade.html#reduce-encoded-filter-string-length"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Low Impact Changes",
+        "link_title": "Action::showOnTableRow Method",
+        "url": "https://nova.laravel.com/docs/upgrade.html#action-showontablerow-method"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Low Impact Changes",
+        "link_title": "Authorization Precedence",
+        "url": "https://nova.laravel.com/docs/upgrade.html#authorization-precedence"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Low Impact Changes",
+        "link_title": "Update Published Stubs",
+        "url": "https://nova.laravel.com/docs/upgrade.html#update-published-stubs"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Eloquent User Provider Required",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#eloquent-user-provider-required"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Reduce Encoded Filter String Length",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#reduce-encoded-filter-string-length"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Action::showOnTableRow Method",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#action-showontablerow-method"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Authorization Precedence",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#authorization-precedence"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Upgrade Guide ​",
+        "section_title": "Update Published Stubs",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/upgrade.html#update-published-stubs"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Support & Bug Reports",
+    "url": "https://nova.laravel.com/docs/support.html",
+    "link": "https://nova.laravel.com/docs/support.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Support & Bug Reports ​",
+        "section_title": "Bug Reports",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/support.html#bug-reports"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Support & Bug Reports ​",
+        "section_title": "Support Questions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/support.html#support-questions"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Support & Bug Reports ​",
+        "section_title": "Security Vulnerabilities",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/support.html#security-vulnerabilities"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Code of Conduct",
+    "url": "https://nova.laravel.com/docs/code-of-conduct.html",
+    "link": "https://nova.laravel.com/docs/code-of-conduct.html",
+    "pageLinks": []
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "The Basics",
+    "url": "https://nova.laravel.com/docs/resources/",
+    "link": "https://nova.laravel.com/docs/resources/",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#introduction"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Defining Resources",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#defining-resources"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Registering Resources",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#registering-resources"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Registering Resources",
+        "link_title": "Customizing Resource Menus",
+        "url": "https://nova.laravel.com/docs/resources/#customizing-resource-menus"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Customizing Resource Menus",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#customizing-resource-menus"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Grouping Resources",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#grouping-resources"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Table Style Customization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-table-style-customization"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Table Style Customization",
+        "link_title": "Table Styles",
+        "url": "https://nova.laravel.com/docs/resources/#table-styles"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Table Style Customization",
+        "link_title": "Column Borders",
+        "url": "https://nova.laravel.com/docs/resources/#column-borders"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Table Styles",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#table-styles"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Column Borders",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#column-borders"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Table Click Action",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-table-click-action"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Eager Loading",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#eager-loading"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Replication",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-replication"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Events",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-events"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Events",
+        "link_title": "Resource Hooks",
+        "url": "https://nova.laravel.com/docs/resources/#resource-hooks"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Hooks",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-hooks"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Preventing Conflicts",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#preventing-conflicts"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Preventing Conflicts",
+        "link_title": "Disabling Traffic Cop",
+        "url": "https://nova.laravel.com/docs/resources/#disabling-traffic-cop"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Disabling Traffic Cop",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#disabling-traffic-cop"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Polling",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-polling"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Toggling Resource Polling",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#toggling-resource-polling"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Redirection",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Redirection",
+        "link_title": "After Creating Redirection",
+        "url": "https://nova.laravel.com/docs/resources/#after-creating-redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Redirection",
+        "link_title": "After Updating Redirection",
+        "url": "https://nova.laravel.com/docs/resources/#after-updating-redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Redirection",
+        "link_title": "After Deletion Redirection",
+        "url": "https://nova.laravel.com/docs/resources/#after-deletion-redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "After Creating Redirection",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#after-creating-redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "After Updating Redirection",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#after-updating-redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "After Deletion Redirection",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#after-deletion-redirection"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Pagination",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#pagination"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Pagination",
+        "link_title": "Customizing Pagination",
+        "url": "https://nova.laravel.com/docs/resources/#customizing-pagination"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Customizing Pagination",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#customizing-pagination"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "CSV Export",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#csv-export"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Resource Index Search Debounce",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#resource-index-search-debounce"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "The Basics ​",
+        "section_title": "Keyboard Shortcuts",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/#keyboard-shortcuts"
+      }
+    ]
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "Fields",
+    "url": "https://nova.laravel.com/docs/resources/fields.html",
+    "link": "https://nova.laravel.com/docs/resources/fields.html",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Defining Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#defining-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Defining Fields",
+        "link_title": "Field Column Conventions",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-column-conventions"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Column Conventions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-column-conventions"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Showing / Hiding Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#showing-hiding-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Showing / Hiding Fields",
+        "link_title": "Showing Fields When Peeking",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#showing-fields-when-peeking"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Showing / Hiding Fields",
+        "link_title": "Resource Preview Modal",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#resource-preview-modal"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Showing Fields When Peeking",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#showing-fields-when-peeking"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Resource Preview Modal",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#resource-preview-modal"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Dynamic Field Methods",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#dynamic-field-methods"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Default Values",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#default-values"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Placeholder Text",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-placeholder-text"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Hydration",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-hydration"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Panels",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-panels"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Sortable Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#sortable-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-types"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Audio Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#audio-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Avatar Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#avatar-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Badge Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#badge-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Boolean Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#boolean-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Boolean Group Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#boolean-group-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Code Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#code-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Color Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#color-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Country Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#country-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Currency Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#currency-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Date Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#date-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "DateTime Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#datetime-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Email Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#email-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "File Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#file-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Gravatar Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#gravatar-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Heading Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#heading-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Hidden Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#hidden-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "ID Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#id-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Image Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#image-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "KeyValue Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#keyvalue-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Markdown Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#markdown-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "MultiSelect Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#multiselect-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Number Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#number-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Password Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#password-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Password Confirmation Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#password-confirmation-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Select Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#select-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Slug Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#slug-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Sparkline Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#sparkline-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Status Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#status-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Stack Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#stack-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Tag Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#tag-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Text Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#text-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Textarea Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#textarea-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Timezone Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#timezone-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Trix Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#trix-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "UI-Avatar Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#ui-avatar-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "URL Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#url-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Vapor File Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#vapor-file-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Types",
+        "link_title": "Vapor Image Field",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#vapor-image-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Audio Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#audio-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Avatar Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#avatar-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Badge Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#badge-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Boolean Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#boolean-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Boolean Group Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#boolean-group-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Code Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#code-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Color Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#color-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Country Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#country-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Currency Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#currency-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Date Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#date-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "DateTime Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#datetime-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Email Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#email-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "File Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#file-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Gravatar Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#gravatar-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Heading Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#heading-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Hidden Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#hidden-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "ID Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#id-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Image Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#image-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "KeyValue Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#keyvalue-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Markdown Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#markdown-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "MultiSelect Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#multiselect-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Number Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#number-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Password Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#password-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Password Confirmation Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#password-confirmation-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Select Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#select-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Slug Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#slug-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Sparkline Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#sparkline-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Status Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#status-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Stack Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#stack-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Tag Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#tag-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Text Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#text-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Textarea Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#textarea-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Timezone Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#timezone-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Trix Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#trix-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "UI-Avatar Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#ui-avatar-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "URL Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#url-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Vapor File Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#vapor-file-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Vapor Image Field",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#vapor-image-field"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Computed Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#computed-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#customization"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Readonly Fields",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#readonly-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Required Fields",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#required-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Nullable Fields",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#nullable-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Field Help Text",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-help-text"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Field Stacking",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-stacking"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Full Width Fields",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#full-width-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Field Text Alignment",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-text-alignment"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Customization",
+        "link_title": "Field Resolution / Formatting",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-resolution-formatting"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Readonly Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#readonly-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Required Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#required-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Nullable Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#nullable-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Help Text",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-help-text"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Stacking",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-stacking"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Full Width Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#full-width-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Text Alignment",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-text-alignment"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Field Resolution / Formatting",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#field-resolution-formatting"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Filterable Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#filterable-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Dependent Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#dependent-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Dependent Fields",
+        "link_title": "Supported Dependent Fields",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#supported-dependent-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Dependent Fields",
+        "link_title": "Toggling Field Visibility using dependsOn",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#toggling-field-visibility-using-dependson"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Dependent Fields",
+        "link_title": "Setting a Field's Value Using dependsOn",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#setting-a-field-s-value-using-dependson"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Dependent Fields",
+        "link_title": "Accessing Request Resource IDs",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#accessing-request-resource-ids"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Supported Dependent Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#supported-dependent-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Toggling Field Visibility using dependsOn",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#toggling-field-visibility-using-dependson"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Setting a Field's Value Using dependsOn",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#setting-a-field-s-value-using-dependson"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Accessing Request Resource IDs",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#accessing-request-resource-ids"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Extending Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#extending-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Extending Fields",
+        "link_title": "Macro Arguments",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#macro-arguments"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Extending Fields",
+        "link_title": "Macro on Specific Fields",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#macro-on-specific-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Macro Arguments",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#macro-arguments"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Fields ​",
+        "section_title": "Macro on Specific Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/fields.html#macro-on-specific-fields"
+      }
+    ]
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "Date Fields",
+    "url": "https://nova.laravel.com/docs/resources/date-fields.html",
+    "link": "https://nova.laravel.com/docs/resources/date-fields.html",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Options",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#options"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Options",
+        "link_title": "Steps",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#steps"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Options",
+        "link_title": "Minimum and Maximum Values",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#minimum-and-maximum-values"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Steps",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#steps"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Minimum and Maximum Values",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#minimum-and-maximum-values"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Timezones",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#timezones"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Timezones",
+        "link_title": "Customizing the Timezone",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#customizing-the-timezone"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Date Fields ​",
+        "section_title": "Customizing the Timezone",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/date-fields.html#customizing-the-timezone"
+      }
+    ]
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "Repeater Fields",
+    "url": "https://nova.laravel.com/docs/resources/repeater-fields.html",
+    "link": "https://nova.laravel.com/docs/resources/repeater-fields.html",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#overview"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeatables",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#repeatables"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeatables",
+        "link_title": "Generating Repeatables",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#generating-repeatables"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeatables",
+        "link_title": "Confirming Repeatable Removal",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#confirming-repeatable-removal"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Generating Repeatables",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#generating-repeatables"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Confirming Repeatable Removal",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#confirming-repeatable-removal"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeater Presets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#repeater-presets"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeater Presets",
+        "link_title": "JSON Preset",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#json-preset"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeater Presets",
+        "link_title": "HasMany Preset",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#hasmany-preset"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "JSON Preset",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#json-preset"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "HasMany Preset",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#hasmany-preset"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Upserting Repeatables Using Unique Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#upserting-repeatables-using-unique-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeater Field Capabilities",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#repeater-field-capabilities"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeater Field Capabilities",
+        "link_title": "Supported Fields",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#supported-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Repeater Field Capabilities",
+        "link_title": "Partially-Supported Fields",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#partially-supported-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Supported Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#supported-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Repeater Fields ​",
+        "section_title": "Partially-Supported Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/repeater-fields.html#partially-supported-fields"
+      }
+    ]
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "Relationships",
+    "url": "https://nova.laravel.com/docs/resources/relationships.html",
+    "link": "https://nova.laravel.com/docs/resources/relationships.html",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "HasOne",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#hasone"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "HasOne",
+        "link_title": "HasOneOfMany",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#hasoneofmany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "HasOneOfMany",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#hasoneofmany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "HasMany",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#hasmany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "HasOneThrough",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#hasonethrough"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "HasManyThrough",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#hasmanythrough"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsTo",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#belongsto"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsTo",
+        "link_title": "Peeking at BelongsTo Relationships",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#peeking-at-belongsto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsTo",
+        "link_title": "Preventing Peeking at BelongsTo Relationships",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#preventing-peeking-at-belongsto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Peeking at BelongsTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#peeking-at-belongsto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Preventing Peeking at BelongsTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#preventing-peeking-at-belongsto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#belongstomany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "Pivot Fields",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "Pivot Computed Fields",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-computed-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "Pivot Actions",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-actions"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "Title Attributes",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#title-attributes-1"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "Disabling Ordering by Title",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#disabling-ordering-by-title"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "BelongsToMany",
+        "link_title": "Allowing Duplicate Relations",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#allowing-duplicate-relations"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Pivot Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Pivot Computed Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-computed-fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Pivot Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-actions"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Title Attributes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#title-attributes-1"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Disabling Ordering by Title",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#disabling-ordering-by-title"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Allowing Duplicate Relations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#allowing-duplicate-relations"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphOne",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#morphone"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphOne",
+        "link_title": "MorphOneOfMany",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#morphoneofmany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphOneOfMany",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#morphoneofmany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphMany",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#morphmany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphTo",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#morphto"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphTo",
+        "link_title": "Nullable MorphTo Relationships",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#nullable-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphTo",
+        "link_title": "Peeking at MorphTo Relationships",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#peeking-at-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphTo",
+        "link_title": "Preventing Peeking at MorphTo Relationships",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#preventing-peeking-at-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphTo",
+        "link_title": "Setting Default Values on MorphTo Relationships",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#setting-default-values-on-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Nullable MorphTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#nullable-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Peeking at MorphTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#peeking-at-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Preventing Peeking at MorphTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#preventing-peeking-at-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Setting Default Values on MorphTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#setting-default-values-on-morphto-relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphToMany",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#morphtomany"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphToMany",
+        "link_title": "Pivot Fields",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-fields-1"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "MorphToMany",
+        "link_title": "Title Attributes",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#title-attributes-2"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Pivot Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#pivot-fields-1"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Title Attributes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#title-attributes-2"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Collapsable Relations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#collapsable-relations"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Searchable Relations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#searchable-relations"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Searchable Relations",
+        "link_title": "Relatable Query Filtering",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#relatable-query-filtering"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Searchable Relations",
+        "link_title": "Limiting Relation Results",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#limiting-relation-results"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Relatable Query Filtering",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#relatable-query-filtering"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Limiting Relation Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#limiting-relation-results"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Creating Inline Relations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#creating-inline-relations"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Creating Inline Relations",
+        "link_title": "Inline Creation Modal Size",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#inline-creation-modal-size"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Relationships ​",
+        "section_title": "Inline Creation Modal Size",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/relationships.html#inline-creation-modal-size"
+      }
+    ]
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "Validation",
+    "url": "https://nova.laravel.com/docs/resources/validation.html",
+    "link": "https://nova.laravel.com/docs/resources/validation.html",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Rules",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Rules",
+        "link_title": "Attaching Rules",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#attaching-rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Rules",
+        "link_title": "Creation Rules",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#creation-rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Rules",
+        "link_title": "Update Rules",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#update-rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Attaching Rules",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#attaching-rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Creation Rules",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#creation-rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "Update Rules",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#update-rules"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "After Validation Hooks",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#after-validation-hooks"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "After Validation Hooks",
+        "link_title": "The afterValidation Method",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#the-aftervalidation-method"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "After Validation Hooks",
+        "link_title": "The afterCreationValidation Method",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#the-aftercreationvalidation-method"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "After Validation Hooks",
+        "link_title": "The afterUpdateValidation Method",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#the-afterupdatevalidation-method"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "The afterValidation Method",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#the-aftervalidation-method"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "The afterCreationValidation Method",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#the-aftercreationvalidation-method"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Validation ​",
+        "section_title": "The afterUpdateValidation Method",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/validation.html#the-afterupdatevalidation-method"
+      }
+    ]
+  },
+  {
+    "topic": "Resources",
+    "pageTitle": "Authorization",
+    "url": "https://nova.laravel.com/docs/resources/authorization.html",
+    "link": "https://nova.laravel.com/docs/resources/authorization.html",
+    "pageLinks": [
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Policies",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#policies"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Policies",
+        "link_title": "Undefined Policy Methods",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#undefined-policy-methods"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Policies",
+        "link_title": "Hiding Entire Resources",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#hiding-entire-resources"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Policies",
+        "link_title": "When Nova & Application Authorization Logic Differs",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#when-nova-application-authorization-logic-differs"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Policies",
+        "link_title": "Relationships",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Policies",
+        "link_title": "Disabling Authorization",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#disabling-authorization"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Undefined Policy Methods",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#undefined-policy-methods"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Hiding Entire Resources",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#hiding-entire-resources"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "When Nova & Application Authorization Logic Differs",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#when-nova-application-authorization-logic-differs"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#relationships"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Disabling Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#disabling-authorization"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#fields"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Index Filtering",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#index-filtering"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Relatable Filtering",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#relatable-filtering"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Relatable Filtering",
+        "link_title": "Dynamic Relatable Methods",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#dynamic-relatable-methods"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Relatable Filtering",
+        "link_title": "Relationship Types",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#relationship-types"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Dynamic Relatable Methods",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#dynamic-relatable-methods"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Relationship Types",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#relationship-types"
+      },
+      {
+        "topic": "Resources",
+        "page_title": "Authorization ​",
+        "section_title": "Scout Filtering",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/resources/authorization.html#scout-filtering"
+      }
+    ]
+  },
+  {
+    "topic": "Search",
+    "pageTitle": "The Basics",
+    "url": "https://nova.laravel.com/docs/search/",
+    "link": "https://nova.laravel.com/docs/search/",
+    "pageLinks": [
+      {
+        "topic": "Search",
+        "page_title": "The Basics ​",
+        "section_title": "Searchable Columns",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/#searchable-columns"
+      },
+      {
+        "topic": "Search",
+        "page_title": "The Basics ​",
+        "section_title": "Full-Text Indexes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/#full-text-indexes"
+      },
+      {
+        "topic": "Search",
+        "page_title": "The Basics ​",
+        "section_title": "Searching Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/#searching-relationships"
+      },
+      {
+        "topic": "Search",
+        "page_title": "The Basics ​",
+        "section_title": "Searching Relationships",
+        "link_title": "MorphTo Relationships",
+        "url": "https://nova.laravel.com/docs/search/#morphto-relationships"
+      },
+      {
+        "topic": "Search",
+        "page_title": "The Basics ​",
+        "section_title": "MorphTo Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/#morphto-relationships"
+      },
+      {
+        "topic": "Search",
+        "page_title": "The Basics ​",
+        "section_title": "Searching JSON Data",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/#searching-json-data"
+      }
+    ]
+  },
+  {
+    "topic": "Search",
+    "pageTitle": "Global Search",
+    "url": "https://nova.laravel.com/docs/search/global-search.html",
+    "link": "https://nova.laravel.com/docs/search/global-search.html",
+    "pageLinks": [
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Title / Subtitle Attributes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#title-subtitle-attributes"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Title / Subtitle Attributes",
+        "link_title": "Subtitles",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#subtitles"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Subtitles",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#subtitles"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Customization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#customization"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Customization",
+        "link_title": "Limiting Global Search Results",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#limiting-global-search-results"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Customization",
+        "link_title": "Global Search Debounce",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#global-search-debounce"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Customization",
+        "link_title": "Custom Avatars / Covers",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#custom-avatars-covers"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Limiting Global Search Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#limiting-global-search-results"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Global Search Debounce",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#global-search-debounce"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Custom Avatars / Covers",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#custom-avatars-covers"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Disabling Global Search for a Resource",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#disabling-global-search-for-a-resource"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Global Search ​",
+        "section_title": "Disabling Global Search Globally",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/global-search.html#disabling-global-search-globally"
+      }
+    ]
+  },
+  {
+    "topic": "Search",
+    "pageTitle": "Scout Integration",
+    "url": "https://nova.laravel.com/docs/search/scout-integration.html",
+    "link": "https://nova.laravel.com/docs/search/scout-integration.html",
+    "pageLinks": [
+      {
+        "topic": "Search",
+        "page_title": "Scout Integration ​",
+        "section_title": "Customizing Scout Searches",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/scout-integration.html#customizing-scout-searches"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Scout Integration ​",
+        "section_title": "Customizing Scout Searches",
+        "link_title": "Limiting Scout Search Results",
+        "url": "https://nova.laravel.com/docs/search/scout-integration.html#limiting-scout-search-results"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Scout Integration ​",
+        "section_title": "Limiting Scout Search Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/scout-integration.html#limiting-scout-search-results"
+      },
+      {
+        "topic": "Search",
+        "page_title": "Scout Integration ​",
+        "section_title": "Disabling Scout Search",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/search/scout-integration.html#disabling-scout-search"
+      }
+    ]
+  },
+  {
+    "topic": "Filters",
+    "pageTitle": "Defining Filters",
+    "url": "https://nova.laravel.com/docs/filters/defining-filters.html",
+    "link": "https://nova.laravel.com/docs/filters/defining-filters.html",
+    "pageLinks": [
+      {
+        "topic": "Filters",
+        "page_title": "Defining Filters ​",
+        "section_title": "Select Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/filters/defining-filters.html#select-filters"
+      },
+      {
+        "topic": "Filters",
+        "page_title": "Defining Filters ​",
+        "section_title": "Boolean Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/filters/defining-filters.html#boolean-filters"
+      },
+      {
+        "topic": "Filters",
+        "page_title": "Defining Filters ​",
+        "section_title": "Date Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/filters/defining-filters.html#date-filters"
+      },
+      {
+        "topic": "Filters",
+        "page_title": "Defining Filters ​",
+        "section_title": "Filter Titles",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/filters/defining-filters.html#filter-titles"
+      },
+      {
+        "topic": "Filters",
+        "page_title": "Defining Filters ​",
+        "section_title": "Filter Default Values",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/filters/defining-filters.html#filter-default-values"
+      },
+      {
+        "topic": "Filters",
+        "page_title": "Defining Filters ​",
+        "section_title": "Dynamic Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/filters/defining-filters.html#dynamic-filters"
+      }
+    ]
+  },
+  {
+    "topic": "Filters",
+    "pageTitle": "Registering Filters",
+    "url": "https://nova.laravel.com/docs/filters/registering-filters.html",
+    "link": "https://nova.laravel.com/docs/filters/registering-filters.html",
+    "pageLinks": []
+  },
+  {
+    "topic": "Lenses",
+    "pageTitle": "Defining Lenses",
+    "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html",
+    "link": "https://nova.laravel.com/docs/lenses/defining-lenses.html",
+    "pageLinks": [
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#overview"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Overview",
+        "link_title": "Query Helpers",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#query-helpers"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Query Helpers",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#query-helpers"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Lens Polling",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#lens-polling"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Lens Polling",
+        "link_title": "Toggling Lens Polling",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#toggling-lens-polling"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Toggling Lens Polling",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#toggling-lens-polling"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Lens Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#lens-filters"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Lens Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#lens-actions"
+      },
+      {
+        "topic": "Lenses",
+        "page_title": "Defining Lenses ​",
+        "section_title": "Lens Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/defining-lenses.html#lens-metrics"
+      }
+    ]
+  },
+  {
+    "topic": "Lenses",
+    "pageTitle": "Registering Lenses",
+    "url": "https://nova.laravel.com/docs/lenses/registering-lenses.html",
+    "link": "https://nova.laravel.com/docs/lenses/registering-lenses.html",
+    "pageLinks": [
+      {
+        "topic": "Lenses",
+        "page_title": "Registering Lenses ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/lenses/registering-lenses.html#authorization"
+      }
+    ]
+  },
+  {
+    "topic": "Actions",
+    "pageTitle": "Defining Actions",
+    "url": "https://nova.laravel.com/docs/actions/defining-actions.html",
+    "link": "https://nova.laravel.com/docs/actions/defining-actions.html",
+    "pageLinks": [
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#overview"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Overview",
+        "link_title": "Action Titles",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-titles"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Overview",
+        "link_title": "Destructive Actions",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#destructive-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Overview",
+        "link_title": "Action Callbacks",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-callbacks"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Titles",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-titles"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Destructive Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#destructive-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Callbacks",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-callbacks"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-fields"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Fields",
+        "link_title": "Action Fields Default Values",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-fields-default-values"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Fields Default Values",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-fields-default-values"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Responses",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Responses",
+        "link_title": "Redirect Responses",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#redirect-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Responses",
+        "link_title": "Download Responses",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#download-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Responses",
+        "link_title": "Custom Modal Responses",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#custom-modal-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Redirect Responses",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#redirect-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Download Responses",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#download-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Custom Modal Responses",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#custom-modal-responses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Queued Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#queued-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Queued Actions",
+        "link_title": "Customizing the Connection and Queue",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#customizing-the-connection-and-queue"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Queued Actions",
+        "link_title": "Job Batching",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#job-batching"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Customizing the Connection and Queue",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#customizing-the-connection-and-queue"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Job Batching",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#job-batching"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Log",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-log"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Log",
+        "link_title": "Disabling the Action Log",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#disabling-the-action-log"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Log",
+        "link_title": "Queued Action Statuses",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#queued-action-statuses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Disabling the Action Log",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#disabling-the-action-log"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Queued Action Statuses",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#queued-action-statuses"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Defining Actions ​",
+        "section_title": "Action Modal Customization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/defining-actions.html#action-modal-customization"
+      }
+    ]
+  },
+  {
+    "topic": "Actions",
+    "pageTitle": "Registering Actions",
+    "url": "https://nova.laravel.com/docs/actions/registering-actions.html",
+    "link": "https://nova.laravel.com/docs/actions/registering-actions.html",
+    "pageLinks": [
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#authorization"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Authorization",
+        "link_title": "Resource Specific Authorization",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#resource-specific-authorization"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Authorization",
+        "link_title": "Authorization via Resource Policy",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#authorization-via-resource-policy"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Resource Specific Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#resource-specific-authorization"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Authorization via Resource Policy",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#authorization-via-resource-policy"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Action Visibility",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#action-visibility"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Action Visibility",
+        "link_title": "Inline Actions",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#inline-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Inline Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#inline-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Standalone Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#standalone-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Sole Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#sole-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Pivot Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#pivot-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Pivot Actions",
+        "link_title": "Custom Pivot Action Name",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#custom-pivot-action-name"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Custom Pivot Action Name",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#custom-pivot-action-name"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Closure Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#closure-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#static-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "Redirect Actions",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#redirect-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "Visit Actions",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#visit-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "Danger Actions",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#danger-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "Custom Modal Actions",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#custom-modal-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "Open URLs in New Tabs",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#open-urls-in-new-tabs"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Static Actions",
+        "link_title": "Downloading Files",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#downloading-files"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Redirect Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#redirect-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Visit Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#visit-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Danger Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#danger-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Custom Modal Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#custom-modal-actions"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Open URLs in New Tabs",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#open-urls-in-new-tabs"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Downloading Files",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#downloading-files"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Action Confirmation Modal",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#action-confirmation-modal"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Action Confirmation Modal",
+        "link_title": "Fullscreen / Custom Modal Sizes",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#fullscreen-custom-modal-sizes"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Action Confirmation Modal",
+        "link_title": "Disabling Action Confirmation",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#disabling-action-confirmation"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Fullscreen / Custom Modal Sizes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#fullscreen-custom-modal-sizes"
+      },
+      {
+        "topic": "Actions",
+        "page_title": "Registering Actions ​",
+        "section_title": "Disabling Action Confirmation",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/actions/registering-actions.html#disabling-action-confirmation"
+      }
+    ]
+  },
+  {
+    "topic": "Metrics",
+    "pageTitle": "Defining Metrics",
+    "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html",
+    "link": "https://nova.laravel.com/docs/metrics/defining-metrics.html",
+    "pageLinks": [
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#value-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "Value Query Types",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#value-query-types"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "Value Ranges",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#value-ranges"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "Zero Result Values",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#zero-result-values"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "Formatting the Value",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#formatting-the-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "Transforming a Value Result",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#transforming-a-value-result"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Metrics",
+        "link_title": "Manually Building Value Results",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-value-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Query Types",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#value-query-types"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Value Ranges",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#value-ranges"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Zero Result Values",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#zero-result-values"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Formatting the Value",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#formatting-the-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Transforming a Value Result",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#transforming-a-value-result"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Manually Building Value Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-value-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#trend-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Metrics",
+        "link_title": "Trend Query Types",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#trend-query-types"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Metrics",
+        "link_title": "Trend Ranges",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#trend-ranges"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Metrics",
+        "link_title": "Displaying the Current Value",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#displaying-the-current-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Metrics",
+        "link_title": "Formatting the Trend Value",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#formatting-the-trend-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Metrics",
+        "link_title": "Manually Building Trend Results",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-trend-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Query Types",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#trend-query-types"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Trend Ranges",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#trend-ranges"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Displaying the Current Value",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#displaying-the-current-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Formatting the Trend Value",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#formatting-the-trend-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Manually Building Trend Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-trend-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Partition Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#partition-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Partition Metrics",
+        "link_title": "Partition Query Types",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#partition-query-types"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Partition Metrics",
+        "link_title": "Customizing Partition Labels",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-partition-labels"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Partition Metrics",
+        "link_title": "Customizing Partition Colors",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-partition-colors"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Partition Metrics",
+        "link_title": "Manually Building Partition Results",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-partition-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Partition Query Types",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#partition-query-types"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Customizing Partition Labels",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-partition-labels"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Customizing Partition Colors",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-partition-colors"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Manually Building Partition Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-partition-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Progress Metric",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#progress-metric"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Progress Metric",
+        "link_title": "Sum",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#sum-3"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Progress Metric",
+        "link_title": "Unwanted Progress",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#unwanted-progress"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Progress Metric",
+        "link_title": "Formatting the Progress Value",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#formatting-the-progress-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Progress Metric",
+        "link_title": "Manually Building Progress Results",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-progress-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Sum",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#sum-3"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Unwanted Progress",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#unwanted-progress"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Formatting the Progress Value",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#formatting-the-progress-value"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Manually Building Progress Results",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#manually-building-progress-results"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Table Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#table-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Table Metrics",
+        "link_title": "Adding Actions to Table Rows",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#adding-actions-to-table-rows"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Table Metrics",
+        "link_title": "Displaying Icons on Table Rows",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#displaying-icons-on-table-rows"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Table Metrics",
+        "link_title": "Customizing Table Metric Empty Text",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-table-metric-empty-text"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Adding Actions to Table Rows",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#adding-actions-to-table-rows"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Displaying Icons on Table Rows",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#displaying-icons-on-table-rows"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Customizing Table Metric Empty Text",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-table-metric-empty-text"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Caching",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#caching"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Defining Metrics ​",
+        "section_title": "Customizing Metric Names",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/defining-metrics.html#customizing-metric-names"
+      }
+    ]
+  },
+  {
+    "topic": "Metrics",
+    "pageTitle": "Registering Metrics",
+    "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html",
+    "link": "https://nova.laravel.com/docs/metrics/registering-metrics.html",
+    "pageLinks": [
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#overview"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Overview",
+        "link_title": "Detail Metrics",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#detail-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Overview",
+        "link_title": "Dashboard Metrics",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#dashboard-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Detail Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#detail-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Dashboard Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#dashboard-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#authorization"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Default Metric Range",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#default-metric-range"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Metric Sizes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#metric-sizes"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Metric Help Text / Tooltips",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#metric-help-text-tooltips"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Refreshing Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#refreshing-metrics"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Refreshing Metrics",
+        "link_title": "Refresh After Actions",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#refresh-after-actions"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Refreshing Metrics",
+        "link_title": "Refresh After Filter Changes",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#refresh-after-filter-changes"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Refresh After Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#refresh-after-actions"
+      },
+      {
+        "topic": "Metrics",
+        "page_title": "Registering Metrics ​",
+        "section_title": "Refresh After Filter Changes",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/metrics/registering-metrics.html#refresh-after-filter-changes"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Dashboards",
+    "url": "https://nova.laravel.com/docs/customization/dashboards.html",
+    "link": "https://nova.laravel.com/docs/customization/dashboards.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Overview",
+        "link_title": "Default Dashboard",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#default-dashboard"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Default Dashboard",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#default-dashboard"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Defining Dashboards",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#defining-dashboards"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Defining Dashboards",
+        "link_title": "Dashboard Names",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#dashboard-names"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Defining Dashboards",
+        "link_title": "Dashboard URI Keys",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#dashboard-uri-keys"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Dashboard Names",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#dashboard-names"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Dashboard URI Keys",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#dashboard-uri-keys"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Registering Dashboards",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#registering-dashboards"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Registering Dashboards",
+        "link_title": "Customizing Dashboard Menus",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#customizing-dashboard-menus"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Registering Dashboards",
+        "link_title": "Refreshing Dashboard Metrics",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#refreshing-dashboard-metrics"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Registering Dashboards",
+        "link_title": "Authorization",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Customizing Dashboard Menus",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#customizing-dashboard-menus"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Refreshing Dashboard Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#refreshing-dashboard-metrics"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Dashboards ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/dashboards.html#authorization"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Menus",
+    "url": "https://nova.laravel.com/docs/customization/menus.html",
+    "link": "https://nova.laravel.com/docs/customization/menus.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Overview",
+        "link_title": "Customizing the Main Menu",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#customizing-the-main-menu"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Overview",
+        "link_title": "Customizing the User Menu",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#customizing-the-user-menu"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Overview",
+        "link_title": "Appending / Prepending to the Menu",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#appending-prepending-to-the-menu"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Customizing the Main Menu",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#customizing-the-main-menu"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Customizing the User Menu",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#customizing-the-user-menu"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Appending / Prepending to the Menu",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#appending-prepending-to-the-menu"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Sections",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-sections"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Sections",
+        "link_title": "Menu Section Icons",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-section-icons"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Sections",
+        "link_title": "Menu Section Badges",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-section-badges"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Sections",
+        "link_title": "Conditional Badges",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#conditional-badges"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Sections",
+        "link_title": "Collapsable Menu Sections",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#collapsable-menu-sections"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Section Icons",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-section-icons"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Section Badges",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-section-badges"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Conditional Badges",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#conditional-badges"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Collapsable Menu Sections",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#collapsable-menu-sections"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Groups",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-groups"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Groups",
+        "link_title": "Collapsable Menu Groups",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#collapsable-menu-groups"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Collapsable Menu Groups",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#collapsable-menu-groups"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "Resource Menu Items",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#resource-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "Lens Menu Items",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#lens-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "Dashboard Menu Items",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#dashboard-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "External Link Menu Items",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#external-link-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "Menu Item Badges",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-item-badges"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "Conditional Badges",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#conditional-badges-1"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Items",
+        "link_title": "Authorizing Menu Items",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#authorizing-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Resource Menu Items",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#resource-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Lens Menu Items",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#lens-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Dashboard Menu Items",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#dashboard-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "External Link Menu Items",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#external-link-menu-items"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Menu Item Badges",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#menu-item-badges"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Conditional Badges",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#conditional-badges-1"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Menus ​",
+        "section_title": "Authorizing Menu Items",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/menus.html#authorizing-menu-items"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Notifications",
+    "url": "https://nova.laravel.com/docs/customization/notifications.html",
+    "link": "https://nova.laravel.com/docs/customization/notifications.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Sending Notifications",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#sending-notifications"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Sending Notifications",
+        "link_title": "Opening Remote Action URLs in New Tabs",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#opening-remote-action-urls-in-new-tabs"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Sending Notifications",
+        "link_title": "Notification Icons",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#notification-icons"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Opening Remote Action URLs in New Tabs",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#opening-remote-action-urls-in-new-tabs"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Notification Icons",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#notification-icons"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Disabling Notifications",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#disabling-notifications"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Notifications ​",
+        "section_title": "Enabling Unread Notifications Count",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/notifications.html#enabling-unread-notifications-count"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Impersonation",
+    "url": "https://nova.laravel.com/docs/customization/impersonation.html",
+    "link": "https://nova.laravel.com/docs/customization/impersonation.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Impersonation ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/impersonation.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Impersonation ​",
+        "section_title": "Enabling Impersonation",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/impersonation.html#enabling-impersonation"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Impersonation ​",
+        "section_title": "Enabling Impersonation",
+        "link_title": "Customizing Impersonation Authorization",
+        "url": "https://nova.laravel.com/docs/customization/impersonation.html#customizing-impersonation-authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Impersonation ​",
+        "section_title": "Customizing Impersonation Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/impersonation.html#customizing-impersonation-authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Impersonation ​",
+        "section_title": "Inspecting Impersonation State",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/impersonation.html#inspecting-impersonation-state"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Impersonation ​",
+        "section_title": "Impersonation Events",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/impersonation.html#impersonation-events"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Tools",
+    "url": "https://nova.laravel.com/docs/customization/tools.html",
+    "link": "https://nova.laravel.com/docs/customization/tools.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Defining Tools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#defining-tools"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Registering Tools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#registering-tools"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Registering Tools",
+        "link_title": "Authorization",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Building Tools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#building-tools"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Building Tools",
+        "link_title": "Routing",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#routing"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Building Tools",
+        "link_title": "Navigation",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#navigation"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Routing",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#routing"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Navigation",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#navigation"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Assets",
+        "link_title": "Registering Assets",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Assets",
+        "link_title": "JavaScript Bootstrap & Components",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#javascript-bootstrap-components"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Assets",
+        "link_title": "Compiling Assets",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#compiling-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Assets",
+        "link_title": "Vue Page Components & Nova Plugins",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#vue-page-components-nova-plugins"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Registering Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "JavaScript Bootstrap & Components",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#javascript-bootstrap-components"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Compiling Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#compiling-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Tools ​",
+        "section_title": "Vue Page Components & Nova Plugins",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/tools.html#vue-page-components-nova-plugins"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Resource Tools",
+    "url": "https://nova.laravel.com/docs/customization/resource-tools.html",
+    "link": "https://nova.laravel.com/docs/customization/resource-tools.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Defining Tools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#defining-tools"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Registering Tools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#registering-tools"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Registering Tools",
+        "link_title": "Authorization",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Registering Tools",
+        "link_title": "Tool Options",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#tool-options"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Tool Options",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#tool-options"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Building Tools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#building-tools"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Building Tools",
+        "link_title": "Routing",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#routing"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Routing",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#routing"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Assets",
+        "link_title": "Registering Assets",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Assets",
+        "link_title": "Compiling Assets",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#compiling-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Registering Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Resource Tools ​",
+        "section_title": "Compiling Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/resource-tools.html#compiling-assets"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Cards",
+    "url": "https://nova.laravel.com/docs/customization/cards.html",
+    "link": "https://nova.laravel.com/docs/customization/cards.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Defining Cards",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#defining-cards"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Registering Cards",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#registering-cards"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Registering Cards",
+        "link_title": "Authorization",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Registering Cards",
+        "link_title": "Card Options",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#card-options"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Authorization",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#authorization"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Card Options",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#card-options"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Building Cards",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#building-cards"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Building Cards",
+        "link_title": "Routing",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#routing"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Routing",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#routing"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Assets",
+        "link_title": "Registering Assets",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Assets",
+        "link_title": "Compiling Assets",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#compiling-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Registering Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Cards ​",
+        "section_title": "Compiling Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/cards.html#compiling-assets"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Fields",
+    "url": "https://nova.laravel.com/docs/customization/fields.html",
+    "link": "https://nova.laravel.com/docs/customization/fields.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Defining Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#defining-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Registering Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#registering-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Registering Fields",
+        "link_title": "Field Options",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#field-options"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Field Options",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#field-options"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Building Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#building-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Building Fields",
+        "link_title": "Index Fields",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#index-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Building Fields",
+        "link_title": "Detail Fields",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#detail-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Building Fields",
+        "link_title": "Form Fields",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#form-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Index Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#index-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Detail Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#detail-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Form Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#form-fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Assets",
+        "link_title": "Registering Assets",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Assets",
+        "link_title": "Compiling Assets",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#compiling-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Registering Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Fields ​",
+        "section_title": "Compiling Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/fields.html#compiling-assets"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Filters",
+    "url": "https://nova.laravel.com/docs/customization/filters.html",
+    "link": "https://nova.laravel.com/docs/customization/filters.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Defining Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#defining-filters"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Registering Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#registering-filters"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Building Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#building-filters"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Building Filters",
+        "link_title": "The Filter Vue Component",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#the-filter-vue-component"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Building Filters",
+        "link_title": "Managing Filter State",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#managing-filter-state"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "The Filter Vue Component",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#the-filter-vue-component"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Managing Filter State",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#managing-filter-state"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Assets",
+        "link_title": "Registering Assets",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Assets",
+        "link_title": "Compiling Assets",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#compiling-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Registering Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Filters ​",
+        "section_title": "Compiling Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/filters.html#compiling-assets"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "CSS & JavaScript",
+    "url": "https://nova.laravel.com/docs/customization/frontend.html",
+    "link": "https://nova.laravel.com/docs/customization/frontend.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Nova Requests",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#nova-requests"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Manual Navigation",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#manual-navigation"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Event Bus",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#event-bus"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Notifications",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#notifications"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Shortcuts",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#shortcuts"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Global Variables",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#global-variables"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Localizations",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#localizations"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Using Nova Mixins",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#using-nova-mixins"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "CSS / JavaScript ​",
+        "section_title": "Vue DevTools",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/frontend.html#vue-devtools"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Assets",
+    "url": "https://nova.laravel.com/docs/customization/assets.html",
+    "link": "https://nova.laravel.com/docs/customization/assets.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Assets ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/assets.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Assets ​",
+        "section_title": "Defining Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/assets.html#defining-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Assets ​",
+        "section_title": "Registering Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/assets.html#registering-assets"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Assets ​",
+        "section_title": "Compiling Assets",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/assets.html#compiling-assets"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Localization",
+    "url": "https://nova.laravel.com/docs/customization/localization.html",
+    "link": "https://nova.laravel.com/docs/customization/localization.html",
+    "pageLinks": [
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#overview"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Overview",
+        "link_title": "Creating New Localization Files",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#creating-new-localization-files"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Overview",
+        "link_title": "User Locale Overrides",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#user-locale-overrides"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Creating New Localization Files",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#creating-new-localization-files"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "User Locale Overrides",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#user-locale-overrides"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Resources",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#resources"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Fields",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#fields"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Relationships",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#relationships"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Filters",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#filters"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Lenses",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#lenses"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#actions"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Metrics",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#metrics"
+      },
+      {
+        "topic": "Digging Deeper",
+        "page_title": "Localization ​",
+        "section_title": "Frontend",
+        "link_title": "",
+        "url": "https://nova.laravel.com/docs/customization/localization.html#frontend"
+      }
+    ]
+  },
+  {
+    "topic": "Digging Deeper",
+    "pageTitle": "Stubs",
+    "url": "https://nova.laravel.com/docs/customization/stubs.html",
+    "link": "https://nova.laravel.com/docs/customization/stubs.html",
+    "pageLinks": []
+  }
+]

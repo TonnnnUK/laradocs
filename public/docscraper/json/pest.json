@@ -1,0 +1,1535 @@
+[
+    {
+        "topic": "Getting Started",
+        "page_title": "Installation",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/installation"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Editor Setup",
+        "section_title": "Editor Setup",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/editor-setup"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Writing Tests",
+        "section_title": "Writing Tests",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/writing-tests"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Writing Tests",
+        "section_title": "Your First Test",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/writing-tests#content-your-first-test"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Writing Tests",
+        "section_title": "Expectation API",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/writing-tests#content-expectation-api"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Writing Tests",
+        "section_title": "Assertion API",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/writing-tests#content-assertion-api"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBe()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobe"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeBetween()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobebetween"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeEmpty()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeempty"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeTrue()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobetrue"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeTruthy()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobetruthy"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeFalse()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobefalse"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeFalsy()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobefalsy"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeGreaterThan($expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobegreaterthanexpected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeGreaterThanOrEqual($expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobegreaterthanorequalexpected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeLessThan($expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobelessthanexpected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeLessThanOrEqual($expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobelessthanorequalexpected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toContain($needles)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tocontainneedles"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toContainEqual($needles)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tocontainequalneedles"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toContainOnlyInstancesOf($class)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tocontainonlyinstancesofclass"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveCount(int $count)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavecountint-count"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveMethod(string $name)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavemethodstring-name"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveMethods(iterable $names)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavemethodsiterable-names"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveProperty(string $name, $value = null)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavepropertystring-name-value--null"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveProperties(iterable $name)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavepropertiesiterable-name"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toMatchArray($array)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tomatcharrayarray"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toMatchObject($object)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tomatchobjectobject"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toEqual($expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-toequalexpected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toEqualCanonicalizing($expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-toequalcanonicalizingexpected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toEqualWithDelta($expected, float $delta)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-toequalwithdeltaexpected-float-delta"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeIn()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobein"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeInfinite()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeinfinite"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeInstanceOf($class)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeinstanceofclass"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeArray()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobearray"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeBool()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobebool"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeCallable()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobecallable"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeFile()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobefile"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeFloat()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobefloat"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeInt()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeint"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeIterable()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeiterable"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeNumeric()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobenumeric"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeDigits()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobedigits"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeObject()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeobject"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeResource()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-toberesource"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeScalar()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobescalar"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeString()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobestring"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeJson()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobejson"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeNan()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobenan"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeNull()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobenull"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveKey(string $key)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavekeystring-key"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveKeys(array $keys)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavekeysarray-keys"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveLength(int $number)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavelengthint-number"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeDirectory()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobedirectory"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeReadableDirectory()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobereadabledirectory"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeReadableFile()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobereadablefile"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeWritableDirectory()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobewritabledirectory"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeWritableFile()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobewritablefile"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toStartWith(string $expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tostartwithstring-expected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toThrow()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tothrow"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toMatch(string $expression)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tomatchstring-expression"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toEndWith(string $expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-toendwithstring-expected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toMatchConstraint(Constraint $constraint)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tomatchconstraintconstraint-constraint"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeUppercase(string $expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeuppercasestring-expected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeLowercase(string $expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobelowercasestring-expected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeAlpha(string $expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobealphastring-expected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeAlphaNumeric(string $expected)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobealphanumericstring-expected"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeSnakeCase()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobesnakecase"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeKebabCase()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobekebabcase"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeCamelCase()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobecamelcase"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeStudlyCase()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobestudlycase"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveSnakeCaseKeys()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavesnakecasekeys"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveKebabCaseKeys()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavekebabcasekeys"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveCamelCaseKeys()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavecamelcasekeys"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveStudlyCaseKeys()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavestudlycasekeys"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toHaveSameSize()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tohavesamesize"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeUrl()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeurl"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "toBeUuid()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-tobeuuid"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "and($value)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-andvalue"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "dd()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-dd"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "ddWhen($condition)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-ddwhencondition"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "ddUnless($condition)",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-ddunlesscondition"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "each()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-each"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "json()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-json"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "match()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-match"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "not",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-not"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "ray()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-ray"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "sequence()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-sequence"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "when()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-when"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Expectations",
+        "section_title": "unless()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/expectations#content-unless"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Hooks",
+        "section_title": "Hooks",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/hooks"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Hooks",
+        "section_title": "beforeEach()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/hooks#content-beforeeach"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Hooks",
+        "section_title": "afterEach()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/hooks#content-aftereach"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Hooks",
+        "section_title": "beforeAll()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/hooks#content-beforeall"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Hooks",
+        "section_title": "afterAll()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/hooks#content-afterall"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Datasets",
+        "section_title": "Datasets",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/datasets"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Datasets",
+        "section_title": "Bound Datasets",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/datasets#content-bound-datasets"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Datasets",
+        "section_title": "Sharing Datasets",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/datasets#content-sharing-datasets"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Datasets",
+        "section_title": "Scoped Datasets",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/datasets#content-scoped-datasets"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Datasets",
+        "section_title": "Combining Datasets",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/datasets#content-combining-datasets"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Datasets",
+        "section_title": "Repeating Tests",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/datasets#content-repeating-tests"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Exceptions",
+        "section_title": "Exceptions",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/exceptions"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "Test Filtering",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "--bail",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content---bail"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "--dirty",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content---dirty"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "--filter",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content---filter"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "--group",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content---group"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "--exclude-group",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content---exclude-group"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "--retry",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content---retry"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Test Filtering",
+        "section_title": "only()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/filtering-tests#content-only"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Skipping Tests",
+        "section_title": "Skipping Tests",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/skipping-tests"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Skipping Tests",
+        "section_title": "Creating Todos",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/skipping-tests#content-creating-todos"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Optimizing Tests",
+        "section_title": "Optimizing Tests",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/optimizing-tests"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Optimizing Tests",
+        "section_title": "Parallel Testing",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/optimizing-tests#content-parallel-testing"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Optimizing Tests",
+        "section_title": "Profiling",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/optimizing-tests#content-profiling"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Optimizing Tests",
+        "section_title": "Compact Printer",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/optimizing-tests#content-compact-printer"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Continuous Integration",
+        "section_title": "Continuous Integration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/continuous-integration"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Continuous Integration",
+        "section_title": "Example With GitHub Actions",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/continuous-integration#content-example-with-github-actions"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Continuous Integration",
+        "section_title": "Example With GitLab CI/CD Pipelines",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/continuous-integration#content-example-with-gitlab-cicd-pipelines"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Continuous Integration",
+        "section_title": "Example with Bitbucket Pipelines",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/continuous-integration#content-example-with-bitbucket-pipelines"
+    },
+    {
+        "topic": "Getting Started",
+        "page_title": "Continuous Integration",
+        "section_title": "Example with Chipper CI",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/continuous-integration#content-example-with-chipper-ci"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Configuring Tests",
+        "section_title": "Configuring Tests",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/configuring-tests"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Grouping Tests",
+        "section_title": "Grouping Tests",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/grouping-tests"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Global Hooks",
+        "section_title": "Global Hooks",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/global-hooks"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Mocking",
+        "section_title": "Mocking",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/mocking"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Mocking",
+        "section_title": "Method Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/mocking#content-method-expectations"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Mocking",
+        "section_title": "Argument Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/mocking#content-argument-expectations"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Mocking",
+        "section_title": "Return Values",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/mocking#content-return-values"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Mocking",
+        "section_title": "Method Call Count Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/mocking#content-method-call-count-expectations"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Plugins",
+        "section_title": "Plugins",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/plugins"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Plugins",
+        "section_title": "Faker",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/plugins#content-faker"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Plugins",
+        "section_title": "Laravel",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/plugins#content-laravel"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Plugins",
+        "section_title": "Livewire",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/plugins#content-livewire"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Plugins",
+        "section_title": "Watch",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/plugins#content-watch"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "Architecture Testing",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-expectations"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeAbstract()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeabstract"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeClasses()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeclasses"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeEnums()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeenums"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeIntBackedEnums()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeintbackedenums"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeInterfaces()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeinterfaces"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeInvokable()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeinvokable"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeTraits()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobetraits"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeFinal()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobefinal"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeReadonly()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobereadonly"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeStringBackedEnums()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobestringbackedenums"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeUsed()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeused"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toBeUsedIn()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tobeusedin"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toExtend()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toextend"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toExtendNothing()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toextendnothing"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toImplement()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toimplement"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toImplementNothing()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toimplementnothing"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toHaveAttribute()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tohaveattribute"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toHaveMethod()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tohavemethod"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toHavePrefix()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tohaveprefix"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toHaveSuffix()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tohavesuffix"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toHaveConstructor()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tohaveconstructor"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toHaveDestructor()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tohavedestructor"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toOnlyImplement()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toonlyimplement"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toOnlyUse()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toonlyuse"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toOnlyBeUsedIn()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-toonlybeusedin"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toUse()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-touse"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toUseNothing()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tousenothing"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "toUseStrictTypes()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-tousestricttypes"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "Modifiers",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-modifiers"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "classes()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-classes"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "enums()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-enums"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "ignoring()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-ignoring"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "interfaces()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-interfaces"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Architecture Testing",
+        "section_title": "traits()",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/arch-testing#content-traits"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Stress Testing",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "The Stress Command",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-the-stress-command"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "The Stress function",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-the-stress-function"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Request Duration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-request-duration"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Count",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-count"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Rate",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-rate"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Failed Count",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-failed-count"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Failed Rate",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-failed-rate"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Time To First Byte Duration / TTFB",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-time-to-first-byte-duration--ttfb"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests DNS Lookup Duration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-dns-lookup-duration"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests TLS Handshaking Duration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-tls-handshaking-duration"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Download Duration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-download-duration"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Download Data Rate",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-download-data-rate"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Upload Duration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-upload-duration"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Upload Data Count",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-upload-data-count"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Requests Upload Data Rate",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-requests-upload-data-rate"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Test Run Concurrency",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-test-run-concurrency"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Stress Testing",
+        "section_title": "Test Run Duration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/stress-testing#content-test-run-duration"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Test Coverage",
+        "section_title": "Test Coverage",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/test-coverage"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Test Coverage",
+        "section_title": "Minimum Threshold Enforcement",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/test-coverage#content-minimum-threshold-enforcement"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Test Coverage",
+        "section_title": "Ignoring Code",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/test-coverage#content-ignoring-code"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Test Coverage",
+        "section_title": "Different Formats",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/test-coverage#content-different-formats"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Type Coverage",
+        "section_title": "Type Coverage",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/type-coverage"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Type Coverage",
+        "section_title": "Ignoring Errors",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/type-coverage#content-ignoring-errors"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Type Coverage",
+        "section_title": "Minimum Threshold Enforcement",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/type-coverage#content-minimum-threshold-enforcement"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Type Coverage",
+        "section_title": "Different Formats",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/type-coverage#content-different-formats"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Snapshot Testing",
+        "section_title": "Snapshot Testing",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/snapshot-testing"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Snapshot Testing",
+        "section_title": "Handling Dynamic Data",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/snapshot-testing#content-handling-dynamic-data"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Custom Helpers",
+        "section_title": "Custom Helpers",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/custom-helpers"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Custom Expectations",
+        "section_title": "Custom Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/custom-expectations"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Custom Expectations",
+        "section_title": "Intercept Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/custom-expectations#content-intercept-expectations"
+    },
+    {
+        "topic": "Digging Deeper",
+        "page_title": "Custom Expectations",
+        "section_title": "Pipe Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/custom-expectations#content-pipe-expectations"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "CLI API Reference",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Configuration",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-configuration"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Selection",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-selection"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Execution",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-execution"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Reporting",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-reporting"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Logging",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-logging"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Code Coverage",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-code-coverage"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "CLI API Reference",
+        "section_title": "Profiling",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/cli-api-reference#content-profiling"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Test Dependency",
+        "section_title": "Test Dependency",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/test-dependencies"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Creating Plugins",
+        "section_title": "Creating Plugins",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/creating-plugins"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Creating Plugins",
+        "section_title": "Adding Methods",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/creating-plugins#content-adding-methods"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Creating Plugins",
+        "section_title": "Adding Functions",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/creating-plugins#content-adding-functions"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Creating Plugins",
+        "section_title": "Adding Custom Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/creating-plugins#content-adding-custom-expectations"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Higher Order Testing",
+        "section_title": "Higher Order Testing",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/higher-order-testing"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Higher Order Testing",
+        "section_title": "Higher Order Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/higher-order-testing#content-higher-order-expectations"
+    },
+    {
+        "topic": "Advanced Topics",
+        "page_title": "Higher Order Testing",
+        "section_title": "Scoped Higher Order Expectations",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/higher-order-testing#content-scoped-higher-order-expectations"
+    },
+    {
+        "topic": "More",
+        "page_title": "Migrating from PHPUnit",
+        "section_title": "Migrating from PHPUnit",
+        "link_title": "",
+        "url": "https://pestphp.com/docs/migrating-from-phpunit-guide"
+    }
+]

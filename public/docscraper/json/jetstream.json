@@ -1,0 +1,850 @@
+[
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Introduction",
+    "url": "https://jetstream.laravel.com/introduction.html",
+    "link": "https://jetstream.laravel.com/introduction.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Introduction ​",
+        "section_title": "Laravel Jetstream",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/introduction.html#laravel-jetstream"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Introduction ​",
+        "section_title": "Available Stacks",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/introduction.html#available-stacks"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Introduction ​",
+        "section_title": "Available Stacks",
+        "link_title": "Livewire + Blade",
+        "url": "https://jetstream.laravel.com/introduction.html#available-stacks"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Introduction ​",
+        "section_title": "Available Stacks",
+        "link_title": "Inertia + Vue",
+        "url": "https://jetstream.laravel.com/introduction.html#available-stacks"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Installation",
+    "url": "https://jetstream.laravel.com/installation.html",
+    "link": "https://jetstream.laravel.com/installation.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Installing Jetstream",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/installation.html#installing-jetstream"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Installing Jetstream",
+        "link_title": "Install Jetstream With Livewire",
+        "url": "https://jetstream.laravel.com/installation.html#installing-jetstream"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Installing Jetstream",
+        "link_title": "Or, Install Jetstream With Inertia",
+        "url": "https://jetstream.laravel.com/installation.html#installing-jetstream"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Installing Jetstream",
+        "link_title": "Dark Mode",
+        "url": "https://jetstream.laravel.com/installation.html#installing-jetstream"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Installing Jetstream",
+        "link_title": "Finalizing the Installation",
+        "url": "https://jetstream.laravel.com/installation.html#installing-jetstream"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Application Logo",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/installation.html#application-logo"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Application Logo",
+        "link_title": "Livewire",
+        "url": "https://jetstream.laravel.com/installation.html#application-logo"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Application Logo",
+        "link_title": "Inertia",
+        "url": "https://jetstream.laravel.com/installation.html#application-logo"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Installation ​",
+        "section_title": "Upgrade Guide",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/installation.html#upgrade-guide"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Concept Overview",
+    "url": "https://jetstream.laravel.com/concept-overview.html",
+    "link": "https://jetstream.laravel.com/concept-overview.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/concept-overview.html#introduction"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Laravel Fortify",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/concept-overview.html#laravel-fortify"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Laravel Fortify",
+        "link_title": "Fortify Configuration",
+        "url": "https://jetstream.laravel.com/concept-overview.html#laravel-fortify"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/concept-overview.html#actions"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/concept-overview.html#views-pages"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Views / Pages",
+        "link_title": "Layouts",
+        "url": "https://jetstream.laravel.com/concept-overview.html#views-pages"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Views / Pages",
+        "link_title": "Dashboard",
+        "url": "https://jetstream.laravel.com/concept-overview.html#views-pages"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Concept Overview ​",
+        "section_title": "Tailwind",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/concept-overview.html#tailwind"
+      }
+    ]
+  },
+  {
+    "topic": "Getting Started",
+    "pageTitle": "Building Your App",
+    "url": "https://jetstream.laravel.com/building-your-app.html",
+    "link": "https://jetstream.laravel.com/building-your-app.html",
+    "pageLinks": [
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/building-your-app.html#introduction"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Application Dashboard",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/building-your-app.html#application-dashboard"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Application Dashboard",
+        "link_title": "Adding Additional Pages",
+        "url": "https://jetstream.laravel.com/building-your-app.html#application-dashboard"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "User Profile",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/building-your-app.html#user-profile"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Team Management",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/building-your-app.html#team-management"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Team Management",
+        "link_title": "Create Team Screen",
+        "url": "https://jetstream.laravel.com/building-your-app.html#team-management"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Team Management",
+        "link_title": "Team Settings Screen",
+        "url": "https://jetstream.laravel.com/building-your-app.html#team-management"
+      },
+      {
+        "topic": "Getting Started",
+        "page_title": "Building Your App ​",
+        "section_title": "Banner Alerts",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/building-your-app.html#banner-alerts"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "API",
+    "url": "https://jetstream.laravel.com/features/api.html",
+    "link": "https://jetstream.laravel.com/features/api.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "API ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/api.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "API ​",
+        "section_title": "Enabling API Support",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/api.html#enabling-api-support"
+      },
+      {
+        "topic": "Features",
+        "page_title": "API ​",
+        "section_title": "Defining Permissions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/api.html#defining-permissions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "API ​",
+        "section_title": "Authorizing Incoming Requests",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/api.html#authorizing-incoming-requests"
+      },
+      {
+        "topic": "Features",
+        "page_title": "API ​",
+        "section_title": "Authorizing Incoming Requests",
+        "link_title": "First-Party UI Initiated Requests",
+        "url": "https://jetstream.laravel.com/features/api.html#authorizing-incoming-requests"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Authentication",
+    "url": "https://jetstream.laravel.com/features/authentication.html",
+    "link": "https://jetstream.laravel.com/features/authentication.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/authentication.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Laravel Fortify",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/authentication.html#laravel-fortify"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/authentication.html#views-pages"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Views / Pages",
+        "link_title": "Customizing the Authentication Views",
+        "url": "https://jetstream.laravel.com/features/authentication.html#views-pages"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Customizing the Authentication Process",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/authentication.html#customizing-the-authentication-process"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Customizing the Authentication Process",
+        "link_title": "Customizing User Authentication",
+        "url": "https://jetstream.laravel.com/features/authentication.html#customizing-the-authentication-process"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Customizing the Authentication Process",
+        "link_title": "Customizing the Authentication Pipeline",
+        "url": "https://jetstream.laravel.com/features/authentication.html#customizing-the-authentication-process"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Password Reset",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/authentication.html#password-reset"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Password Reset",
+        "link_title": "Actions",
+        "url": "https://jetstream.laravel.com/features/authentication.html#password-reset"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Authentication ​",
+        "section_title": "Password Reset",
+        "link_title": "Views / Pages",
+        "url": "https://jetstream.laravel.com/features/authentication.html#password-reset"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Registration",
+    "url": "https://jetstream.laravel.com/features/registration.html",
+    "link": "https://jetstream.laravel.com/features/registration.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/registration.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/registration.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Actions",
+        "link_title": "Password Validation Rules",
+        "url": "https://jetstream.laravel.com/features/registration.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/registration.html#views-pages"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Views / Pages",
+        "link_title": "Customizing the Registration View",
+        "url": "https://jetstream.laravel.com/features/registration.html#views-pages"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Requiring Terms of Service / Privacy Policy Approval",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/registration.html#requiring-terms-of-service-privacy-policy-approval"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Requiring Terms of Service / Privacy Policy Approval",
+        "link_title": "Terms & Policy Localization",
+        "url": "https://jetstream.laravel.com/features/registration.html#requiring-terms-of-service-privacy-policy-approval"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Registration ​",
+        "section_title": "Email Verification",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/registration.html#email-verification"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Profile Management",
+    "url": "https://jetstream.laravel.com/features/profile-management.html",
+    "link": "https://jetstream.laravel.com/features/profile-management.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#views-pages"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Profile Photos",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#profile-photos"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Profile Photos",
+        "link_title": "Enabling Profile Photos",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#profile-photos"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Profile Photos",
+        "link_title": "Managing Profile Photos",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#profile-photos"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Profile Management ​",
+        "section_title": "Account Deletion",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/profile-management.html#account-deletion"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Password Update",
+    "url": "https://jetstream.laravel.com/features/password-update.html",
+    "link": "https://jetstream.laravel.com/features/password-update.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Password Update ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-update.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Update ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-update.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Update ​",
+        "section_title": "Actions",
+        "link_title": "Password Validation Rules",
+        "url": "https://jetstream.laravel.com/features/password-update.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Update ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-update.html#views-pages"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Password Confirmation",
+    "url": "https://jetstream.laravel.com/features/password-confirmation.html",
+    "link": "https://jetstream.laravel.com/features/password-confirmation.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Introduction",
+        "link_title": "Redirect Based Password Confirmation",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Introduction",
+        "link_title": "Modal Based Password Confirmation",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Redirect Password Confirmation",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#redirect-password-confirmation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Redirect Password Confirmation",
+        "link_title": "Redirect Password Confirmation via Livewire",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#redirect-password-confirmation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Redirect Password Confirmation",
+        "link_title": "Redirect Password Confirmation via Inertia",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#redirect-password-confirmation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Modal Password Confirmation",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#modal-password-confirmation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Modal Password Confirmation",
+        "link_title": "Modal Password Confirmation via Livewire",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#modal-password-confirmation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Modal Password Confirmation",
+        "link_title": "Modal Password Confirmation via Inertia",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#modal-password-confirmation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Password Confirmation ​",
+        "section_title": "Customizing How Passwords Are Confirmed",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/password-confirmation.html#customizing-how-passwords-are-confirmed"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Two Factor Authentication",
+    "url": "https://jetstream.laravel.com/features/two-factor-authentication.html",
+    "link": "https://jetstream.laravel.com/features/two-factor-authentication.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Two Factor Authentication ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/two-factor-authentication.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Two Factor Authentication ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/two-factor-authentication.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Two Factor Authentication ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/two-factor-authentication.html#views-pages"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Two Factor Authentication ​",
+        "section_title": "Disabling Two-Factor Authentication",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/two-factor-authentication.html#disabling-two-factor-authentication"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Browser Sessions",
+    "url": "https://jetstream.laravel.com/features/browser-sessions.html",
+    "link": "https://jetstream.laravel.com/features/browser-sessions.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Browser Sessions ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/browser-sessions.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Browser Sessions ​",
+        "section_title": "Actions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/browser-sessions.html#actions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Browser Sessions ​",
+        "section_title": "Views / Pages",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/browser-sessions.html#views-pages"
+      }
+    ]
+  },
+  {
+    "topic": "Features",
+    "pageTitle": "Teams",
+    "url": "https://jetstream.laravel.com/features/teams.html",
+    "link": "https://jetstream.laravel.com/features/teams.html",
+    "pageLinks": [
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/teams.html#introduction"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Team Creation",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/teams.html#team-creation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Team Creation",
+        "link_title": "Actions",
+        "url": "https://jetstream.laravel.com/features/teams.html#team-creation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Team Creation",
+        "link_title": "Views / Pages",
+        "url": "https://jetstream.laravel.com/features/teams.html#team-creation"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Inspecting User Teams",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/teams.html#inspecting-user-teams"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Inspecting User Teams",
+        "link_title": "The Current Team",
+        "url": "https://jetstream.laravel.com/features/teams.html#inspecting-user-teams"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Inspecting User Teams",
+        "link_title": "The Team Object",
+        "url": "https://jetstream.laravel.com/features/teams.html#inspecting-user-teams"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Member Management",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/teams.html#member-management"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Member Management",
+        "link_title": "Member Management Actions",
+        "url": "https://jetstream.laravel.com/features/teams.html#member-management"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Member Management",
+        "link_title": "Member Management Views / Pages",
+        "url": "https://jetstream.laravel.com/features/teams.html#member-management"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Member Management",
+        "link_title": "Invitations",
+        "url": "https://jetstream.laravel.com/features/teams.html#member-management"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Roles / Permissions",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/features/teams.html#roles-permissions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Roles / Permissions",
+        "link_title": "Authorization",
+        "url": "https://jetstream.laravel.com/features/teams.html#roles-permissions"
+      },
+      {
+        "topic": "Features",
+        "page_title": "Teams ​",
+        "section_title": "Roles / Permissions",
+        "link_title": "Combining Team Permissions With API Permissions",
+        "url": "https://jetstream.laravel.com/features/teams.html#roles-permissions"
+      }
+    ]
+  },
+  {
+    "topic": "Stack Features",
+    "pageTitle": "Livewire",
+    "url": "https://jetstream.laravel.com/stacks/livewire.html",
+    "link": "https://jetstream.laravel.com/stacks/livewire.html",
+    "pageLinks": [
+      {
+        "topic": "Stack Features",
+        "page_title": "Livewire ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/livewire.html#introduction"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Livewire ​",
+        "section_title": "Components",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/livewire.html#components"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Livewire ​",
+        "section_title": "Modals",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/livewire.html#modals"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Livewire ​",
+        "section_title": "Banner Alerts",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/livewire.html#banner-alerts"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Livewire ​",
+        "section_title": "Banner Alerts",
+        "link_title": "Usage",
+        "url": "https://jetstream.laravel.com/stacks/livewire.html#banner-alerts"
+      }
+    ]
+  },
+  {
+    "topic": "Stack Features",
+    "pageTitle": "Inertia",
+    "url": "https://jetstream.laravel.com/stacks/inertia.html",
+    "link": "https://jetstream.laravel.com/stacks/inertia.html",
+    "pageLinks": [
+      {
+        "topic": "Stack Features",
+        "page_title": "Inertia ​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/inertia.html#introduction"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Inertia ​",
+        "section_title": "Components",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/inertia.html#components"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Inertia ​",
+        "section_title": "Customizing Jetstream's Page Rendering",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/inertia.html#customizing-jetstream-s-page-rendering"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Inertia ​",
+        "section_title": "Modals",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/inertia.html#modals"
+      },
+      {
+        "topic": "Stack Features",
+        "page_title": "Inertia ​",
+        "section_title": "Routes",
+        "link_title": "",
+        "url": "https://jetstream.laravel.com/stacks/inertia.html#routes"
+      }
+    ]
+  }
+]

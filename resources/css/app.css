@@ -10,3 +10,171 @@ h1 {
     background-image: url('http://laradocs.test/img/faded-icons-bg.png');
     background-repeat: repeat-x;
 }
+
+
+.Laravel {
+    border: solid 1px #f13d30;
+}
+
+.Laravel:hover {
+    background-color: #fffbfb;
+}
+
+.Laravel .highlight, 
+.Laravel .link 
+{
+    color: #5a0a05;
+}
+
+
+.Livewire {
+    border: solid 1px #FB70A9;
+}
+
+.Livewire:hover {
+    background-color: #fff8f8;
+}
+
+.Livewire .highlight,
+.Livewire .link
+{
+    color: #bf356e;
+}
+
+
+.Filament {
+    border: solid 1px #fdae4b;
+}
+
+.Filament:hover {
+    background-color: #fffcf8;
+}
+
+.Filament .highlight,
+.Filament .link
+{
+    color: #935509;
+}
+
+.AlpineJS {
+    border: solid 1px #77c1d2;
+}
+
+.AlpineJS:hover {
+    background-color: #f8feff;
+}
+
+.AlpineJS .highlight,
+.AlpineJS .link
+{
+    color: #104652;
+}
+
+
+.TailwindCSS {
+    border: solid 1px #38bdf8;
+}
+
+.TailwindCSS:hover {
+    background-color: #f0fbff;
+}
+
+.TailwindCSS .highlight,
+.TailwindCSS .link
+{
+    color: #136e95;
+}
+
+
+.Carbon {
+    border: solid 1px #7ac35f;
+}
+
+.Carbon:hover {
+    background-color: #fbfff9;
+}
+
+.Carbon .highlight,
+.Carbon .link
+{
+    color: #326320;
+}
+
+
+.Inertia {
+    border: solid 1px #935eeb;
+}
+
+.Inertia:hover {
+    background-color: #fbf8ff;
+}
+
+.Inertia .highlight,
+.Inertia .link
+{
+    color: #593593;
+}
+
+
+.Jetstream {
+    border: solid 1px #6875f5;
+}
+
+.Jetstream:hover {
+    background-color: #f3f5ff;
+}
+
+.Jetstream .highlight,
+.Jetstream .link
+{
+    color: #222b83;
+}
+
+
+.Pest {
+    border: solid 1px #22d3ee;
+}
+
+.Pest:hover {
+    background-color: #f8fcff;
+}
+
+.Pest .highlight,
+.Pest .link
+{
+    color: #0a6b7a;
+}
+
+
+.Nova {
+    border: solid 1px #7ce0fc;
+}
+
+.Nova:hover {
+    background-color: #f3fafd;
+}
+
+.Nova .highlight,
+.Nova .link
+{
+    color: #22353b;
+}
+
+
+
+.Spatie {
+    border: solid 1px #197593;
+}
+
+.Spatie:hover {
+    background-color: #f6fafd;
+}
+
+.Spatie .highlight,
+.Spatie .link
+{
+    color: #185062;
+}
+
+
+/*  */
