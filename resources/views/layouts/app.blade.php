@@ -32,7 +32,7 @@
             }
 
             .icon-bg {
-                background-image: url('http://laradocs.test/img/faded-icons-bg.png');
+                background-image: url('https://laradocs.dev/img/faded-icons-bg.png');
                 background-repeat: repeat-x;
             }
         </style>
