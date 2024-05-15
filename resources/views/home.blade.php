@@ -84,8 +84,8 @@
                 </div>
             </div>
 
-            <div class="text-gray-400 text-sm hover:text-gray-900 transition duration-200 text-center">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSda7x8mGB96ycmDVLw2SIfKya_bVstgS0FOhHbu0dGXkQ56JA/viewform?usp=pp_url" target="_blank" >Sponsorship Enquiries</a>
+            <div class="text-gray-400 text-xs hover:text-gray-900 transition duration-200 text-center">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSda7x8mGB96ycmDVLw2SIfKya_bVstgS0FOhHbu0dGXkQ56JA/viewform?usp=pp_url" target="_blank" >Contact // Feedback // Suggestions // Sponsorship Enquiries</a>
             </div>
         
     </div>
