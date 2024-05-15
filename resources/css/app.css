@@ -150,8 +150,6 @@
     color: #22353b;
 }
 
-
-
 .Spatie {
     border: solid 1px #197593;
 }
@@ -167,4 +165,17 @@
 }
 
 
-/*  */
+.Vue {
+    border: solid 1px #42b883;
+}
+
+.Vue:hover {
+    background-color: #f9fffc;
+}
+
+.Vue .highlight,
+.Vue .link
+{
+    color: #35495e;
+}
+

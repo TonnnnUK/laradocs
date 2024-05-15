@@ -1,0 +1,2851 @@
+[
+  {
+    "topic": "Essentials",
+    "pageTitle": "Creating an Application",
+    "url": "https://vuejs.org/guide/essentials/application",
+    "link": "https://vuejs.org/guide/essentials/application",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Creating a Vue Application​",
+        "section_title": "The application instance",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/application#the-application-instance"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Creating a Vue Application​",
+        "section_title": "The Root Component",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/application#the-root-component"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Creating a Vue Application​",
+        "section_title": "Mounting the App",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/application#mounting-the-app"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Creating a Vue Application​",
+        "section_title": "App Configurations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/application#app-configurations"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Creating a Vue Application​",
+        "section_title": "Multiple application instances",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/application#multiple-application-instances"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Template Syntax",
+    "url": "https://vuejs.org/guide/essentials/template-syntax",
+    "link": "https://vuejs.org/guide/essentials/template-syntax",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Template Syntax​",
+        "section_title": "Text Interpolation",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-syntax#text-interpolation"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Syntax​",
+        "section_title": "Raw HTML",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-syntax#raw-html"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Syntax​",
+        "section_title": "Attribute Bindings",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-syntax#attribute-bindings"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Syntax​",
+        "section_title": "Using JavaScript Expressions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-syntax#using-javascript-expressions"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Syntax​",
+        "section_title": "Directives",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-syntax#directives"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Reactivity Fundamentals",
+    "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals",
+    "link": "https://vuejs.org/guide/essentials/reactivity-fundamentals",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Reactive State",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-reactive-state"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Reactive State",
+        "link_title": "Reactive Proxy vs. Original",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-reactive-state"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Reactive State",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-reactive-state-1"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Reactive State",
+        "link_title": "ref()",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-reactive-state-1"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Reactive State",
+        "link_title": "<script setup>",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-reactive-state-1"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Reactive State",
+        "link_title": "Why Refs?",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-reactive-state-1"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Methods",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-methods"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Methods",
+        "link_title": "Deep Reactivity",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-methods"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Declaring Methods",
+        "link_title": "DOM Update Timing",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#declaring-methods"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "reactive()",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#reactive"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "reactive()",
+        "link_title": "Reactive Proxy vs. Original",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#reactive"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "reactive()",
+        "link_title": "Limitations of reactive()",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#reactive"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Additional Ref Unwrapping Details",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#additional-ref-unwrapping-details"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Additional Ref Unwrapping Details",
+        "link_title": "As Reactive Object Property",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#additional-ref-unwrapping-details"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Additional Ref Unwrapping Details",
+        "link_title": "Caveat in Arrays and Collections",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#additional-ref-unwrapping-details"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Additional Ref Unwrapping Details",
+        "link_title": "Caveat when Unwrapping in Templates",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#additional-ref-unwrapping-details"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Reactivity Fundamentals​",
+        "section_title": "Additional Ref Unwrapping Details",
+        "link_title": "Stateful Methods",
+        "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals#additional-ref-unwrapping-details"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Computed Properties",
+    "url": "https://vuejs.org/guide/essentials/computed",
+    "link": "https://vuejs.org/guide/essentials/computed",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Computed Properties​",
+        "section_title": "Basic Example",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/computed#basic-example"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Computed Properties​",
+        "section_title": "Computed Caching vs. Methods",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/computed#computed-caching-vs-methods"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Computed Properties​",
+        "section_title": "Writable Computed",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/computed#writable-computed"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Computed Properties​",
+        "section_title": "Best Practices",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/computed#best-practices"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Class and Style Bindings",
+    "url": "https://vuejs.org/guide/essentials/class-and-style",
+    "link": "https://vuejs.org/guide/essentials/class-and-style",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Class and Style Bindings​",
+        "section_title": "Binding HTML Classes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/class-and-style#binding-html-classes"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Class and Style Bindings​",
+        "section_title": "Binding Inline Styles",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/class-and-style#binding-inline-styles"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Conditional Rendering",
+    "url": "https://vuejs.org/guide/essentials/conditional",
+    "link": "https://vuejs.org/guide/essentials/conditional",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-if",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-if"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-else",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-else"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-else-if",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-else-if"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-if on <template>",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-if-on-template"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-show",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-show"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-if vs. v-show",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-if-vs-v-show"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Conditional Rendering​",
+        "section_title": "v-if with v-for",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/conditional#v-if-with-v-for"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "List Rendering",
+    "url": "https://vuejs.org/guide/essentials/list",
+    "link": "https://vuejs.org/guide/essentials/list",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "v-for",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#v-for"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "v-for with an Object",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#v-for-with-an-object"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "v-for with a Range",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#v-for-with-a-range"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "v-for on <template>",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#v-for-on-template"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "v-for with v-if",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#v-for-with-v-if"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "Maintaining State with key",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#maintaining-state-with-key"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "v-for with a Component",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#v-for-with-a-component"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "Array Change Detection",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#array-change-detection"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "List Rendering​",
+        "section_title": "Displaying Filtered/Sorted Results",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/list#displaying-filtered-sorted-results"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Event Handling",
+    "url": "https://vuejs.org/guide/essentials/event-handling",
+    "link": "https://vuejs.org/guide/essentials/event-handling",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Listening to Events",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#listening-to-events"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Inline Handlers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#inline-handlers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Method Handlers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#method-handlers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Calling Methods in Inline Handlers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#calling-methods-in-inline-handlers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Accessing Event Argument in Inline Handlers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#accessing-event-argument-in-inline-handlers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Event Modifiers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#event-modifiers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Key Modifiers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#key-modifiers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Event Handling​",
+        "section_title": "Mouse Button Modifiers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/event-handling#mouse-button-modifiers"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Form Input Bindings",
+    "url": "https://vuejs.org/guide/essentials/forms",
+    "link": "https://vuejs.org/guide/essentials/forms",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/forms#basic-usage"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Basic Usage",
+        "link_title": "Text",
+        "url": "https://vuejs.org/guide/essentials/forms#basic-usage"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Basic Usage",
+        "link_title": "Multiline text",
+        "url": "https://vuejs.org/guide/essentials/forms#basic-usage"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Basic Usage",
+        "link_title": "Checkbox",
+        "url": "https://vuejs.org/guide/essentials/forms#basic-usage"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Basic Usage",
+        "link_title": "Radio",
+        "url": "https://vuejs.org/guide/essentials/forms#basic-usage"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Basic Usage",
+        "link_title": "Select",
+        "url": "https://vuejs.org/guide/essentials/forms#basic-usage"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Value Bindings",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/forms#value-bindings"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Value Bindings",
+        "link_title": "Checkbox",
+        "url": "https://vuejs.org/guide/essentials/forms#value-bindings"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Value Bindings",
+        "link_title": "Radio",
+        "url": "https://vuejs.org/guide/essentials/forms#value-bindings"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Value Bindings",
+        "link_title": "Select Options",
+        "url": "https://vuejs.org/guide/essentials/forms#value-bindings"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Modifiers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/forms#modifiers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Modifiers",
+        "link_title": ".lazy",
+        "url": "https://vuejs.org/guide/essentials/forms#modifiers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Modifiers",
+        "link_title": ".number",
+        "url": "https://vuejs.org/guide/essentials/forms#modifiers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "Modifiers",
+        "link_title": ".trim",
+        "url": "https://vuejs.org/guide/essentials/forms#modifiers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Form Input Bindings​",
+        "section_title": "v-model with Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/forms#v-model-with-components"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Lifecycle Hooks",
+    "url": "https://vuejs.org/guide/essentials/lifecycle",
+    "link": "https://vuejs.org/guide/essentials/lifecycle",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle Hooks​",
+        "section_title": "Registering Lifecycle Hooks",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/lifecycle#registering-lifecycle-hooks"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Lifecycle Hooks​",
+        "section_title": "Lifecycle Diagram",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/lifecycle#lifecycle-diagram"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Watchers",
+    "url": "https://vuejs.org/guide/essentials/watchers",
+    "link": "https://vuejs.org/guide/essentials/watchers",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "Basic Example",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#basic-example"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "Deep Watchers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#deep-watchers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "Eager Watchers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#eager-watchers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "Once Watchers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#once-watchers"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "watchEffect()",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#watcheffect"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "Callback Flush Timing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#callback-flush-timing"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "this.$watch()",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#this-watch"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Watchers​",
+        "section_title": "Stopping a Watcher",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/watchers#stopping-a-watcher"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Template Refs",
+    "url": "https://vuejs.org/guide/essentials/template-refs",
+    "link": "https://vuejs.org/guide/essentials/template-refs",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Template Refs​",
+        "section_title": "Accessing the Refs",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-refs#accessing-the-refs"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Refs​",
+        "section_title": "Refs inside v-for",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-refs#refs-inside-v-for"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Refs​",
+        "section_title": "Function Refs",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-refs#function-refs"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Template Refs​",
+        "section_title": "Ref on Component",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/template-refs#ref-on-component"
+      }
+    ]
+  },
+  {
+    "topic": "Essentials",
+    "pageTitle": "Components Basics",
+    "url": "https://vuejs.org/guide/essentials/component-basics",
+    "link": "https://vuejs.org/guide/essentials/component-basics",
+    "pageLinks": [
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "Defining a Component",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#defining-a-component"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "Using a Component",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#using-a-component"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "Passing Props",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#passing-props"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "Listening to Events",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#listening-to-events"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "Content Distribution with Slots",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#content-distribution-with-slots"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "Dynamic Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#dynamic-components"
+      },
+      {
+        "topic": "Essentials",
+        "page_title": "Components Basics​",
+        "section_title": "in-DOM Template Parsing Caveats",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/essentials/component-basics#in-dom-template-parsing-caveats"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Registration",
+    "url": "https://vuejs.org/guide/components/registration",
+    "link": "https://vuejs.org/guide/components/registration",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Registration​",
+        "section_title": "Global Registration",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/registration#global-registration"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Registration​",
+        "section_title": "Local Registration",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/registration#local-registration"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Registration​",
+        "section_title": "Component Name Casing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/registration#component-name-casing"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Props",
+    "url": "https://vuejs.org/guide/components/props",
+    "link": "https://vuejs.org/guide/components/props",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Props​",
+        "section_title": "Props Declaration",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/props#props-declaration"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Props​",
+        "section_title": "Prop Passing Details",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/props#prop-passing-details"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Props​",
+        "section_title": "One-Way Data Flow",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/props#one-way-data-flow"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Props​",
+        "section_title": "Prop Validation",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/props#prop-validation"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Props​",
+        "section_title": "Boolean Casting",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/props#boolean-casting"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Events",
+    "url": "https://vuejs.org/guide/components/events",
+    "link": "https://vuejs.org/guide/components/events",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Events​",
+        "section_title": "Emitting and Listening to Events",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/events#emitting-and-listening-to-events"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Events​",
+        "section_title": "Event Arguments",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/events#event-arguments"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Events​",
+        "section_title": "Declaring Emitted Events",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/events#declaring-emitted-events"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component Events​",
+        "section_title": "Events Validation",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/events#events-validation"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Component v-model",
+    "url": "https://vuejs.org/guide/components/v-model",
+    "link": "https://vuejs.org/guide/components/v-model",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component v-model​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/v-model#basic-usage"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component v-model​",
+        "section_title": "v-model arguments",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/v-model#v-model-arguments"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component v-model​",
+        "section_title": "Multiple v-model bindings",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/v-model#multiple-v-model-bindings"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Component v-model​",
+        "section_title": "Handling v-model modifiers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/v-model#handling-v-model-modifiers"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Fallthrough Attributes",
+    "url": "https://vuejs.org/guide/components/attrs",
+    "link": "https://vuejs.org/guide/components/attrs",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Attribute Inheritance",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/attrs#attribute-inheritance"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Attribute Inheritance",
+        "link_title": "class and style Merging",
+        "url": "https://vuejs.org/guide/components/attrs#attribute-inheritance"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Attribute Inheritance",
+        "link_title": "v-on Listener Inheritance",
+        "url": "https://vuejs.org/guide/components/attrs#attribute-inheritance"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Attribute Inheritance",
+        "link_title": "Nested Component Inheritance",
+        "url": "https://vuejs.org/guide/components/attrs#attribute-inheritance"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Disabling Attribute Inheritance",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/attrs#disabling-attribute-inheritance"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Attribute Inheritance on Multiple Root Nodes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/attrs#attribute-inheritance-on-multiple-root-nodes"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Fallthrough Attributes​",
+        "section_title": "Accessing Fallthrough Attributes in JavaScript",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/attrs#accessing-fallthrough-attributes-in-javascript"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Slots",
+    "url": "https://vuejs.org/guide/components/slots",
+    "link": "https://vuejs.org/guide/components/slots",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Slot Content and Outlet",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#slot-content-and-outlet"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Render Scope",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#render-scope"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Fallback Content",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#fallback-content"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Named Slots",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#named-slots"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Conditional Slots",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#conditional-slots"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Dynamic Slot Names",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#dynamic-slot-names"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Slots​",
+        "section_title": "Scoped Slots",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/slots#scoped-slots"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Provide / inject",
+    "url": "https://vuejs.org/guide/components/provide-inject",
+    "link": "https://vuejs.org/guide/components/provide-inject",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Provide / Inject​",
+        "section_title": "Prop Drilling",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/provide-inject#prop-drilling"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Provide / Inject​",
+        "section_title": "Provide",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/provide-inject#provide"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Provide / Inject​",
+        "section_title": "App-level Provide",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/provide-inject#app-level-provide"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Provide / Inject​",
+        "section_title": "Inject",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/provide-inject#inject"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Provide / Inject​",
+        "section_title": "Working with Reactivity",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/provide-inject#working-with-reactivity"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Provide / Inject​",
+        "section_title": "Working with Symbol Keys",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/provide-inject#working-with-symbol-keys"
+      }
+    ]
+  },
+  {
+    "topic": "Components In-Depth",
+    "pageTitle": "Async Components",
+    "url": "https://vuejs.org/guide/components/async",
+    "link": "https://vuejs.org/guide/components/async",
+    "pageLinks": [
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Async Components​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/async#basic-usage"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Async Components​",
+        "section_title": "Loading and Error States",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/async#loading-and-error-states"
+      },
+      {
+        "topic": "Components In-Depth",
+        "page_title": "Async Components​",
+        "section_title": "Using with Suspense",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/components/async#using-with-suspense"
+      }
+    ]
+  },
+  {
+    "topic": "Reusability",
+    "pageTitle": "Composables",
+    "url": "https://vuejs.org/guide/reusability/composables",
+    "link": "https://vuejs.org/guide/reusability/composables",
+    "pageLinks": [
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "What is a \"Composable\"?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#what-is-a-composable"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Mouse Tracker Example",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#mouse-tracker-example"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Async State Example",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#async-state-example"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Conventions and Best Practices",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#conventions-and-best-practices"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Extracting Composables for Code Organization",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#extracting-composables-for-code-organization"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Using Composables in Options API",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#using-composables-in-options-api"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Comparisons with Other Techniques",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#comparisons-with-other-techniques"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Composables​",
+        "section_title": "Further Reading",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/composables#further-reading"
+      }
+    ]
+  },
+  {
+    "topic": "Reusability",
+    "pageTitle": "Custom Directives",
+    "url": "https://vuejs.org/guide/reusability/custom-directives",
+    "link": "https://vuejs.org/guide/reusability/custom-directives",
+    "pageLinks": [
+      {
+        "topic": "Reusability",
+        "page_title": "Custom Directives​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/custom-directives#introduction"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Custom Directives​",
+        "section_title": "Directive Hooks",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/custom-directives#directive-hooks"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Custom Directives​",
+        "section_title": "Function Shorthand",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/custom-directives#function-shorthand"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Custom Directives​",
+        "section_title": "Object Literals",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/custom-directives#object-literals"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Custom Directives​",
+        "section_title": "Usage on Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/custom-directives#usage-on-components"
+      }
+    ]
+  },
+  {
+    "topic": "Reusability",
+    "pageTitle": "Plugins",
+    "url": "https://vuejs.org/guide/reusability/plugins",
+    "link": "https://vuejs.org/guide/reusability/plugins",
+    "pageLinks": [
+      {
+        "topic": "Reusability",
+        "page_title": "Plugins​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/plugins#introduction"
+      },
+      {
+        "topic": "Reusability",
+        "page_title": "Plugins​",
+        "section_title": "Writing a Plugin",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/reusability/plugins#writing-a-plugin"
+      }
+    ]
+  },
+  {
+    "topic": "Built-in Components",
+    "pageTitle": "Transition",
+    "url": "https://vuejs.org/guide/built-ins/transition",
+    "link": "https://vuejs.org/guide/built-ins/transition",
+    "pageLinks": [
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "The <Transition> Component",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#the-transition-component"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "CSS-Based Transitions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#css-based-transitions"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "JavaScript Hooks",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#javascript-hooks"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Reusable Transitions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#reusable-transitions"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Transition on Appear",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#transition-on-appear"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Transition Between Elements",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#transition-between-elements"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Transition Modes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#transition-modes"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Transition Between Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#transition-between-components"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Dynamic Transitions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#dynamic-transitions"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Transition​",
+        "section_title": "Transitions with the Key Attribute",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition#transitions-with-the-key-attribute"
+      }
+    ]
+  },
+  {
+    "topic": "Built-in Components",
+    "pageTitle": "TransitionGroup",
+    "url": "https://vuejs.org/guide/built-ins/transition-group",
+    "link": "https://vuejs.org/guide/built-ins/transition-group",
+    "pageLinks": [
+      {
+        "topic": "Built-in Components",
+        "page_title": "TransitionGroup​",
+        "section_title": "Differences from <Transition>",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition-group#differences-from-transition"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "TransitionGroup​",
+        "section_title": "Enter / Leave Transitions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition-group#enter-leave-transitions"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "TransitionGroup​",
+        "section_title": "Move Transitions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition-group#move-transitions"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "TransitionGroup​",
+        "section_title": "Staggering List Transitions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/transition-group#staggering-list-transitions"
+      }
+    ]
+  },
+  {
+    "topic": "Built-in Components",
+    "pageTitle": "KeepAlive",
+    "url": "https://vuejs.org/guide/built-ins/keep-alive",
+    "link": "https://vuejs.org/guide/built-ins/keep-alive",
+    "pageLinks": [
+      {
+        "topic": "Built-in Components",
+        "page_title": "KeepAlive​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/keep-alive#basic-usage"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "KeepAlive​",
+        "section_title": "Include / Exclude",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/keep-alive#include-exclude"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "KeepAlive​",
+        "section_title": "Max Cached Instances",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/keep-alive#max-cached-instances"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "KeepAlive​",
+        "section_title": "Lifecycle of Cached Instance",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/keep-alive#lifecycle-of-cached-instance"
+      }
+    ]
+  },
+  {
+    "topic": "Built-in Components",
+    "pageTitle": "Teleport",
+    "url": "https://vuejs.org/guide/built-ins/teleport",
+    "link": "https://vuejs.org/guide/built-ins/teleport",
+    "pageLinks": [
+      {
+        "topic": "Built-in Components",
+        "page_title": "Teleport​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/teleport#basic-usage"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Teleport​",
+        "section_title": "Using with Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/teleport#using-with-components"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Teleport​",
+        "section_title": "Disabling Teleport",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/teleport#disabling-teleport"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Teleport​",
+        "section_title": "Multiple Teleports on the Same Target",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/teleport#multiple-teleports-on-the-same-target"
+      }
+    ]
+  },
+  {
+    "topic": "Built-in Components",
+    "pageTitle": "Suspense",
+    "url": "https://vuejs.org/guide/built-ins/suspense",
+    "link": "https://vuejs.org/guide/built-ins/suspense",
+    "pageLinks": [
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Async Dependencies",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/suspense#async-dependencies"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Async Dependencies",
+        "link_title": "async setup()",
+        "url": "https://vuejs.org/guide/built-ins/suspense#async-dependencies"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Async Dependencies",
+        "link_title": "Async Components",
+        "url": "https://vuejs.org/guide/built-ins/suspense#async-dependencies"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Loading State",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/suspense#loading-state"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Events",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/suspense#events"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Error Handling",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/suspense#error-handling"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Combining with Other Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/suspense#combining-with-other-components"
+      },
+      {
+        "topic": "Built-in Components",
+        "page_title": "Suspense​",
+        "section_title": "Nested Suspense",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/built-ins/suspense#nested-suspense"
+      }
+    ]
+  },
+  {
+    "topic": "Scaling Up",
+    "pageTitle": "Single-File Components",
+    "url": "https://vuejs.org/guide/scaling-up/sfc",
+    "link": "https://vuejs.org/guide/scaling-up/sfc",
+    "pageLinks": [
+      {
+        "topic": "Scaling Up",
+        "page_title": "Single-File Components​",
+        "section_title": "Introduction",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/sfc#introduction"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Single-File Components​",
+        "section_title": "Why SFC",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/sfc#why-sfc"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Single-File Components​",
+        "section_title": "How It Works",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/sfc#how-it-works"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Single-File Components​",
+        "section_title": "What About Separation of Concerns?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/sfc#what-about-separation-of-concerns"
+      }
+    ]
+  },
+  {
+    "topic": "Scaling Up",
+    "pageTitle": "Tooling",
+    "url": "https://vuejs.org/guide/scaling-up/tooling",
+    "link": "https://vuejs.org/guide/scaling-up/tooling",
+    "pageLinks": [
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Try It Online",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#try-it-online"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Project Scaffolding",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#project-scaffolding"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "IDE Support",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#ide-support"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Browser Devtools",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#browser-devtools"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "TypeScript",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#typescript"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Testing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#testing"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Linting",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#linting"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Formatting",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#formatting"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "SFC Custom Block Integrations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#sfc-custom-block-integrations"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Lower-Level Packages",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#lower-level-packages"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Tooling​",
+        "section_title": "Other Online Playgrounds",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/tooling#other-online-playgrounds"
+      }
+    ]
+  },
+  {
+    "topic": "Scaling Up",
+    "pageTitle": "Routing",
+    "url": "https://vuejs.org/guide/scaling-up/routing",
+    "link": "https://vuejs.org/guide/scaling-up/routing",
+    "pageLinks": [
+      {
+        "topic": "Scaling Up",
+        "page_title": "Routing​",
+        "section_title": "Client-Side vs. Server-Side Routing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/routing#client-side-vs-server-side-routing"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Routing​",
+        "section_title": "Official Router",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/routing#official-router"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Routing​",
+        "section_title": "Simple Routing from Scratch",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/routing#simple-routing-from-scratch"
+      }
+    ]
+  },
+  {
+    "topic": "Scaling Up",
+    "pageTitle": "State Management",
+    "url": "https://vuejs.org/guide/scaling-up/state-management",
+    "link": "https://vuejs.org/guide/scaling-up/state-management",
+    "pageLinks": [
+      {
+        "topic": "Scaling Up",
+        "page_title": "State Management​",
+        "section_title": "What is State Management?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/state-management#what-is-state-management"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "State Management​",
+        "section_title": "Simple State Management with Reactivity API",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/state-management#simple-state-management-with-reactivity-api"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "State Management​",
+        "section_title": "SSR Considerations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/state-management#ssr-considerations"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "State Management​",
+        "section_title": "Pinia",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/state-management#pinia"
+      }
+    ]
+  },
+  {
+    "topic": "Scaling Up",
+    "pageTitle": "Testing",
+    "url": "https://vuejs.org/guide/scaling-up/testing",
+    "link": "https://vuejs.org/guide/scaling-up/testing",
+    "pageLinks": [
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "Why Test?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#why-test"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "When to Test",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#when-to-test"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "Testing Types",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#testing-types"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#overview"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "Unit Testing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#unit-testing"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "Component Testing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#component-testing"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "E2E Testing",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#e2e-testing"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Testing​",
+        "section_title": "Recipes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/testing#recipes"
+      }
+    ]
+  },
+  {
+    "topic": "Scaling Up",
+    "pageTitle": "Server-Side Rendering (SSR)",
+    "url": "https://vuejs.org/guide/scaling-up/ssr",
+    "link": "https://vuejs.org/guide/scaling-up/ssr",
+    "pageLinks": [
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#overview"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Overview",
+        "link_title": "What is SSR?",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#overview"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Overview",
+        "link_title": "Why SSR?",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#overview"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Overview",
+        "link_title": "SSR vs. SSG",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#overview"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Basic Tutorial",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#basic-tutorial"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Basic Tutorial",
+        "link_title": "Rendering an App",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#basic-tutorial"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Basic Tutorial",
+        "link_title": "Client Hydration",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#basic-tutorial"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Basic Tutorial",
+        "link_title": "Code Structure",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#basic-tutorial"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Higher Level Solutions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#higher-level-solutions"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Higher Level Solutions",
+        "link_title": "Nuxt",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#higher-level-solutions"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Higher Level Solutions",
+        "link_title": "Quasar",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#higher-level-solutions"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Higher Level Solutions",
+        "link_title": "Vite SSR",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#higher-level-solutions"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Reactivity on the Server",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Component Lifecycle Hooks",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Access to Platform-Specific APIs",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Cross-Request State Pollution",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Hydration Mismatch",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Custom Directives",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      },
+      {
+        "topic": "Scaling Up",
+        "page_title": "Server-Side Rendering (SSR)​",
+        "section_title": "Writing SSR-friendly Code",
+        "link_title": "Teleports",
+        "url": "https://vuejs.org/guide/scaling-up/ssr#writing-ssr-friendly-code"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Production Deployment",
+    "url": "https://vuejs.org/guide/best-practices/production-deployment",
+    "link": "https://vuejs.org/guide/best-practices/production-deployment",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Production Deployment​",
+        "section_title": "Development vs. Production",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/production-deployment#development-vs-production"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Production Deployment​",
+        "section_title": "Without Build Tools",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/production-deployment#without-build-tools"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Production Deployment​",
+        "section_title": "With Build Tools",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/production-deployment#with-build-tools"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Production Deployment​",
+        "section_title": "Tracking Runtime Errors",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/production-deployment#tracking-runtime-errors"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Performance",
+    "url": "https://vuejs.org/guide/best-practices/performance",
+    "link": "https://vuejs.org/guide/best-practices/performance",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/performance#overview"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Profiling Options",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/performance#profiling-options"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Page Load Optimizations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/performance#page-load-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Page Load Optimizations",
+        "link_title": "Choosing the Right Architecture",
+        "url": "https://vuejs.org/guide/best-practices/performance#page-load-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Page Load Optimizations",
+        "link_title": "Bundle Size and Tree-shaking",
+        "url": "https://vuejs.org/guide/best-practices/performance#page-load-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Page Load Optimizations",
+        "link_title": "Code Splitting",
+        "url": "https://vuejs.org/guide/best-practices/performance#page-load-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Update Optimizations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/performance#update-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Update Optimizations",
+        "link_title": "Props Stability",
+        "url": "https://vuejs.org/guide/best-practices/performance#update-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Update Optimizations",
+        "link_title": "v-once",
+        "url": "https://vuejs.org/guide/best-practices/performance#update-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Update Optimizations",
+        "link_title": "v-memo",
+        "url": "https://vuejs.org/guide/best-practices/performance#update-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "Update Optimizations",
+        "link_title": "Computed Stability",
+        "url": "https://vuejs.org/guide/best-practices/performance#update-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "General Optimizations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/performance#general-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "General Optimizations",
+        "link_title": "Virtualize Large Lists",
+        "url": "https://vuejs.org/guide/best-practices/performance#general-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "General Optimizations",
+        "link_title": "Reduce Reactivity Overhead for Large Immutable Structures",
+        "url": "https://vuejs.org/guide/best-practices/performance#general-optimizations"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Performance​",
+        "section_title": "General Optimizations",
+        "link_title": "Avoid Unnecessary Component Abstractions",
+        "url": "https://vuejs.org/guide/best-practices/performance#general-optimizations"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Accessibility",
+    "url": "https://vuejs.org/guide/best-practices/accessibility",
+    "link": "https://vuejs.org/guide/best-practices/accessibility",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Accessibility​",
+        "section_title": "Skip link",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/accessibility#skip-link"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Accessibility​",
+        "section_title": "Content Structure",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/accessibility#content-structure"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Accessibility​",
+        "section_title": "Semantic Forms",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/accessibility#semantic-forms"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Accessibility​",
+        "section_title": "Standards",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/accessibility#standards"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Accessibility​",
+        "section_title": "Resources",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/accessibility#resources"
+      }
+    ]
+  },
+  {
+    "topic": "Best Practices",
+    "pageTitle": "Security",
+    "url": "https://vuejs.org/guide/best-practices/security",
+    "link": "https://vuejs.org/guide/best-practices/security",
+    "pageLinks": [
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "Reporting Vulnerabilities",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#reporting-vulnerabilities"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "Rule No.1: Never Use Non-trusted Templates",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#rule-no-1-never-use-non-trusted-templates"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "What Vue Does to Protect You",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#what-vue-does-to-protect-you"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "Potential Dangers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#potential-dangers"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "Best Practices",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#best-practices"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "Backend Coordination",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#backend-coordination"
+      },
+      {
+        "topic": "Best Practices",
+        "page_title": "Security​",
+        "section_title": "Server-Side Rendering (SSR)",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/best-practices/security#server-side-rendering-ssr"
+      }
+    ]
+  },
+  {
+    "topic": "TypeScript",
+    "pageTitle": "Overview",
+    "url": "https://vuejs.org/guide/typescript/overview",
+    "link": "https://vuejs.org/guide/typescript/overview",
+    "pageLinks": [
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "Project Setup",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/overview#project-setup"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "Project Setup",
+        "link_title": "Overview",
+        "url": "https://vuejs.org/guide/typescript/overview#project-setup"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "Project Setup",
+        "link_title": "IDE Support",
+        "url": "https://vuejs.org/guide/typescript/overview#project-setup"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "Project Setup",
+        "link_title": "Configuring tsconfig.json",
+        "url": "https://vuejs.org/guide/typescript/overview#project-setup"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "Project Setup",
+        "link_title": "Note on Vue CLI and ts-loader",
+        "url": "https://vuejs.org/guide/typescript/overview#project-setup"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "General Usage Notes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/overview#general-usage-notes"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "General Usage Notes",
+        "link_title": "defineComponent()",
+        "url": "https://vuejs.org/guide/typescript/overview#general-usage-notes"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "General Usage Notes",
+        "link_title": "Usage in Single-File Components",
+        "url": "https://vuejs.org/guide/typescript/overview#general-usage-notes"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "General Usage Notes",
+        "link_title": "TypeScript in Templates",
+        "url": "https://vuejs.org/guide/typescript/overview#general-usage-notes"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "General Usage Notes",
+        "link_title": "Usage with TSX",
+        "url": "https://vuejs.org/guide/typescript/overview#general-usage-notes"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "Generic Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/overview#generic-components"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "Using Vue with TypeScript​",
+        "section_title": "API-Specific Recipes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/overview#api-specific-recipes"
+      }
+    ]
+  },
+  {
+    "topic": "TypeScript",
+    "pageTitle": "TS with Composition API",
+    "url": "https://vuejs.org/guide/typescript/composition-api",
+    "link": "https://vuejs.org/guide/typescript/composition-api",
+    "pageLinks": [
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing Component Props",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-component-props"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing Component Emits",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-component-emits"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing ref()",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-ref"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing reactive()",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-reactive"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing computed()",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-computed"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing Event Handlers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-event-handlers"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing Provide / Inject",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-provide-inject"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing Template Refs",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-template-refs"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Composition API​",
+        "section_title": "Typing Component Template Refs",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/composition-api#typing-component-template-refs"
+      }
+    ]
+  },
+  {
+    "topic": "TypeScript",
+    "pageTitle": "TS with Options API",
+    "url": "https://vuejs.org/guide/typescript/options-api",
+    "link": "https://vuejs.org/guide/typescript/options-api",
+    "pageLinks": [
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Options API​",
+        "section_title": "Typing Component Props",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/options-api#typing-component-props"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Options API​",
+        "section_title": "Typing Component Emits",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/options-api#typing-component-emits"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Options API​",
+        "section_title": "Typing Computed Properties",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/options-api#typing-computed-properties"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Options API​",
+        "section_title": "Typing Event Handlers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/options-api#typing-event-handlers"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Options API​",
+        "section_title": "Augmenting Global Properties",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/options-api#augmenting-global-properties"
+      },
+      {
+        "topic": "TypeScript",
+        "page_title": "TypeScript with Options API​",
+        "section_title": "Augmenting Custom Options",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/typescript/options-api#augmenting-custom-options"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Ways of Using Vue",
+    "url": "https://vuejs.org/guide/extras/ways-of-using-vue",
+    "link": "https://vuejs.org/guide/extras/ways-of-using-vue",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Ways of Using Vue​",
+        "section_title": "Standalone Script",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/ways-of-using-vue#standalone-script"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Ways of Using Vue​",
+        "section_title": "Embedded Web Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/ways-of-using-vue#embedded-web-components"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Ways of Using Vue​",
+        "section_title": "Single-Page Application (SPA)",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/ways-of-using-vue#single-page-application-spa"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Ways of Using Vue​",
+        "section_title": "Fullstack / SSR",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/ways-of-using-vue#fullstack-ssr"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Ways of Using Vue​",
+        "section_title": "JAMStack / SSG",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/ways-of-using-vue#jamstack-ssg"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Ways of Using Vue​",
+        "section_title": "Beyond the Web",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/ways-of-using-vue#beyond-the-web"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Composition API FAQ",
+    "url": "https://vuejs.org/guide/extras/composition-api-faq",
+    "link": "https://vuejs.org/guide/extras/composition-api-faq",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "What is Composition API?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#what-is-composition-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Why Composition API?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#why-composition-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Why Composition API?",
+        "link_title": "Better Logic Reuse",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#why-composition-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Why Composition API?",
+        "link_title": "More Flexible Code Organization",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#why-composition-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Why Composition API?",
+        "link_title": "Better Type Inference",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#why-composition-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Why Composition API?",
+        "link_title": "Smaller Production Bundle and Less Overhead",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#why-composition-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Relationship with Options API",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#relationship-with-options-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Relationship with Options API",
+        "link_title": "Trade-offs",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#relationship-with-options-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Relationship with Options API",
+        "link_title": "Does Composition API cover all use cases?",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#relationship-with-options-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Relationship with Options API",
+        "link_title": "Can I use both APIs in the same component?",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#relationship-with-options-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Relationship with Options API",
+        "link_title": "Will Options API be deprecated?",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#relationship-with-options-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Relationship with Class API",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#relationship-with-class-api"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Composition API FAQ​",
+        "section_title": "Comparison with React Hooks",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/composition-api-faq#comparison-with-react-hooks"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Reactivity in Depth",
+    "url": "https://vuejs.org/guide/extras/reactivity-in-depth",
+    "link": "https://vuejs.org/guide/extras/reactivity-in-depth",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "What is Reactivity?",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#what-is-reactivity"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "How Reactivity Works in Vue",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#how-reactivity-works-in-vue"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Runtime vs. Compile-time Reactivity",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#runtime-vs-compile-time-reactivity"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Reactivity Debugging",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#reactivity-debugging"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Reactivity Debugging",
+        "link_title": "Component Debugging Hooks",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#reactivity-debugging"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Reactivity Debugging",
+        "link_title": "Computed Debugging",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#reactivity-debugging"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Reactivity Debugging",
+        "link_title": "Watcher Debugging",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#reactivity-debugging"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Integration with External State Systems",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#integration-with-external-state-systems"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Integration with External State Systems",
+        "link_title": "Immutable Data",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#integration-with-external-state-systems"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Integration with External State Systems",
+        "link_title": "State Machines",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#integration-with-external-state-systems"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Integration with External State Systems",
+        "link_title": "RxJS",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#integration-with-external-state-systems"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Connection to Signals",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#connection-to-signals"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Reactivity in Depth​",
+        "section_title": "Connection to Signals",
+        "link_title": "API Design Trade-Offs",
+        "url": "https://vuejs.org/guide/extras/reactivity-in-depth#connection-to-signals"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Rendering Mechanism",
+    "url": "https://vuejs.org/guide/extras/rendering-mechanism",
+    "link": "https://vuejs.org/guide/extras/rendering-mechanism",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Virtual DOM",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#virtual-dom"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Render Pipeline",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#render-pipeline"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Templates vs. Render Functions",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#templates-vs-render-functions"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Compiler-Informed Virtual DOM",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#compiler-informed-virtual-dom"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Compiler-Informed Virtual DOM",
+        "link_title": "Static Hoisting",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#compiler-informed-virtual-dom"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Compiler-Informed Virtual DOM",
+        "link_title": "Patch Flags",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#compiler-informed-virtual-dom"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Compiler-Informed Virtual DOM",
+        "link_title": "Tree Flattening",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#compiler-informed-virtual-dom"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Rendering Mechanism​",
+        "section_title": "Compiler-Informed Virtual DOM",
+        "link_title": "Impact on SSR Hydration",
+        "url": "https://vuejs.org/guide/extras/rendering-mechanism#compiler-informed-virtual-dom"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Render Functions & JSX",
+    "url": "https://vuejs.org/guide/extras/render-function",
+    "link": "https://vuejs.org/guide/extras/render-function",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/render-function#basic-usage"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Basic Usage",
+        "link_title": "Creating Vnodes",
+        "url": "https://vuejs.org/guide/extras/render-function#basic-usage"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Basic Usage",
+        "link_title": "Declaring Render Functions",
+        "url": "https://vuejs.org/guide/extras/render-function#basic-usage"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Basic Usage",
+        "link_title": "Vnodes Must Be Unique",
+        "url": "https://vuejs.org/guide/extras/render-function#basic-usage"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "JSX / TSX",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/render-function#jsx-tsx"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "JSX / TSX",
+        "link_title": "JSX Type Inference",
+        "url": "https://vuejs.org/guide/extras/render-function#jsx-tsx"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "v-if",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "v-for",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "v-on",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Components",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Rendering Slots",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Passing Slots",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Scoped Slots",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Built-in Components",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "v-model",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Custom Directives",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Render Function Recipes",
+        "link_title": "Template Refs",
+        "url": "https://vuejs.org/guide/extras/render-function#render-function-recipes"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Functional Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/render-function#functional-components"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Render Functions & JSX​",
+        "section_title": "Functional Components",
+        "link_title": "Typing Functional Components",
+        "url": "https://vuejs.org/guide/extras/render-function#functional-components"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Vue and Web Components",
+    "url": "https://vuejs.org/guide/extras/web-components",
+    "link": "https://vuejs.org/guide/extras/web-components",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Vue and Web Components​",
+        "section_title": "Using Custom Elements in Vue",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/web-components#using-custom-elements-in-vue"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Vue and Web Components​",
+        "section_title": "Building Custom Elements with Vue",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/web-components#building-custom-elements-with-vue"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Vue and Web Components​",
+        "section_title": "Web Components vs. Vue Components",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/web-components#web-components-vs-vue-components"
+      }
+    ]
+  },
+  {
+    "topic": "Extra Topics",
+    "pageTitle": "Animation Techniques",
+    "url": "https://vuejs.org/guide/extras/animation",
+    "link": "https://vuejs.org/guide/extras/animation",
+    "pageLinks": [
+      {
+        "topic": "Extra Topics",
+        "page_title": "Animation Techniques​",
+        "section_title": "Class-based Animations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/animation#class-based-animations"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Animation Techniques​",
+        "section_title": "State-driven Animations",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/animation#state-driven-animations"
+      },
+      {
+        "topic": "Extra Topics",
+        "page_title": "Animation Techniques​",
+        "section_title": "Animating with Watchers",
+        "link_title": "",
+        "url": "https://vuejs.org/guide/extras/animation#animating-with-watchers"
+      }
+    ]
+  }
+]

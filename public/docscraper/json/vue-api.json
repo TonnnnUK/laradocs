@@ -1,0 +1,1582 @@
+[
+  {
+    "topic": "Global API",
+    "pageTitle": "Application",
+    "url": "https://vuejs.org/api/application",
+    "link": "https://vuejs.org/api/application",
+    "pageLinks": [
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "createApp()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#createapp"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "createSSRApp()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#createssrapp"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.mount()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-mount"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.unmount()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-unmount"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.component()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-component"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.directive()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-directive"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.use()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-use"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.mixin()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-mixin"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.provide()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-provide"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.runWithContext()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-runwithcontext"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.version",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-version"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config.errorHandler",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config-errorhandler"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config.warnHandler",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config-warnhandler"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config.performance",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config-performance"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config.compilerOptions",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config-compileroptions"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config.globalProperties",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config-globalproperties"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Application API​",
+        "section_title": "app.config.optionMergeStrategies",
+        "link_title": "",
+        "url": "https://vuejs.org/api/application#app-config-optionmergestrategies"
+      }
+    ]
+  },
+  {
+    "topic": "Global API",
+    "pageTitle": "General",
+    "url": "https://vuejs.org/api/general",
+    "link": "https://vuejs.org/api/general",
+    "pageLinks": [
+      {
+        "topic": "Global API",
+        "page_title": "Global API: General​",
+        "section_title": "version",
+        "link_title": "",
+        "url": "https://vuejs.org/api/general#version"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Global API: General​",
+        "section_title": "nextTick()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/general#nexttick"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Global API: General​",
+        "section_title": "defineComponent()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/general#definecomponent"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Global API: General​",
+        "section_title": "defineAsyncComponent()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/general#defineasynccomponent"
+      },
+      {
+        "topic": "Global API",
+        "page_title": "Global API: General​",
+        "section_title": "defineCustomElement()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/general#definecustomelement"
+      }
+    ]
+  },
+  {
+    "topic": "Composition API",
+    "pageTitle": "setup()",
+    "url": "https://vuejs.org/api/composition-api-setup",
+    "link": "https://vuejs.org/api/composition-api-setup",
+    "pageLinks": [
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: setup()​",
+        "section_title": "Basic Usage",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-setup#basic-usage"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: setup()​",
+        "section_title": "Accessing Props",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-setup#accessing-props"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: setup()​",
+        "section_title": "Setup Context",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-setup#setup-context"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: setup()​",
+        "section_title": "Usage with Render Functions",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-setup#usage-with-render-functions"
+      }
+    ]
+  },
+  {
+    "topic": "Composition API",
+    "pageTitle": "Reactivity: Core",
+    "url": "https://vuejs.org/api/reactivity-core",
+    "link": "https://vuejs.org/api/reactivity-core",
+    "pageLinks": [
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "ref()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#ref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "computed()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#computed"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "reactive()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#reactive"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "readonly()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#readonly"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "watchEffect()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#watcheffect"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "watchPostEffect()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#watchposteffect"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "watchSyncEffect()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#watchsynceffect"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Core​",
+        "section_title": "watch()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-core#watch"
+      }
+    ]
+  },
+  {
+    "topic": "Composition API",
+    "pageTitle": "Reactivity: Utilities",
+    "url": "https://vuejs.org/api/reactivity-utilities",
+    "link": "https://vuejs.org/api/reactivity-utilities",
+    "pageLinks": [
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "isRef()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#isref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "unref()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#unref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "toRef()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#toref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "toValue()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#tovalue"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "toRefs()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#torefs"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "isProxy()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#isproxy"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "isReactive()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#isreactive"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Utilities​",
+        "section_title": "isReadonly()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-utilities#isreadonly"
+      }
+    ]
+  },
+  {
+    "topic": "Composition API",
+    "pageTitle": "Reactivity: Advanced",
+    "url": "https://vuejs.org/api/reactivity-advanced",
+    "link": "https://vuejs.org/api/reactivity-advanced",
+    "pageLinks": [
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "shallowRef()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#shallowref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "triggerRef()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#triggerref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "customRef()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#customref"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "shallowReactive()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#shallowreactive"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "shallowReadonly()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#shallowreadonly"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "toRaw()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#toraw"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "markRaw()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#markraw"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "effectScope()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#effectscope"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "getCurrentScope()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#getcurrentscope"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Reactivity API: Advanced​",
+        "section_title": "onScopeDispose()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/reactivity-advanced#onscopedispose"
+      }
+    ]
+  },
+  {
+    "topic": "Composition API",
+    "pageTitle": "Lifecycle Hooks",
+    "url": "https://vuejs.org/api/composition-api-lifecycle",
+    "link": "https://vuejs.org/api/composition-api-lifecycle",
+    "pageLinks": [
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onMounted()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onmounted"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onUpdated()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onupdated"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onUnmounted()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onunmounted"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onBeforeMount()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onbeforemount"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onBeforeUpdate()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onbeforeupdate"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onBeforeUnmount()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onbeforeunmount"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onErrorCaptured()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onerrorcaptured"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onRenderTracked()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onrendertracked"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onRenderTriggered()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onrendertriggered"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onActivated()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onactivated"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onDeactivated()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#ondeactivated"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API: Lifecycle Hooks​",
+        "section_title": "onServerPrefetch()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-lifecycle#onserverprefetch"
+      }
+    ]
+  },
+  {
+    "topic": "Composition API",
+    "pageTitle": "Dependency Injection",
+    "url": "https://vuejs.org/api/composition-api-dependency-injection",
+    "link": "https://vuejs.org/api/composition-api-dependency-injection",
+    "pageLinks": [
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API:Dependency Injection​",
+        "section_title": "provide()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-dependency-injection#provide"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API:Dependency Injection​",
+        "section_title": "inject()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-dependency-injection#inject"
+      },
+      {
+        "topic": "Composition API",
+        "page_title": "Composition API:Dependency Injection​",
+        "section_title": "hasInjectionContext()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/composition-api-dependency-injection#has-injection-context"
+      }
+    ]
+  },
+  {
+    "topic": "Options API",
+    "pageTitle": "Options: State",
+    "url": "https://vuejs.org/api/options-state",
+    "link": "https://vuejs.org/api/options-state",
+    "pageLinks": [
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "data",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#data"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "props",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#props"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "computed",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#computed"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "methods",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#methods"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "watch",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#watch"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "emits",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#emits"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: State​",
+        "section_title": "expose",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-state#expose"
+      }
+    ]
+  },
+  {
+    "topic": "Options API",
+    "pageTitle": "Options: Rendering",
+    "url": "https://vuejs.org/api/options-rendering",
+    "link": "https://vuejs.org/api/options-rendering",
+    "pageLinks": [
+      {
+        "topic": "Options API",
+        "page_title": "Options: Rendering​",
+        "section_title": "template",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-rendering#template"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Rendering​",
+        "section_title": "render",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-rendering#render"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Rendering​",
+        "section_title": "compilerOptions",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-rendering#compileroptions"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Rendering​",
+        "section_title": "slots",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-rendering#slots"
+      }
+    ]
+  },
+  {
+    "topic": "Options API",
+    "pageTitle": "Options: Lifecycle",
+    "url": "https://vuejs.org/api/options-lifecycle",
+    "link": "https://vuejs.org/api/options-lifecycle",
+    "pageLinks": [
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "beforeCreate",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#beforecreate"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "created",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#created"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "beforeMount",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#beforemount"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "mounted",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#mounted"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "beforeUpdate",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#beforeupdate"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "updated",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#updated"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "beforeUnmount",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#beforeunmount"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "unmounted",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#unmounted"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "errorCaptured",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#errorcaptured"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "renderTracked",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#rendertracked"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "renderTriggered",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#rendertriggered"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "activated",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#activated"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "deactivated",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#deactivated"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Lifecycle​",
+        "section_title": "serverPrefetch",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-lifecycle#serverprefetch"
+      }
+    ]
+  },
+  {
+    "topic": "Options API",
+    "pageTitle": "Options: Composition",
+    "url": "https://vuejs.org/api/options-composition",
+    "link": "https://vuejs.org/api/options-composition",
+    "pageLinks": [
+      {
+        "topic": "Options API",
+        "page_title": "Options: Composition​",
+        "section_title": "provide",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-composition#provide"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Composition​",
+        "section_title": "inject",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-composition#inject"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Composition​",
+        "section_title": "mixins",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-composition#mixins"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Composition​",
+        "section_title": "extends",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-composition#extends"
+      }
+    ]
+  },
+  {
+    "topic": "Options API",
+    "pageTitle": "Options: Misc",
+    "url": "https://vuejs.org/api/options-misc",
+    "link": "https://vuejs.org/api/options-misc",
+    "pageLinks": [
+      {
+        "topic": "Options API",
+        "page_title": "Options: Misc​",
+        "section_title": "name",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-misc#name"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Misc​",
+        "section_title": "inheritAttrs",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-misc#inheritattrs"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Misc​",
+        "section_title": "components",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-misc#components"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Options: Misc​",
+        "section_title": "directives",
+        "link_title": "",
+        "url": "https://vuejs.org/api/options-misc#directives"
+      }
+    ]
+  },
+  {
+    "topic": "Options API",
+    "pageTitle": "Component Instance",
+    "url": "https://vuejs.org/api/component-instance",
+    "link": "https://vuejs.org/api/component-instance",
+    "pageLinks": [
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$data",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#data"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$props",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#props"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$el",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#el"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$options",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#options"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$parent",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#parent"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$root",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#root"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$slots",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#slots"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$refs",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#refs"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$attrs",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#attrs"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$watch()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#watch"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$emit()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#emit"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$forceUpdate()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#forceupdate"
+      },
+      {
+        "topic": "Options API",
+        "page_title": "Component Instance​",
+        "section_title": "$nextTick()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/component-instance#nexttick"
+      }
+    ]
+  },
+  {
+    "topic": "Built-ins",
+    "pageTitle": "Directives",
+    "url": "https://vuejs.org/api/built-in-directives",
+    "link": "https://vuejs.org/api/built-in-directives",
+    "pageLinks": [
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-text",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-text"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-html",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-html"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-show",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-show"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-if",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-if"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-else",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-else"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-else-if",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-else-if"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-for",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-for"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-on",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-on"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-bind",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-bind"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-model",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-model"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-slot",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-slot"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-pre",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-pre"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-once",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-once"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-memo",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-memo"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Directives​",
+        "section_title": "v-cloak",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-directives#v-cloak"
+      }
+    ]
+  },
+  {
+    "topic": "Built-ins",
+    "pageTitle": "Components",
+    "url": "https://vuejs.org/api/built-in-components",
+    "link": "https://vuejs.org/api/built-in-components",
+    "pageLinks": [
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Components​",
+        "section_title": "<Transition>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-components#transition"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Components​",
+        "section_title": "<TransitionGroup>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-components#transitiongroup"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Components​",
+        "section_title": "<KeepAlive>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-components#keepalive"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Components​",
+        "section_title": "<Teleport>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-components#teleport"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Components​",
+        "section_title": "<Suspense>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-components#suspense"
+      }
+    ]
+  },
+  {
+    "topic": "Built-ins",
+    "pageTitle": "Special Elements",
+    "url": "https://vuejs.org/api/built-in-special-elements",
+    "link": "https://vuejs.org/api/built-in-special-elements",
+    "pageLinks": [
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Special Elements​",
+        "section_title": "<component>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-special-elements#component"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Special Elements​",
+        "section_title": "<slot>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-special-elements#slot"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Special Elements​",
+        "section_title": "<template>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-special-elements#template"
+      }
+    ]
+  },
+  {
+    "topic": "Built-ins",
+    "pageTitle": "Special Attributes",
+    "url": "https://vuejs.org/api/built-in-special-attributes",
+    "link": "https://vuejs.org/api/built-in-special-attributes",
+    "pageLinks": [
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Special Attributes​",
+        "section_title": "key",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-special-attributes#key"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Special Attributes​",
+        "section_title": "ref",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-special-attributes#ref"
+      },
+      {
+        "topic": "Built-ins",
+        "page_title": "Built-in Special Attributes​",
+        "section_title": "is",
+        "link_title": "",
+        "url": "https://vuejs.org/api/built-in-special-attributes#is"
+      }
+    ]
+  },
+  {
+    "topic": "Single-File Component",
+    "pageTitle": "Syntax Specification",
+    "url": "https://vuejs.org/api/sfc-spec",
+    "link": "https://vuejs.org/api/sfc-spec",
+    "pageLinks": [
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC Syntax Specification​",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-spec#overview"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC Syntax Specification​",
+        "section_title": "Language Blocks",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-spec#language-blocks"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC Syntax Specification​",
+        "section_title": "Automatic Name Inference",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-spec#automatic-name-inference"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC Syntax Specification​",
+        "section_title": "Pre-Processors",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-spec#pre-processors"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC Syntax Specification​",
+        "section_title": "src Imports",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-spec#src-imports"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC Syntax Specification​",
+        "section_title": "Comments",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-spec#comments"
+      }
+    ]
+  },
+  {
+    "topic": "Single-File Component",
+    "pageTitle": "<script setup>",
+    "url": "https://vuejs.org/api/sfc-script-setup",
+    "link": "https://vuejs.org/api/sfc-script-setup",
+    "pageLinks": [
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Basic Syntax",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#basic-syntax"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Reactivity",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#reactivity"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Using Components",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#using-components"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Using Custom Directives",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#using-custom-directives"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "defineProps() & defineEmits()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#defineprops-defineemits"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "defineModel()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#definemodel"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "defineExpose()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#defineexpose"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "defineOptions()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#defineoptions"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "defineSlots()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#defineslots"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "useSlots() & useAttrs()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#useslots-useattrs"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Usage alongside normal <script>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#usage-alongside-normal-script"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Top-level await",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#top-level-await"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Generics",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#generics"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "<script setup>​",
+        "section_title": "Restrictions",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-script-setup#restrictions"
+      }
+    ]
+  },
+  {
+    "topic": "Single-File Component",
+    "pageTitle": "CSS Features",
+    "url": "https://vuejs.org/api/sfc-css-features",
+    "link": "https://vuejs.org/api/sfc-css-features",
+    "pageLinks": [
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC CSS Features​",
+        "section_title": "Scoped CSS",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-css-features#scoped-css"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC CSS Features​",
+        "section_title": "CSS Modules",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-css-features#css-modules"
+      },
+      {
+        "topic": "Single-File Component",
+        "page_title": "SFC CSS Features​",
+        "section_title": "v-bind() in CSS",
+        "link_title": "",
+        "url": "https://vuejs.org/api/sfc-css-features#v-bind-in-css"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced APIs",
+    "pageTitle": "Render Function",
+    "url": "https://vuejs.org/api/render-function",
+    "link": "https://vuejs.org/api/render-function",
+    "pageLinks": [
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "h()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#h"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "mergeProps()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#mergeprops"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "cloneVNode()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#clonevnode"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "isVNode()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#isvnode"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "resolveComponent()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#resolvecomponent"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "resolveDirective()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#resolvedirective"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "withDirectives()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#withdirectives"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Render Function APIs​",
+        "section_title": "withModifiers()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/render-function#withmodifiers"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced APIs",
+    "pageTitle": "Server-Side Rendering",
+    "url": "https://vuejs.org/api/ssr",
+    "link": "https://vuejs.org/api/ssr",
+    "pageLinks": [
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "renderToString()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#rendertostring"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "renderToNodeStream()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#rendertonodestream"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "pipeToNodeWritable()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#pipetonodewritable"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "renderToWebStream()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#rendertowebstream"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "pipeToWebWritable()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#pipetowebwritable"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "renderToSimpleStream()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#rendertosimplestream"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Server-Side Rendering API​",
+        "section_title": "useSSRContext()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/ssr#usessrcontext"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced APIs",
+    "pageTitle": "TypeScript Utility Types",
+    "url": "https://vuejs.org/api/utility-types",
+    "link": "https://vuejs.org/api/utility-types",
+    "pageLinks": [
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "PropType<T>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#proptype-t"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "MaybeRef<T>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#mayberef"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "MaybeRefOrGetter<T>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#maybereforgetter"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "ExtractPropTypes<T>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#extractproptypes"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "ExtractPublicPropTypes<T>",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#extractpublicproptypes"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "ComponentCustomProperties",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#componentcustomproperties"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "ComponentCustomOptions",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#componentcustomoptions"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "ComponentCustomProps",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#componentcustomprops"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Utility Types​",
+        "section_title": "CSSProperties",
+        "link_title": "",
+        "url": "https://vuejs.org/api/utility-types#cssproperties"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced APIs",
+    "pageTitle": "Custom Renderer",
+    "url": "https://vuejs.org/api/custom-renderer",
+    "link": "https://vuejs.org/api/custom-renderer",
+    "pageLinks": [
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Custom Renderer API​",
+        "section_title": "createRenderer()",
+        "link_title": "",
+        "url": "https://vuejs.org/api/custom-renderer#createrenderer"
+      }
+    ]
+  },
+  {
+    "topic": "Advanced APIs",
+    "pageTitle": "Compile-Time Flags",
+    "url": "https://vuejs.org/api/compile-time-flags",
+    "link": "https://vuejs.org/api/compile-time-flags",
+    "pageLinks": [
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "__VUE_OPTIONS_API__",
+        "link_title": "",
+        "url": "https://vuejs.org/api/compile-time-flags#VUE_OPTIONS_API"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "__VUE_PROD_DEVTOOLS__",
+        "link_title": "",
+        "url": "https://vuejs.org/api/compile-time-flags#VUE_PROD_DEVTOOLS"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "__VUE_PROD_HYDRATION_MISMATCH_DETAILS__",
+        "link_title": "",
+        "url": "https://vuejs.org/api/compile-time-flags#VUE_PROD_HYDRATION_MISMATCH_DETAILS"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "Configuration Guides",
+        "link_title": "",
+        "url": "https://vuejs.org/api/compile-time-flags#configuration-guides"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "Configuration Guides",
+        "link_title": "Vite",
+        "url": "https://vuejs.org/api/compile-time-flags#configuration-guides"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "Configuration Guides",
+        "link_title": "vue-cli",
+        "url": "https://vuejs.org/api/compile-time-flags#configuration-guides"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "Configuration Guides",
+        "link_title": "webpack",
+        "url": "https://vuejs.org/api/compile-time-flags#configuration-guides"
+      },
+      {
+        "topic": "Advanced APIs",
+        "page_title": "Compile-Time Flags​",
+        "section_title": "Configuration Guides",
+        "link_title": "Rollup",
+        "url": "https://vuejs.org/api/compile-time-flags#configuration-guides"
+      }
+    ]
+  }
+]

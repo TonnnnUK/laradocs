@@ -136,7 +136,7 @@ class LaraSearch extends Component
         if( $this->filtersToInt() != $this->allFilterIds){
             $this->filters = $this->allFilterIds;
         } else {
-            $this->filters = [$this->allFilterIds[0]];
+            $this->filters = [];
         }
 
         $this->searchDocs($this->search);

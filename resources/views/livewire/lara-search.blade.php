@@ -1,10 +1,9 @@
 <div class="w-full flex flex-col justify-center items-center p-2 min-h-48" x-data="searchText()">
-
-    <div class="flex items-stretch bg-gray-50 border border-gray-300 mb-4 text-sm rounded w-auto mx-auto">
-        <span class="px-2 flex items-center border-r font-bold text-xs">Filter</span>
-        <div class="flex items-stretch">
+    <div class="flex items-stretch flex-wrap bg-gray-50 border border-gray-300 mb-4 text-sm rounded w-auto mx-auto">
+        <span class="p-2 flex items-center md:border-r font-bold text-xs">Filter</span>
+        <div class="flex items-stretch flex-wrap gap-1">
             @foreach($frameworks as $framework)
-                <label wire:key="{{$framework->id}}" wire:click="filterSearch()" class="flex flex-col justify-between items-center border-gray-300 border-r px-3 pb-1 cursor-pointer">
+                <label wire:key="{{$framework->id}}" wire:click="filterSearch()" class="flex gap-1 md:gap-0 md:flex-col justify-between items-center border-gray-300 md:border-r px-3 pb-1 cursor-pointer">
                     <div class="py-2 w-6 flex justify-center items-center grow">
                         @if( in_array( $framework->id, $filters ))
                         <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%]">
@@ -15,7 +14,7 @@
                     <input class="w-3 h-3" type="checkbox" wire:model.live="filters" value="{{ intval($framework->id) }}" wire:key="{{$framework->id}}">
                 </label>
             @endforeach
-                <label class="flex flex-col justify-between items-center border-gray-300 border-r px-3 pb-1 cursor-pointer">
+                <label class="flex md:flex-col gap-1 md:gap-0 justify-between items-center border-gray-300 md:border-r px-3 pb-1 cursor-pointer">
                     <div class="py-2 w-6 flex flex-col justify-center items-center grow text-center">
                         <small>All</small>
                     </div>

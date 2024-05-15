@@ -1,10 +1,10 @@
 <x-app-layout>
     
-    <div class="hidden fixed right-2 top-2 md:flex flex-col justify-center">
+    <div class="w-[70%] sm:w-[30%] md:w-auto mx-auto sm:fixed sm:right-2 sm:top-2 md:flex flex-col justify-center">
         <div class="p-2 mt-2 text-center">
             <small>Finding this useful?</small>
             <a target="_blank" href="https://buymeacoffee.com/tonhutchinson" 
-                class="py-2 px-4 bg-yellow-300 text-gray-800 flex items-center gap-2 text-sm mx-auto rounded-lg hover:bg-yellow-400 transition duration-200"
+                class="py-2 px-4 bg-yellow-300 text-gray-800 flex items-center justify-center gap-2 text-sm mx-auto rounded-lg hover:bg-yellow-400 transition duration-200"
             >
                 <img class="w-4 h-4" src="/img/coffee.svg" /> <span>Buy me a coffee</span>
             </a>
@@ -15,7 +15,7 @@
         </a> --}}
     </div>
 
-    <div class="flex flex-col justify-between items-center py-4 lg:w-5/6 min-h-screen mx-auto mb-1">
+    <div class="flex flex-col justify-between items-center md:py-4 lg:w-5/6 min-h-screen mx-auto mb-1">
         
             <div class="pt-6 px-6 text-gray-900">
                 <h1 class="text-2xl lg:text-4xl text-center">
@@ -29,51 +29,51 @@
         
             <livewire:lara-search />
 
-            <div class="md:hidden w-full flex justify-end">               
+            {{-- <div class="md:hidden w-full flex justify-end">               
                 <a target="_blank" href="https://buymeacoffee.com/tonhutchinson" class="py-2 px-4 bg-yellow-300 text-gray-800 flex items-center gap-2 text-sm mt-2 mr-2 rounded-lg hover:bg-yellow-400 transition duration-200">
                     <img class="w-4 h-4" src="/img/coffee.svg" /> <span>Buy me coffee</span>
                 </a>
-            </div>
+            </div> --}}
 
             <!-- Logos -->
             <div class="mt-4 opacity-60 w-full flex flex-wrap">
-                <div class="w-full flex justify-center mb-4">
-                    <div class="w-1/4 mb-4 flex justify-center items-center gap-2">
-                        <img width="20" height="20" class="inline w-8" src="/img/icons/laravel.svg" />  <img width="120" height="30" class="inline w-28" src="/img/logos/laravel-text.svg" />  
+                <div class="w-full flex flex-wrap justify-center mb-4 gap-y-2">
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center gap-2">
+                        <img width="20" height="20" class="inline w-8" src="/img/icons/laravel.svg" />  
+                        <img width="120" height="30" class="inline md:w-28" src="/img/logos/laravel-text.svg" />  
                     </div>
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img width="120" height="30" class="inline w-40" src="/img/logos/livewire.svg" />  
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <img width="120" height="30" class="inline md:w-40" src="/img/logos/livewire.svg" />  
                     </div>
-                    <div class="w-1/3 mb-4 flex justify-center items-center">
-                        <x-inertia-icon class="w-36 bg-purple-500 px-1 pt-1 pb-2" />
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <x-inertia-icon class="md:w-36 bg-purple-500 px-1 pt-1 pb-2" />
                     </div>
-                    <div class="w-1/3 mb-4 flex justify-center items-center">
-                        <x-jetstream-icon class="w-40" />
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <x-jetstream-icon class="w-[80%] md:w-40" />
                     </div>
-                </div>
-                <div class="w-full flex justify-center mb-4">
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img width="120" height="30" class="inline w-36" src="/img/logos/alpine.svg" />  
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <img width="120" height="30" class="inline md:w-36" src="/img/logos/alpine.svg" />  
                     </div>
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <x-tailwind-icon class="w-40" />
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <img width="120" height="30" class="inline md:w-32" src="/img/logos/vue.png" />  
                     </div>
-                    <div class="w-1/3 mb-4 flex justify-center items-center">
-                        <x-nova-icon class="w-44" />
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <x-tailwind-icon class="w-[80%] md:w-40" />
                     </div>
-                </div>
-                <div class="w-full flex justify-center mb-4">
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <x-filament-icon class="w-32" />
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <x-nova-icon class="w-[80%] md:w-44" />
                     </div>
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <x-spatie-icon class="w-24" />
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <x-filament-icon class="w-[70%] md:w-32" />
                     </div>
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img width="120" height="30" class="inline w-32" src="/img/logos/pest.svg" />  
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center text-xs items-center gap-1 font-bold">
+                        <x-spatie-icon class="w-[70%] md:w-24" /> Permissions
                     </div>
-                    <div class="w-1/4 mb-4 flex justify-center items-center">
-                        <img width="120" height="30" class="inline w-32" src="/img/logos/carbon.png" />  
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <img width="120" height="30" class="inline md:w-32" src="/img/logos/pest.svg" />  
+                    </div>
+                    <div class="w-1/2 md:w-1/4 mb-4 flex justify-center items-center">
+                        <img width="120" height="30" class="inline md:w-30" src="/img/logos/carbon.png" />  
                     </div>
                 </div>
             </div>
