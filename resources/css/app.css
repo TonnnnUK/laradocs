@@ -179,3 +179,17 @@
     color: #35495e;
 }
 
+.React {
+    border: solid 1px #087ea4;
+}
+
+.React:hover {
+    background-color: #f6fdff;
+}
+
+.React .highlight,
+.React .link
+{
+    color: #043443;
+}
+

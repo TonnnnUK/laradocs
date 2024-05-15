@@ -1,0 +1,3074 @@
+[
+  {
+    "topic": "Installation",
+    "pageTitle": "Installation",
+    "url": "https://react.dev/learn/installation",
+    "link": "https://react.dev/learn/installation",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/installation#"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Try React",
+        "link_title": "",
+        "url": "https://react.dev/learn/installation#try-react"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Try React",
+        "link_title": "Try React locally",
+        "url": "https://react.dev/learn/installation#try-react-locally"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Start a new React project",
+        "link_title": "",
+        "url": "https://react.dev/learn/installation#start-a-new-react-project"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Add React to an existing project",
+        "link_title": "",
+        "url": "https://react.dev/learn/installation#add-react-to-an-existing-project"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Installation",
+        "section_title": "Next steps",
+        "link_title": "",
+        "url": "https://react.dev/learn/installation#next-steps"
+      }
+    ]
+  },
+  {
+    "topic": "Installation",
+    "pageTitle": "Start a New React Project ",
+    "url": "https://react.dev/learn/start-a-new-react-project",
+    "link": "https://react.dev/learn/start-a-new-react-project",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/start-a-new-react-project#"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Production-grade React frameworks",
+        "link_title": "",
+        "url": "https://react.dev/learn/start-a-new-react-project#production-grade-react-frameworks"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Production-grade React frameworks",
+        "link_title": "Next.js",
+        "url": "https://react.dev/learn/start-a-new-react-project#nextjs-pages-router"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Production-grade React frameworks",
+        "link_title": "Remix",
+        "url": "https://react.dev/learn/start-a-new-react-project#remix"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Production-grade React frameworks",
+        "link_title": "Gatsby",
+        "url": "https://react.dev/learn/start-a-new-react-project#gatsby"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Production-grade React frameworks",
+        "link_title": "Expo (for native apps)",
+        "url": "https://react.dev/learn/start-a-new-react-project#expo"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Bleeding-edge React frameworks",
+        "link_title": "",
+        "url": "https://react.dev/learn/start-a-new-react-project#bleeding-edge-react-frameworks"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Start a New React Project",
+        "section_title": "Bleeding-edge React frameworks",
+        "link_title": "Next.js (App Router)",
+        "url": "https://react.dev/learn/start-a-new-react-project#nextjs-app-router"
+      }
+    ]
+  },
+  {
+    "topic": "Installation",
+    "pageTitle": "Add React to an Existing Project ",
+    "url": "https://react.dev/learn/add-react-to-an-existing-project",
+    "link": "https://react.dev/learn/add-react-to-an-existing-project",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Add React to an Existing Project",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/add-react-to-an-existing-project#"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Add React to an Existing Project",
+        "section_title": "Using React for an entire subroute of your existing website",
+        "link_title": "",
+        "url": "https://react.dev/learn/add-react-to-an-existing-project#using-react-for-an-entire-subroute-of-your-existing-website"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Add React to an Existing Project",
+        "section_title": "Using React for a part of your existing page",
+        "link_title": "",
+        "url": "https://react.dev/learn/add-react-to-an-existing-project#using-react-for-a-part-of-your-existing-page"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Add React to an Existing Project",
+        "section_title": "Using React for a part of your existing page",
+        "link_title": "Step 1: Set up a modular JavaScript environment",
+        "url": "https://react.dev/learn/add-react-to-an-existing-project#step-1-set-up-a-modular-javascript-environment"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Add React to an Existing Project",
+        "section_title": "Using React for a part of your existing page",
+        "link_title": "Step 2: Render React components anywhere on the page",
+        "url": "https://react.dev/learn/add-react-to-an-existing-project#step-2-render-react-components-anywhere-on-the-page"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Add React to an Existing Project",
+        "section_title": "Using React Native in an existing native mobile app",
+        "link_title": "",
+        "url": "https://react.dev/learn/add-react-to-an-existing-project#using-react-native-in-an-existing-native-mobile-app"
+      }
+    ]
+  },
+  {
+    "topic": "Installation",
+    "pageTitle": "Editor Setup ",
+    "url": "https://react.dev/learn/editor-setup",
+    "link": "https://react.dev/learn/editor-setup",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Editor Setup",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/editor-setup#"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Editor Setup",
+        "section_title": "Your editor",
+        "link_title": "",
+        "url": "https://react.dev/learn/editor-setup#your-editor"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Editor Setup",
+        "section_title": "Recommended text editor features",
+        "link_title": "",
+        "url": "https://react.dev/learn/editor-setup#recommended-text-editor-features"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Editor Setup",
+        "section_title": "Recommended text editor features",
+        "link_title": "Linting",
+        "url": "https://react.dev/learn/editor-setup#linting"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Editor Setup",
+        "section_title": "Recommended text editor features",
+        "link_title": "Formatting",
+        "url": "https://react.dev/learn/editor-setup#formatting"
+      }
+    ]
+  },
+  {
+    "topic": "Installation",
+    "pageTitle": "Using TypeScript ",
+    "url": "https://react.dev/learn/typescript",
+    "link": "https://react.dev/learn/typescript",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/typescript#"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Installation",
+        "link_title": "",
+        "url": "https://react.dev/learn/typescript#installation"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Installation",
+        "link_title": "Adding TypeScript to an existing React project",
+        "url": "https://react.dev/learn/typescript#adding-typescript-to-an-existing-react-project"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "TypeScript with React Components",
+        "link_title": "",
+        "url": "https://react.dev/learn/typescript#typescript-with-react-components"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Example Hooks",
+        "link_title": "",
+        "url": "https://react.dev/learn/typescript#example-hooks"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Example Hooks",
+        "link_title": "useState",
+        "url": "https://react.dev/learn/typescript#typing-usestate"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Example Hooks",
+        "link_title": "useReducer",
+        "url": "https://react.dev/learn/typescript#typing-usereducer"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Example Hooks",
+        "link_title": "useContext",
+        "url": "https://react.dev/learn/typescript#typing-usecontext"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Example Hooks",
+        "link_title": "useMemo",
+        "url": "https://react.dev/learn/typescript#typing-usememo"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Example Hooks",
+        "link_title": "useCallback",
+        "url": "https://react.dev/learn/typescript#typing-usecallback"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Useful Types",
+        "link_title": "",
+        "url": "https://react.dev/learn/typescript#useful-types"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Useful Types",
+        "link_title": "DOM Events",
+        "url": "https://react.dev/learn/typescript#typing-dom-events"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Useful Types",
+        "link_title": "Children",
+        "url": "https://react.dev/learn/typescript#typing-children"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Useful Types",
+        "link_title": "Style Props",
+        "url": "https://react.dev/learn/typescript#typing-style-props"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "Using TypeScript",
+        "section_title": "Further learning",
+        "link_title": "",
+        "url": "https://react.dev/learn/typescript#further-learning"
+      }
+    ]
+  },
+  {
+    "topic": "Installation",
+    "pageTitle": "React Developer Tools ",
+    "url": "https://react.dev/learn/react-developer-tools",
+    "link": "https://react.dev/learn/react-developer-tools",
+    "pageLinks": [
+      {
+        "topic": "Installation",
+        "page_title": "React Developer Tools",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/react-developer-tools#"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "React Developer Tools",
+        "section_title": "Browser extension",
+        "link_title": "",
+        "url": "https://react.dev/learn/react-developer-tools#browser-extension"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "React Developer Tools",
+        "section_title": "Browser extension",
+        "link_title": "Safari and other browsers",
+        "url": "https://react.dev/learn/react-developer-tools#safari-and-other-browsers"
+      },
+      {
+        "topic": "Installation",
+        "page_title": "React Developer Tools",
+        "section_title": "Mobile (React Native)",
+        "link_title": "",
+        "url": "https://react.dev/learn/react-developer-tools#mobile-react-native"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Describing the UI",
+    "url": "https://react.dev/learn/describing-the-ui",
+    "link": "https://react.dev/learn/describing-the-ui",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Your first component",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#your-first-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Importing and exporting components",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#importing-and-exporting-components"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Writing markup with JSX",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#writing-markup-with-jsx"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "JavaScript in JSX with curly braces",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#javascript-in-jsx-with-curly-braces"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Passing props to a component",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#passing-props-to-a-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Conditional rendering",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#conditional-rendering"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Rendering lists",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#rendering-lists"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Keeping components pure",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#keeping-components-pure"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "Your UI as a tree",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#your-ui-as-a-tree"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Describing the UI",
+        "section_title": "What’s next?",
+        "link_title": "",
+        "url": "https://react.dev/learn/describing-the-ui#whats-next"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Your First Component ",
+    "url": "https://react.dev/learn/your-first-component",
+    "link": "https://react.dev/learn/your-first-component",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/your-first-component#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Components: UI building blocks",
+        "link_title": "",
+        "url": "https://react.dev/learn/your-first-component#components-ui-building-blocks"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Defining a component",
+        "link_title": "",
+        "url": "https://react.dev/learn/your-first-component#defining-a-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Defining a component",
+        "link_title": "Step 1: Export the component",
+        "url": "https://react.dev/learn/your-first-component#step-1-export-the-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Defining a component",
+        "link_title": "Step 2: Define the function",
+        "url": "https://react.dev/learn/your-first-component#step-2-define-the-function"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Defining a component",
+        "link_title": "Step 3: Add markup",
+        "url": "https://react.dev/learn/your-first-component#step-3-add-markup"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Using a component",
+        "link_title": "",
+        "url": "https://react.dev/learn/your-first-component#using-a-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Using a component",
+        "link_title": "What the browser sees",
+        "url": "https://react.dev/learn/your-first-component#what-the-browser-sees"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Using a component",
+        "link_title": "Nesting and organizing components",
+        "url": "https://react.dev/learn/your-first-component#nesting-and-organizing-components"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/your-first-component#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Your First Component",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/your-first-component#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Importing and Exporting Components ",
+    "url": "https://react.dev/learn/importing-and-exporting-components",
+    "link": "https://react.dev/learn/importing-and-exporting-components",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Importing and Exporting Components",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/importing-and-exporting-components#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Importing and Exporting Components",
+        "section_title": "The root component file",
+        "link_title": "",
+        "url": "https://react.dev/learn/importing-and-exporting-components#the-root-component-file"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Importing and Exporting Components",
+        "section_title": "Exporting and importing a component",
+        "link_title": "",
+        "url": "https://react.dev/learn/importing-and-exporting-components#exporting-and-importing-a-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Importing and Exporting Components",
+        "section_title": "Exporting and importing multiple components from the same file",
+        "link_title": "",
+        "url": "https://react.dev/learn/importing-and-exporting-components#exporting-and-importing-multiple-components-from-the-same-file"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Importing and Exporting Components",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/importing-and-exporting-components#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Importing and Exporting Components",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/importing-and-exporting-components#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Writing Markup with JSX ",
+    "url": "https://react.dev/learn/writing-markup-with-jsx",
+    "link": "https://react.dev/learn/writing-markup-with-jsx",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "JSX: Putting markup into JavaScript",
+        "link_title": "",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#jsx-putting-markup-into-javascript"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "Converting HTML to JSX",
+        "link_title": "",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#converting-html-to-jsx"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "The Rules of JSX",
+        "link_title": "",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#the-rules-of-jsx"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "The Rules of JSX",
+        "link_title": "1. Return a single root element",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#1-return-a-single-root-element"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "The Rules of JSX",
+        "link_title": "2. Close all the tags",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#2-close-all-the-tags"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "The Rules of JSX",
+        "link_title": "3. camelCase all most of the things!",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#3-camelcase-salls-most-of-the-things"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "The Rules of JSX",
+        "link_title": "Pro-tip: Use a JSX Converter",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#pro-tip-use-a-jsx-converter"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Writing Markup with JSX",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/writing-markup-with-jsx#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "JavaScript in JSX with Curly Braces ",
+    "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces",
+    "link": "https://react.dev/learn/javascript-in-jsx-with-curly-braces",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Passing strings with quotes",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#passing-strings-with-quotes"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Using curly braces: A window into the JavaScript world",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#using-curly-braces-a-window-into-the-javascript-world"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Using curly braces: A window into the JavaScript world",
+        "link_title": "Where to use curly braces",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#where-to-use-curly-braces"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Using “double curlies”: CSS and other objects in JSX",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#using-double-curlies-css-and-other-objects-in-jsx"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "More fun with JavaScript objects and curly braces",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#more-fun-with-javascript-objects-and-curly-braces"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "JavaScript in JSX with Curly Braces",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Passing Props to a Component ",
+    "url": "https://react.dev/learn/passing-props-to-a-component",
+    "link": "https://react.dev/learn/passing-props-to-a-component",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Familiar props",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#familiar-props"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Passing props to a component",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#passing-props-to-a-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Passing props to a component",
+        "link_title": "Step 1: Pass props to the child component",
+        "url": "https://react.dev/learn/passing-props-to-a-component#step-1-pass-props-to-the-child-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Passing props to a component",
+        "link_title": "Step 2: Read props inside the child component",
+        "url": "https://react.dev/learn/passing-props-to-a-component#step-2-read-props-inside-the-child-component"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Specifying a default value for a prop",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#specifying-a-default-value-for-a-prop"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Forwarding props with the JSX spread syntax",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#forwarding-props-with-the-jsx-spread-syntax"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Passing JSX as children",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#passing-jsx-as-children"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "How props change over time",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#how-props-change-over-time"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Passing Props to a Component",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-props-to-a-component#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Conditional Rendering ",
+    "url": "https://react.dev/learn/conditional-rendering",
+    "link": "https://react.dev/learn/conditional-rendering",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/conditional-rendering#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Conditionally returning JSX",
+        "link_title": "",
+        "url": "https://react.dev/learn/conditional-rendering#conditionally-returning-jsx"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Conditionally returning JSX",
+        "link_title": "Conditionally returning nothing with null",
+        "url": "https://react.dev/learn/conditional-rendering#conditionally-returning-nothing-with-null"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Conditionally including JSX",
+        "link_title": "",
+        "url": "https://react.dev/learn/conditional-rendering#conditionally-including-jsx"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Conditionally including JSX",
+        "link_title": "Conditional (ternary) operator (? :)",
+        "url": "https://react.dev/learn/conditional-rendering#conditional-ternary-operator--"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Conditionally including JSX",
+        "link_title": "Logical AND operator (&&)",
+        "url": "https://react.dev/learn/conditional-rendering#logical-and-operator-"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Conditionally including JSX",
+        "link_title": "Conditionally assigning JSX to a variable",
+        "url": "https://react.dev/learn/conditional-rendering#conditionally-assigning-jsx-to-a-variable"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/conditional-rendering#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Conditional Rendering",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/conditional-rendering#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Rendering Lists ",
+    "url": "https://react.dev/learn/rendering-lists",
+    "link": "https://react.dev/learn/rendering-lists",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/rendering-lists#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Rendering data from arrays",
+        "link_title": "",
+        "url": "https://react.dev/learn/rendering-lists#rendering-data-from-arrays"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Filtering arrays of items",
+        "link_title": "",
+        "url": "https://react.dev/learn/rendering-lists#filtering-arrays-of-items"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Keeping list items in order with key",
+        "link_title": "",
+        "url": "https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Keeping list items in order with key",
+        "link_title": "Where to get your key",
+        "url": "https://react.dev/learn/rendering-lists#where-to-get-your-key"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Keeping list items in order with key",
+        "link_title": "Rules of keys",
+        "url": "https://react.dev/learn/rendering-lists#rules-of-keys"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Keeping list items in order with key",
+        "link_title": "Why does React need keys?",
+        "url": "https://react.dev/learn/rendering-lists#why-does-react-need-keys"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/rendering-lists#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Rendering Lists",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/rendering-lists#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Keeping Components Pure ",
+    "url": "https://react.dev/learn/keeping-components-pure",
+    "link": "https://react.dev/learn/keeping-components-pure",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/keeping-components-pure#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Purity: Components as formulas",
+        "link_title": "",
+        "url": "https://react.dev/learn/keeping-components-pure#purity-components-as-formulas"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Side Effects: (un)intended consequences",
+        "link_title": "",
+        "url": "https://react.dev/learn/keeping-components-pure#side-effects-unintended-consequences"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Side Effects: (un)intended consequences",
+        "link_title": "Local mutation: Your component’s little secret",
+        "url": "https://react.dev/learn/keeping-components-pure#local-mutation-your-components-little-secret"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Where you can cause side effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/keeping-components-pure#where-you-_can_-cause-side-effects"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/keeping-components-pure#recap"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Keeping Components Pure",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/keeping-components-pure#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Describing the UI",
+    "pageTitle": "Your UI as a Tree ",
+    "url": "https://react.dev/learn/understanding-your-ui-as-a-tree",
+    "link": "https://react.dev/learn/understanding-your-ui-as-a-tree",
+    "pageLinks": [
+      {
+        "topic": "Describing the UI",
+        "page_title": "Understanding Your UI as a Tree",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/understanding-your-ui-as-a-tree#"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Understanding Your UI as a Tree",
+        "section_title": "Your UI as a tree",
+        "link_title": "",
+        "url": "https://react.dev/learn/understanding-your-ui-as-a-tree#your-ui-as-a-tree"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Understanding Your UI as a Tree",
+        "section_title": "The Render Tree",
+        "link_title": "",
+        "url": "https://react.dev/learn/understanding-your-ui-as-a-tree#the-render-tree"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Understanding Your UI as a Tree",
+        "section_title": "The Module Dependency Tree",
+        "link_title": "",
+        "url": "https://react.dev/learn/understanding-your-ui-as-a-tree#the-module-dependency-tree"
+      },
+      {
+        "topic": "Describing the UI",
+        "page_title": "Understanding Your UI as a Tree",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/understanding-your-ui-as-a-tree#recap"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "Adding Interactivity",
+    "url": "https://react.dev/learn/adding-interactivity",
+    "link": "https://react.dev/learn/adding-interactivity",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "Responding to events",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#responding-to-events"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "State: a component’s memory",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#state-a-components-memory"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "Render and commit",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#render-and-commit"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "State as a snapshot",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#state-as-a-snapshot"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "Queueing a series of state updates",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#queueing-a-series-of-state-updates"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "Updating objects in state",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#updating-objects-in-state"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "Updating arrays in state",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#updating-arrays-in-state"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Adding Interactivity",
+        "section_title": "What’s next?",
+        "link_title": "",
+        "url": "https://react.dev/learn/adding-interactivity#whats-next"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "Responding to Events ",
+    "url": "https://react.dev/learn/responding-to-events",
+    "link": "https://react.dev/learn/responding-to-events",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/responding-to-events#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Adding event handlers",
+        "link_title": "",
+        "url": "https://react.dev/learn/responding-to-events#adding-event-handlers"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Adding event handlers",
+        "link_title": "Reading props in event handlers",
+        "url": "https://react.dev/learn/responding-to-events#reading-props-in-event-handlers"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Adding event handlers",
+        "link_title": "Passing event handlers as props",
+        "url": "https://react.dev/learn/responding-to-events#passing-event-handlers-as-props"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Adding event handlers",
+        "link_title": "Naming event handler props",
+        "url": "https://react.dev/learn/responding-to-events#naming-event-handler-props"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Event propagation",
+        "link_title": "",
+        "url": "https://react.dev/learn/responding-to-events#event-propagation"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Event propagation",
+        "link_title": "Stopping propagation",
+        "url": "https://react.dev/learn/responding-to-events#stopping-propagation"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Event propagation",
+        "link_title": "Passing handlers as alternative to propagation",
+        "url": "https://react.dev/learn/responding-to-events#passing-handlers-as-alternative-to-propagation"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Event propagation",
+        "link_title": "Preventing default behavior",
+        "url": "https://react.dev/learn/responding-to-events#preventing-default-behavior"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Can event handlers have side effects?",
+        "link_title": "",
+        "url": "https://react.dev/learn/responding-to-events#can-event-handlers-have-side-effects"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/responding-to-events#recap"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Responding to Events",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/responding-to-events#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "State: A Component's Memory ",
+    "url": "https://react.dev/learn/state-a-components-memory",
+    "link": "https://react.dev/learn/state-a-components-memory",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "When a regular variable isn’t enough",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#when-a-regular-variable-isnt-enough"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Adding a state variable",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#adding-a-state-variable"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Adding a state variable",
+        "link_title": "Meet your first Hook",
+        "url": "https://react.dev/learn/state-a-components-memory#meet-your-first-hook"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Adding a state variable",
+        "link_title": "Anatomy of useState",
+        "url": "https://react.dev/learn/state-a-components-memory#anatomy-of-usestate"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Giving a component multiple state variables",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#giving-a-component-multiple-state-variables"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "State is isolated and private",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#state-is-isolated-and-private"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#recap"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State: A Component's Memory",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-a-components-memory#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "Render and Commit ",
+    "url": "https://react.dev/learn/render-and-commit",
+    "link": "https://react.dev/learn/render-and-commit",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/render-and-commit#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Step 1: Trigger a render",
+        "link_title": "",
+        "url": "https://react.dev/learn/render-and-commit#step-1-trigger-a-render"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Step 1: Trigger a render",
+        "link_title": "Initial render",
+        "url": "https://react.dev/learn/render-and-commit#initial-render"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Step 1: Trigger a render",
+        "link_title": "Re-renders when state updates",
+        "url": "https://react.dev/learn/render-and-commit#re-renders-when-state-updates"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Step 2: React renders your components",
+        "link_title": "",
+        "url": "https://react.dev/learn/render-and-commit#step-2-react-renders-your-components"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Step 3: React commits changes to the DOM",
+        "link_title": "",
+        "url": "https://react.dev/learn/render-and-commit#step-3-react-commits-changes-to-the-dom"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Epilogue: Browser paint",
+        "link_title": "",
+        "url": "https://react.dev/learn/render-and-commit#epilogue-browser-paint"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Render and Commit",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/render-and-commit#recap"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "State as a Snapshot ",
+    "url": "https://react.dev/learn/state-as-a-snapshot",
+    "link": "https://react.dev/learn/state-as-a-snapshot",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State as a Snapshot",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-as-a-snapshot#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State as a Snapshot",
+        "section_title": "Setting state triggers renders",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-as-a-snapshot#setting-state-triggers-renders"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State as a Snapshot",
+        "section_title": "Rendering takes a snapshot in time",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-as-a-snapshot#rendering-takes-a-snapshot-in-time"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State as a Snapshot",
+        "section_title": "State over time",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-as-a-snapshot#state-over-time"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State as a Snapshot",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-as-a-snapshot#recap"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "State as a Snapshot",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/state-as-a-snapshot#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "Queueing a Series of State Updates ",
+    "url": "https://react.dev/learn/queueing-a-series-of-state-updates",
+    "link": "https://react.dev/learn/queueing-a-series-of-state-updates",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "React batches state updates",
+        "link_title": "",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#react-batches-state-updates"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Updating the same state multiple times before the next render",
+        "link_title": "",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#updating-the-same-state-multiple-times-before-the-next-render"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Updating the same state multiple times before the next render",
+        "link_title": "What happens if you update state after replacing it",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#what-happens-if-you-update-state-after-replacing-it"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Updating the same state multiple times before the next render",
+        "link_title": "What happens if you replace state after updating it",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#what-happens-if-you-replace-state-after-updating-it"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Updating the same state multiple times before the next render",
+        "link_title": "Naming conventions",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#naming-conventions"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#recap"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Queueing a Series of State Updates",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/queueing-a-series-of-state-updates#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "Updating Objects in State ",
+    "url": "https://react.dev/learn/updating-objects-in-state",
+    "link": "https://react.dev/learn/updating-objects-in-state",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "What’s a mutation?",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#whats-a-mutation"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Treat state as read-only",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#treat-state-as-read-only"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Copying objects with the spread syntax",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#copying-objects-with-the-spread-syntax"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Updating a nested object",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#updating-a-nested-object"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Updating a nested object",
+        "link_title": "Write concise update logic with Immer",
+        "url": "https://react.dev/learn/updating-objects-in-state#write-concise-update-logic-with-immer"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#recap"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Objects in State",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-objects-in-state#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Adding Interactivity",
+    "pageTitle": "Updating Arrays in State ",
+    "url": "https://react.dev/learn/updating-arrays-in-state",
+    "link": "https://react.dev/learn/updating-arrays-in-state",
+    "pageLinks": [
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-arrays-in-state#"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-arrays-in-state#updating-arrays-without-mutation"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "Adding to an array",
+        "url": "https://react.dev/learn/updating-arrays-in-state#adding-to-an-array"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "Removing from an array",
+        "url": "https://react.dev/learn/updating-arrays-in-state#removing-from-an-array"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "Transforming an array",
+        "url": "https://react.dev/learn/updating-arrays-in-state#transforming-an-array"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "Replacing items in an array",
+        "url": "https://react.dev/learn/updating-arrays-in-state#replacing-items-in-an-array"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "Inserting into an array",
+        "url": "https://react.dev/learn/updating-arrays-in-state#inserting-into-an-array"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating arrays without mutation",
+        "link_title": "Making other changes to an array",
+        "url": "https://react.dev/learn/updating-arrays-in-state#making-other-changes-to-an-array"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating objects inside arrays",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-arrays-in-state#updating-objects-inside-arrays"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Updating objects inside arrays",
+        "link_title": "Write concise update logic with Immer",
+        "url": "https://react.dev/learn/updating-arrays-in-state#write-concise-update-logic-with-immer"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-arrays-in-state#recap"
+      },
+      {
+        "topic": "Adding Interactivity",
+        "page_title": "Updating Arrays in State",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/updating-arrays-in-state#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Managing State",
+    "url": "https://react.dev/learn/managing-state",
+    "link": "https://react.dev/learn/managing-state",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Reacting to input with state",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#reacting-to-input-with-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Choosing the state structure",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#choosing-the-state-structure"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Sharing state between components",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#sharing-state-between-components"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Preserving and resetting state",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#preserving-and-resetting-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Extracting state logic into a reducer",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#extracting-state-logic-into-a-reducer"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Passing data deeply with context",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#passing-data-deeply-with-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "Scaling up with reducer and context",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#scaling-up-with-reducer-and-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Managing State",
+        "section_title": "What’s next?",
+        "link_title": "",
+        "url": "https://react.dev/learn/managing-state#whats-next"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Reacting to Input with State ",
+    "url": "https://react.dev/learn/reacting-to-input-with-state",
+    "link": "https://react.dev/learn/reacting-to-input-with-state",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "How declarative UI compares to imperative",
+        "link_title": "",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#how-declarative-ui-compares-to-imperative"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Thinking about UI declaratively",
+        "link_title": "",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#thinking-about-ui-declaratively"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Thinking about UI declaratively",
+        "link_title": "Step 1: Identify your component’s different visual states",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#step-1-identify-your-components-different-visual-states"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Thinking about UI declaratively",
+        "link_title": "Step 2: Determine what triggers those state changes",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#step-2-determine-what-triggers-those-state-changes"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Thinking about UI declaratively",
+        "link_title": "Step 3: Represent the state in memory with useState",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#step-3-represent-the-state-in-memory-with-usestate"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Thinking about UI declaratively",
+        "link_title": "Step 4: Remove any non-essential state variables",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#step-4-remove-any-non-essential-state-variables"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Thinking about UI declaratively",
+        "link_title": "Step 5: Connect the event handlers to set state",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#step-5-connect-the-event-handlers-to-set-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#recap"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Reacting to Input with State",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/reacting-to-input-with-state#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Choosing the State Structure ",
+    "url": "https://react.dev/learn/choosing-the-state-structure",
+    "link": "https://react.dev/learn/choosing-the-state-structure",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Principles for structuring state",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#principles-for-structuring-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Group related state",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#group-related-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Avoid contradictions in state",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#avoid-contradictions-in-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Avoid redundant state",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#avoid-redundant-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Avoid duplication in state",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#avoid-duplication-in-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Avoid deeply nested state",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#avoid-deeply-nested-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#recap"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Choosing the State Structure",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/choosing-the-state-structure#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Sharing State Between Components ",
+    "url": "https://react.dev/learn/sharing-state-between-components",
+    "link": "https://react.dev/learn/sharing-state-between-components",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/sharing-state-between-components#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Lifting state up by example",
+        "link_title": "",
+        "url": "https://react.dev/learn/sharing-state-between-components#lifting-state-up-by-example"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Lifting state up by example",
+        "link_title": "Step 1: Remove state from the child components",
+        "url": "https://react.dev/learn/sharing-state-between-components#step-1-remove-state-from-the-child-components"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Lifting state up by example",
+        "link_title": "Step 2: Pass hardcoded data from the common parent",
+        "url": "https://react.dev/learn/sharing-state-between-components#step-2-pass-hardcoded-data-from-the-common-parent"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Lifting state up by example",
+        "link_title": "Step 3: Add state to the common parent",
+        "url": "https://react.dev/learn/sharing-state-between-components#step-3-add-state-to-the-common-parent"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "A single source of truth for each state",
+        "link_title": "",
+        "url": "https://react.dev/learn/sharing-state-between-components#a-single-source-of-truth-for-each-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/sharing-state-between-components#recap"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Sharing State Between Components",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/sharing-state-between-components#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Preserving and Resetting State ",
+    "url": "https://react.dev/learn/preserving-and-resetting-state",
+    "link": "https://react.dev/learn/preserving-and-resetting-state",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "State is tied to a position in the render tree",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#state-is-tied-to-a-position-in-the-tree"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Same component at the same position preserves state",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#same-component-at-the-same-position-preserves-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Different components at the same position reset state",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#different-components-at-the-same-position-reset-state"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Resetting state at the same position",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#resetting-state-at-the-same-position"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Resetting state at the same position",
+        "link_title": "Option 1: Rendering a component in different positions",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#option-1-rendering-a-component-in-different-positions"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Resetting state at the same position",
+        "link_title": "Option 2: Resetting state with a key",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#option-2-resetting-state-with-a-key"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Resetting state at the same position",
+        "link_title": "Resetting a form with a key",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#resetting-a-form-with-a-key"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#recap"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Preserving and Resetting State",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/preserving-and-resetting-state#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Extracting State Logic into a Reducer ",
+    "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer",
+    "link": "https://react.dev/learn/extracting-state-logic-into-a-reducer",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Consolidate state logic with a reducer",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#consolidate-state-logic-with-a-reducer"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Consolidate state logic with a reducer",
+        "link_title": "Step 1: Move from setting state to dispatching actions",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#step-1-move-from-setting-state-to-dispatching-actions"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Consolidate state logic with a reducer",
+        "link_title": "Step 2: Write a reducer function",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#step-2-write-a-reducer-function"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Consolidate state logic with a reducer",
+        "link_title": "Step 3: Use the reducer from your component",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#step-3-use-the-reducer-from-your-component"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Comparing useState and useReducer",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#comparing-usestate-and-usereducer"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Writing reducers well",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#writing-reducers-well"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Writing concise reducers with Immer",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#writing-concise-reducers-with-immer"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#recap"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Extracting State Logic into a Reducer",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Passing Data Deeply with Context ",
+    "url": "https://react.dev/learn/passing-data-deeply-with-context",
+    "link": "https://react.dev/learn/passing-data-deeply-with-context",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "The problem with passing props",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#the-problem-with-passing-props"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Context: an alternative to passing props",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#context-an-alternative-to-passing-props"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Context: an alternative to passing props",
+        "link_title": "Step 1: Create the context",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#step-1-create-the-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Context: an alternative to passing props",
+        "link_title": "Step 2: Use the context",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#step-2-use-the-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Context: an alternative to passing props",
+        "link_title": "Step 3: Provide the context",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#step-3-provide-the-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Using and providing context from the same component",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#using-and-providing-context-from-the-same-component"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Context passes through intermediate components",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#context-passes-through-intermediate-components"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Before you use context",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#before-you-use-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Use cases for context",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#use-cases-for-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#recap"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Passing Data Deeply with Context",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/passing-data-deeply-with-context#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Managing State",
+    "pageTitle": "Scaling Up with Reducer and Context ",
+    "url": "https://react.dev/learn/scaling-up-with-reducer-and-context",
+    "link": "https://react.dev/learn/scaling-up-with-reducer-and-context",
+    "pageLinks": [
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Combining a reducer with context",
+        "link_title": "",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#combining-a-reducer-with-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Combining a reducer with context",
+        "link_title": "Step 1: Create the context",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#step-1-create-the-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Combining a reducer with context",
+        "link_title": "Step 2: Put state and dispatch into context",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#step-2-put-state-and-dispatch-into-context"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Combining a reducer with context",
+        "link_title": "Step 3: Use context anywhere in the tree",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#step-3-use-context-anywhere-in-the-tree"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Moving all wiring into a single file",
+        "link_title": "",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#moving-all-wiring-into-a-single-file"
+      },
+      {
+        "topic": "Managing State",
+        "page_title": "Scaling Up with Reducer and Context",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/scaling-up-with-reducer-and-context#recap"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Escape Hatches",
+    "url": "https://react.dev/learn/escape-hatches",
+    "link": "https://react.dev/learn/escape-hatches",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Referencing values with refs",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#referencing-values-with-refs"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Manipulating the DOM with refs",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#manipulating-the-dom-with-refs"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Synchronizing with Effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#synchronizing-with-effects"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "You Might Not Need An Effect",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#you-might-not-need-an-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Lifecycle of reactive effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#lifecycle-of-reactive-effects"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Separating events from Effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#separating-events-from-effects"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Removing Effect dependencies",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#removing-effect-dependencies"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "Reusing logic with custom Hooks",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#reusing-logic-with-custom-hooks"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Escape Hatches",
+        "section_title": "What’s next?",
+        "link_title": "",
+        "url": "https://react.dev/learn/escape-hatches#whats-next"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Referencing Values with Refs ",
+    "url": "https://react.dev/learn/referencing-values-with-refs",
+    "link": "https://react.dev/learn/referencing-values-with-refs",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Adding a ref to your component",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#adding-a-ref-to-your-component"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Example: building a stopwatch",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#example-building-a-stopwatch"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Differences between refs and state",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#differences-between-refs-and-state"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "When to use refs",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#when-to-use-refs"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Best practices for refs",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#best-practices-for-refs"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Refs and the DOM",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#refs-and-the-dom"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Referencing Values with Refs",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/referencing-values-with-refs#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Manipulating the DOM with Refs ",
+    "url": "https://react.dev/learn/manipulating-the-dom-with-refs",
+    "link": "https://react.dev/learn/manipulating-the-dom-with-refs",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Getting a ref to the node",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#getting-a-ref-to-the-node"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Getting a ref to the node",
+        "link_title": "Example: Focusing a text input",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#example-focusing-a-text-input"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Getting a ref to the node",
+        "link_title": "Example: Scrolling to an element",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#example-scrolling-to-an-element"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Accessing another component’s DOM nodes",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#accessing-another-components-dom-nodes"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "When React attaches the refs",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#when-react-attaches-the-refs"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Best practices for DOM manipulation with refs",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#best-practices-for-dom-manipulation-with-refs"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Manipulating the DOM with Refs",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/manipulating-the-dom-with-refs#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Synchronizing with Effects ",
+    "url": "https://react.dev/learn/synchronizing-with-effects",
+    "link": "https://react.dev/learn/synchronizing-with-effects",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "What are Effects and how are they different from events?",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#what-are-effects-and-how-are-they-different-from-events"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "You might not need an Effect",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#you-might-not-need-an-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to write an Effect",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#how-to-write-an-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to write an Effect",
+        "link_title": "Step 1: Declare an Effect",
+        "url": "https://react.dev/learn/synchronizing-with-effects#step-1-declare-an-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to write an Effect",
+        "link_title": "Step 2: Specify the Effect dependencies",
+        "url": "https://react.dev/learn/synchronizing-with-effects#step-2-specify-the-effect-dependencies"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to write an Effect",
+        "link_title": "Step 3: Add cleanup if needed",
+        "url": "https://react.dev/learn/synchronizing-with-effects#step-3-add-cleanup-if-needed"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#how-to-handle-the-effect-firing-twice-in-development"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Controlling non-React widgets",
+        "url": "https://react.dev/learn/synchronizing-with-effects#controlling-non-react-widgets"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Subscribing to events",
+        "url": "https://react.dev/learn/synchronizing-with-effects#subscribing-to-events"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Triggering animations",
+        "url": "https://react.dev/learn/synchronizing-with-effects#triggering-animations"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Fetching data",
+        "url": "https://react.dev/learn/synchronizing-with-effects#fetching-data"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Sending analytics",
+        "url": "https://react.dev/learn/synchronizing-with-effects#sending-analytics"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Not an Effect: Initializing the application",
+        "url": "https://react.dev/learn/synchronizing-with-effects#not-an-effect-initializing-the-application"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "How to handle the Effect firing twice in development?",
+        "link_title": "Not an Effect: Buying a product",
+        "url": "https://react.dev/learn/synchronizing-with-effects#not-an-effect-buying-a-product"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "Putting it all together",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#putting-it-all-together"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Synchronizing with Effects",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/synchronizing-with-effects#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "You Might Not Need an Effect ",
+    "url": "https://react.dev/learn/you-might-not-need-an-effect",
+    "link": "https://react.dev/learn/you-might-not-need-an-effect",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#how-to-remove-unnecessary-effects"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Updating state based on props or state",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#updating-state-based-on-props-or-state"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Caching expensive calculations",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#caching-expensive-calculations"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Resetting all state when a prop changes",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#resetting-all-state-when-a-prop-changes"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Adjusting some state when a prop changes",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#adjusting-some-state-when-a-prop-changes"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Sharing logic between event handlers",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#sharing-logic-between-event-handlers"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Sending a POST request",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#sending-a-post-request"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Chains of computations",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#chains-of-computations"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Initializing the application",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#initializing-the-application"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Notifying parent components about state changes",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#notifying-parent-components-about-state-changes"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Passing data to the parent",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#passing-data-to-the-parent"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Subscribing to an external store",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#subscribing-to-an-external-store"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "How to remove unnecessary Effects",
+        "link_title": "Fetching data",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#fetching-data"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "You Might Not Need an Effect",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/you-might-not-need-an-effect#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Lifecycle of Reactive Effects ",
+    "url": "https://react.dev/learn/lifecycle-of-reactive-effects",
+    "link": "https://react.dev/learn/lifecycle-of-reactive-effects",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#the-lifecycle-of-an-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "Why synchronization may need to happen more than once",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#why-synchronization-may-need-to-happen-more-than-once"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "How React re-synchronizes your Effect",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#how-react-re-synchronizes-your-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "Thinking from the Effect’s perspective",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#thinking-from-the-effects-perspective"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "How React verifies that your Effect can re-synchronize",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#how-react-verifies-that-your-effect-can-re-synchronize"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "How React knows that it needs to re-synchronize the Effect",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#how-react-knows-that-it-needs-to-re-synchronize-the-effect"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "The lifecycle of an Effect",
+        "link_title": "Each Effect represents a separate synchronization process",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#each-effect-represents-a-separate-synchronization-process"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Effects “react” to reactive values",
+        "link_title": "",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#effects-react-to-reactive-values"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Effects “react” to reactive values",
+        "link_title": "What an Effect with empty dependencies means",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#what-an-effect-with-empty-dependencies-means"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Effects “react” to reactive values",
+        "link_title": "All variables declared in the component body are reactive",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#all-variables-declared-in-the-component-body-are-reactive"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Effects “react” to reactive values",
+        "link_title": "React verifies that you specified every reactive value as a dependency",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#react-verifies-that-you-specified-every-reactive-value-as-a-dependency"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Effects “react” to reactive values",
+        "link_title": "What to do when you don’t want to re-synchronize",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#what-to-do-when-you-dont-want-to-re-synchronize"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Lifecycle of Reactive Effects",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/lifecycle-of-reactive-effects#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Separating Events from Effects ",
+    "url": "https://react.dev/learn/separating-events-from-effects",
+    "link": "https://react.dev/learn/separating-events-from-effects",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/separating-events-from-effects#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Choosing between event handlers and Effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/separating-events-from-effects#choosing-between-event-handlers-and-effects"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Choosing between event handlers and Effects",
+        "link_title": "Event handlers run in response to specific interactions",
+        "url": "https://react.dev/learn/separating-events-from-effects#event-handlers-run-in-response-to-specific-interactions"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Choosing between event handlers and Effects",
+        "link_title": "Effects run whenever synchronization is needed",
+        "url": "https://react.dev/learn/separating-events-from-effects#effects-run-whenever-synchronization-is-needed"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Reactive values and reactive logic",
+        "link_title": "",
+        "url": "https://react.dev/learn/separating-events-from-effects#reactive-values-and-reactive-logic"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Reactive values and reactive logic",
+        "link_title": "Logic inside event handlers is not reactive",
+        "url": "https://react.dev/learn/separating-events-from-effects#logic-inside-event-handlers-is-not-reactive"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Reactive values and reactive logic",
+        "link_title": "Logic inside Effects is reactive",
+        "url": "https://react.dev/learn/separating-events-from-effects#logic-inside-effects-is-reactive"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Extracting non-reactive logic out of Effects",
+        "link_title": "",
+        "url": "https://react.dev/learn/separating-events-from-effects#extracting-non-reactive-logic-out-of-effects"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Extracting non-reactive logic out of Effects",
+        "link_title": "Declaring an Effect Event",
+        "url": "https://react.dev/learn/separating-events-from-effects#declaring-an-effect-event"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Extracting non-reactive logic out of Effects",
+        "link_title": "Reading latest props and state with Effect Events",
+        "url": "https://react.dev/learn/separating-events-from-effects#reading-latest-props-and-state-with-effect-events"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Extracting non-reactive logic out of Effects",
+        "link_title": "Limitations of Effect Events",
+        "url": "https://react.dev/learn/separating-events-from-effects#limitations-of-effect-events"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/separating-events-from-effects#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Separating Events from Effects",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/separating-events-from-effects#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Removing Effect Dependencies ",
+    "url": "https://react.dev/learn/removing-effect-dependencies",
+    "link": "https://react.dev/learn/removing-effect-dependencies",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/removing-effect-dependencies#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Dependencies should match the code",
+        "link_title": "",
+        "url": "https://react.dev/learn/removing-effect-dependencies#dependencies-should-match-the-code"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Dependencies should match the code",
+        "link_title": "To remove a dependency, prove that it’s not a dependency",
+        "url": "https://react.dev/learn/removing-effect-dependencies#to-remove-a-dependency-prove-that-its-not-a-dependency"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Dependencies should match the code",
+        "link_title": "To change the dependencies, change the code",
+        "url": "https://react.dev/learn/removing-effect-dependencies#to-change-the-dependencies-change-the-code"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Removing unnecessary dependencies",
+        "link_title": "",
+        "url": "https://react.dev/learn/removing-effect-dependencies#removing-unnecessary-dependencies"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Removing unnecessary dependencies",
+        "link_title": "Should this code move to an event handler?",
+        "url": "https://react.dev/learn/removing-effect-dependencies#should-this-code-move-to-an-event-handler"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Removing unnecessary dependencies",
+        "link_title": "Is your Effect doing several unrelated things?",
+        "url": "https://react.dev/learn/removing-effect-dependencies#is-your-effect-doing-several-unrelated-things"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Removing unnecessary dependencies",
+        "link_title": "Are you reading some state to calculate the next state?",
+        "url": "https://react.dev/learn/removing-effect-dependencies#are-you-reading-some-state-to-calculate-the-next-state"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Removing unnecessary dependencies",
+        "link_title": "Do you want to read a value without “reacting” to its changes?",
+        "url": "https://react.dev/learn/removing-effect-dependencies#do-you-want-to-read-a-value-without-reacting-to-its-changes"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Removing unnecessary dependencies",
+        "link_title": "Does some reactive value change unintentionally?",
+        "url": "https://react.dev/learn/removing-effect-dependencies#does-some-reactive-value-change-unintentionally"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/removing-effect-dependencies#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Removing Effect Dependencies",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/removing-effect-dependencies#challenges"
+      }
+    ]
+  },
+  {
+    "topic": "Escape Hatches",
+    "pageTitle": "Reusing Logic with Custom Hooks ",
+    "url": "https://react.dev/learn/reusing-logic-with-custom-hooks",
+    "link": "https://react.dev/learn/reusing-logic-with-custom-hooks",
+    "pageLinks": [
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Overview",
+        "link_title": "",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Custom Hooks: Sharing logic between components",
+        "link_title": "",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#custom-hooks-sharing-logic-between-components"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Custom Hooks: Sharing logic between components",
+        "link_title": "Extracting your own custom Hook from a component",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#extracting-your-own-custom-hook-from-a-component"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Custom Hooks: Sharing logic between components",
+        "link_title": "Hook names always start with use",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#hook-names-always-start-with-use"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Custom Hooks: Sharing logic between components",
+        "link_title": "Custom Hooks let you share stateful logic, not state itself",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#custom-hooks-let-you-share-stateful-logic-not-state-itself"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Passing reactive values between Hooks",
+        "link_title": "",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#passing-reactive-values-between-hooks"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Passing reactive values between Hooks",
+        "link_title": "Passing event handlers to custom Hooks",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#passing-event-handlers-to-custom-hooks"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "When to use custom Hooks",
+        "link_title": "",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#when-to-use-custom-hooks"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "When to use custom Hooks",
+        "link_title": "Custom Hooks help you migrate to better patterns",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#custom-hooks-help-you-migrate-to-better-patterns"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "When to use custom Hooks",
+        "link_title": "There is more than one way to do it",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#there-is-more-than-one-way-to-do-it"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Recap",
+        "link_title": "",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#recap"
+      },
+      {
+        "topic": "Escape Hatches",
+        "page_title": "Reusing Logic with Custom Hooks",
+        "section_title": "Challenges",
+        "link_title": "",
+        "url": "https://react.dev/learn/reusing-logic-with-custom-hooks#challenges"
+      }
+    ]
+  }
+]
