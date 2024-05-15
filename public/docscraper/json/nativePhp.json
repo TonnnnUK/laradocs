@@ -1,0 +1,1220 @@
+[
+  {
+    "topic": "Introduction",
+    "pageTitle": "Introduction",
+    "url": "https://nativephp.com/docs/1/getting-started/introduction",
+    "link": "https://nativephp.com/docs/1/getting-started/introduction",
+    "pageLinks": [
+      {
+        "topic": "Introduction",
+        "page_title": "Introduction",
+        "section_title": "What exactly is NativePHP?",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/introduction#what-exactly-is-nativephp"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Introduction",
+        "section_title": "What NativePHP isn't",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/introduction#what-nativephp-isnt"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Introduction",
+        "section_title": "What's in the box?",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/introduction#whats-in-the-box"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Introduction",
+        "section_title": "What can I build with NativePHP?",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/introduction#what-can-i-build-with-nativephp"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Introduction",
+        "section_title": "What's next?",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/introduction#whats-next"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Introduction",
+        "section_title": "Credits",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/introduction#credits"
+      }
+    ]
+  },
+  {
+    "topic": "Introduction",
+    "pageTitle": "Installation",
+    "url": "https://nativephp.com/docs/1/getting-started/installation",
+    "link": "https://nativephp.com/docs/1/getting-started/installation",
+    "pageLinks": [
+      {
+        "topic": "Introduction",
+        "page_title": "Installation",
+        "section_title": "PHP & Node",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/installation#php-node"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Installation",
+        "section_title": "Laravel",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/installation#laravel"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Installation",
+        "section_title": "Install a NativePHP runtime",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/installation#install-a-nativephp-runtime"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Installation",
+        "section_title": "Run the NativePHP installer",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/installation#run-the-nativephp-installer"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Installation",
+        "section_title": "Start the development server",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/installation#start-the-development-server"
+      }
+    ]
+  },
+  {
+    "topic": "Introduction",
+    "pageTitle": "Configuration",
+    "url": "https://nativephp.com/docs/1/getting-started/configuration",
+    "link": "https://nativephp.com/docs/1/getting-started/configuration",
+    "pageLinks": [
+      {
+        "topic": "Introduction",
+        "page_title": "Configuration",
+        "section_title": "Default Configuration File",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/configuration#default-configuration-file"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Configuration",
+        "section_title": "Customize php.ini",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/configuration#customize-phpini"
+      }
+    ]
+  },
+  {
+    "topic": "Introduction",
+    "pageTitle": "Development",
+    "url": "https://nativephp.com/docs/1/getting-started/development",
+    "link": "https://nativephp.com/docs/1/getting-started/development",
+    "pageLinks": [
+      {
+        "topic": "Introduction",
+        "page_title": "Development",
+        "section_title": "What does the `native:serve` command do?",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/development#what-does-the-nativeserve-command-do"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Development",
+        "section_title": "Hot Reloading",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/development#hot-reloading"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Development",
+        "section_title": "First run",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/development#first-run"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Development",
+        "section_title": "Subsequent runs",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/development#subsequent-runs"
+      }
+    ]
+  },
+  {
+    "topic": "Introduction",
+    "pageTitle": "Debugging",
+    "url": "https://nativephp.com/docs/1/getting-started/debugging",
+    "link": "https://nativephp.com/docs/1/getting-started/debugging",
+    "pageLinks": [
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "The layers",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#the-layers"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#doing-some-digging"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "Two or three copies",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#two-or-three-copies"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "Verbose output",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#verbose-output"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "Check the logs",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#check-the-logs"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "Step out",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#step-out"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "Start from scratch",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#start-from-scratch"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Doing some digging",
+        "link_title": "Check your app and PHP",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#check-your-app-and-php"
+      },
+      {
+        "topic": "Introduction",
+        "page_title": "Debugging",
+        "section_title": "Still stuck?",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/debugging#still-stuck"
+      }
+    ]
+  },
+  {
+    "topic": "Introduction",
+    "pageTitle": "Environment Files",
+    "url": "https://nativephp.com/docs/1/getting-started/env-files",
+    "link": "https://nativephp.com/docs/1/getting-started/env-files",
+    "pageLinks": [
+      {
+        "topic": "Introduction",
+        "page_title": "Environment Files",
+        "section_title": "Removing sensitive data from your environment files",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/getting-started/env-files#removing-sensitive-data-from-your-environment-files"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Application Lifecycle",
+    "url": "https://nativephp.com/docs/1/the-basics/app-lifecycle",
+    "link": "https://nativephp.com/docs/1/the-basics/app-lifecycle",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Lifecycle",
+        "section_title": "The NativeAppServiceProvider",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/app-lifecycle#the-nativeappserviceprovider"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Windows",
+    "url": "https://nativephp.com/docs/1/the-basics/windows",
+    "link": "https://nativephp.com/docs/1/the-basics/windows",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Working with Windows",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#working-with-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Working with Windows",
+        "link_title": "Opening Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#opening-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Working with Windows",
+        "link_title": "Closing Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#closing-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Working with Windows",
+        "link_title": "Resizing Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#resizing-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Working with Windows",
+        "link_title": "Retrieving the Current Window",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#retrieving-the-current-window"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Managing Multiple Windows",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#managing-multiple-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#configuring-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Window URLs",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-urls"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Window Titles",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-titles"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Window Sizes",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-sizes"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Window Position",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-position"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Remembering Window State",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#remembering-window-state"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Resizable Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#resizable-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Focusable Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#focusable-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Movable Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#movable-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Minimizable, Maximizable, and Closable Windows",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#minimizable-maximizable-and-closable-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Window Shadow",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-shadow"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Windows on Top",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#windows-on-top"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Window Background Color",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-background-color"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Configuring Windows",
+        "link_title": "Hiding the menu",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#hiding-the-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Window Title Styles",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-title-styles"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Window Title Styles",
+        "link_title": "Default Title Style",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#default-title-style"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Window Title Styles",
+        "link_title": "Hidden Title Style",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#hidden-title-style"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#events"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Shown Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-shown-event"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Closed Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-closed-event"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Focused Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-focused-event"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Blurred Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-blurred-event"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Minimized Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-minimized-event"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Maximized Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-maximized-event"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Windows",
+        "section_title": "Events",
+        "link_title": "Window Resized Event",
+        "url": "https://nativephp.com/docs/1/the-basics/windows#window-resized-event"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Menu Bar",
+    "url": "https://nativephp.com/docs/1/the-basics/menu-bar",
+    "link": "https://nativephp.com/docs/1/the-basics/menu-bar",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Working with the Menu Bar",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#working-with-the-menu-bar"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Working with the Menu Bar",
+        "link_title": "Creating a stand-alone Menu Bar application",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#creating-a-stand-alone-menu-bar-application"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Working with the Menu Bar",
+        "link_title": "Creating a Menu Bar for an application that already uses windows",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#creating-a-menu-bar-for-an-application-that-already-uses-windows"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Working with the Menu Bar",
+        "link_title": "Opening the Menu Bar",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#opening-the-menu-bar"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Working with the Menu Bar",
+        "link_title": "Hiding the Menu Bar",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#hiding-the-menu-bar"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Working with the Menu Bar",
+        "link_title": "Menu Bar Labels",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-labels"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Configuring the Menu Bar",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#configuring-the-menu-bar"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Configuring the Menu Bar",
+        "link_title": "Menu Bar URL",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-url"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Configuring the Menu Bar",
+        "link_title": "Menu Bar Icon",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-icon"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Configuring the Menu Bar",
+        "link_title": "Menu Bar Window Sizes",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-window-sizes"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Menu Bar Events",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-events"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Menu Bar Events",
+        "link_title": "Menu Bar Opened",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-opened"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Menu Bar Events",
+        "link_title": "Menu Bar Closed",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-closed"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Menu Bar",
+        "section_title": "Menu Bar Events",
+        "link_title": "Menu Bar Context Menu Opened",
+        "url": "https://nativephp.com/docs/1/the-basics/menu-bar#menu-bar-context-menu-opened"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Application Menu",
+    "url": "https://nativephp.com/docs/1/the-basics/application-menu",
+    "link": "https://nativephp.com/docs/1/the-basics/application-menu",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Configuring the Application Menu",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#configuring-the-application-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Configuring the Application Menu",
+        "link_title": "Creating a menu",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#creating-a-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Predefined menus",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#predefined-menus"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Predefined menus",
+        "link_title": "The default application menu",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#the-default-application-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Predefined menus",
+        "link_title": "The default edit menu",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#the-default-edit-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Predefined menus",
+        "link_title": "The default view menu",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#the-default-view-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Predefined menus",
+        "link_title": "The default window menu",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#the-default-window-menu"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Predefined menus",
+        "link_title": "Combining the default menus",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#combining-the-default-menus"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Custom Submenus",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#custom-submenus"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#available-submenu-items"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "Labels",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#labels"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "Links",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#links"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "Separators",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#separators"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "Event-based menu items",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#event-based-menu-items"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "Checkbox menu items",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#checkbox-menu-items"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Available Submenu Items",
+        "link_title": "Quit",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#quit"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Application Menu",
+        "section_title": "Hotkeys",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/application-menu#hotkeys"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Dialogs",
+    "url": "https://nativephp.com/docs/1/the-basics/dialogs",
+    "link": "https://nativephp.com/docs/1/the-basics/dialogs",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Native Dialogs",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#native-dialogs"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Native Dialogs",
+        "link_title": "Opening File Dialogs",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#opening-file-dialogs"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Native Dialogs",
+        "link_title": "Opening Save Dialogs",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#opening-save-dialogs"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#configuring-file-dialogs"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Dialog Title",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#dialog-title"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Dialog Button Label",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#dialog-button-label"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Dialog Default Path",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#dialog-default-path"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Dialog File Filters",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#dialog-file-filters"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Allowing Multiple Selections",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#allowing-multiple-selections"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Showing Hidden Files",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#showing-hidden-files"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Resolving Symbolic Links",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#resolving-symbolic-links"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Opening Dialogs as Sheets",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#opening-dialogs-as-sheets"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Dialogs",
+        "section_title": "Configuring File Dialogs",
+        "link_title": "Opening Folders",
+        "url": "https://nativephp.com/docs/1/the-basics/dialogs#opening-folders"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Notifications",
+    "url": "https://nativephp.com/docs/1/the-basics/notifications",
+    "link": "https://nativephp.com/docs/1/the-basics/notifications",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Notifications",
+        "section_title": "Native Notifications",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/notifications#native-notifications"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Notifications",
+        "section_title": "Native Notifications",
+        "link_title": "Sending Notifications",
+        "url": "https://nativephp.com/docs/1/the-basics/notifications#sending-notifications"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Notifications",
+        "section_title": "Events",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/notifications#events"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Notifications",
+        "section_title": "Events",
+        "link_title": "Notification Click Events",
+        "url": "https://nativephp.com/docs/1/the-basics/notifications#notification-click-events"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Global Hotkeys",
+    "url": "https://nativephp.com/docs/1/the-basics/global-hotkeys",
+    "link": "https://nativephp.com/docs/1/the-basics/global-hotkeys",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Global Hotkeys",
+        "section_title": "Global Hotkeys",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/global-hotkeys#global-hotkeys"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Global Hotkeys",
+        "section_title": "Registering Hotkeys",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/global-hotkeys#registering-hotkeys"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Global Hotkeys",
+        "section_title": "Removing registered hotkeys",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/global-hotkeys#removing-registered-hotkeys"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Global Hotkeys",
+        "section_title": "Removing registered hotkeys",
+        "link_title": "Available modifiers",
+        "url": "https://nativephp.com/docs/1/the-basics/global-hotkeys#available-modifiers"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Global Hotkeys",
+        "section_title": "Removing registered hotkeys",
+        "link_title": "Available key codes",
+        "url": "https://nativephp.com/docs/1/the-basics/global-hotkeys#available-key-codes"
+      }
+    ]
+  },
+  {
+    "topic": "Application Lifecycle",
+    "pageTitle": "Clipboard",
+    "url": "https://nativephp.com/docs/1/the-basics/clipboard",
+    "link": "https://nativephp.com/docs/1/the-basics/clipboard",
+    "pageLinks": [
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Clipboard",
+        "section_title": "Working with the Clipboard",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/the-basics/clipboard#working-with-the-clipboard"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Clipboard",
+        "section_title": "Working with the Clipboard",
+        "link_title": "Reading from the Clipboard",
+        "url": "https://nativephp.com/docs/1/the-basics/clipboard#reading-from-the-clipboard"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Clipboard",
+        "section_title": "Working with the Clipboard",
+        "link_title": "Writing to the Clipboard",
+        "url": "https://nativephp.com/docs/1/the-basics/clipboard#writing-to-the-clipboard"
+      },
+      {
+        "topic": "Application Lifecycle",
+        "page_title": "Clipboard",
+        "section_title": "Working with the Clipboard",
+        "link_title": "Clearing the Clipboard",
+        "url": "https://nativephp.com/docs/1/the-basics/clipboard#clearing-the-clipboard"
+      }
+    ]
+  },
+  {
+    "topic": "Broadcasting",
+    "pageTitle": "Broadcasting",
+    "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting",
+    "link": "https://nativephp.com/docs/1/digging-deeper/broadcasting",
+    "pageLinks": [
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Reacting to NativePHP events in real-time",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#reacting-to-nativephp-events-in-real-time"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Reacting to NativePHP events in real-time",
+        "link_title": "WebSockets",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#websockets"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Reacting to NativePHP events in real-time",
+        "link_title": "Browser Events",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#browser-events"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Reacting to NativePHP events in real-time",
+        "link_title": "JavaScript",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#javascript"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Reacting to NativePHP events in real-time",
+        "link_title": "Livewire",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#livewire"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Available Events",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#available-events"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Broadcasting",
+        "section_title": "Broadcasting custom events",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/broadcasting#broadcasting-custom-events"
+      }
+    ]
+  },
+  {
+    "topic": "Broadcasting",
+    "pageTitle": "Databases",
+    "url": "https://nativephp.com/docs/1/digging-deeper/databases",
+    "link": "https://nativephp.com/docs/1/digging-deeper/databases",
+    "pageLinks": [
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "SQLite",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#sqlite"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "SQLite",
+        "link_title": "Configuration",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#configuration"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "Development",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#development"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "Migrations",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#migrations"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "Migrations",
+        "link_title": "Running migrations",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#running-migrations"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "Migrations",
+        "link_title": "Refreshing your app database",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#refreshing-your-app-database"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "Seeding",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#seeding"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Databases",
+        "section_title": "When not to use a database",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/databases#when-not-to-use-a-database"
+      }
+    ]
+  },
+  {
+    "topic": "Broadcasting",
+    "pageTitle": "Files",
+    "url": "https://nativephp.com/docs/1/digging-deeper/files",
+    "link": "https://nativephp.com/docs/1/digging-deeper/files",
+    "pageLinks": [
+      {
+        "topic": "Broadcasting",
+        "page_title": "Files",
+        "section_title": "Files & Paths",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/files#files-paths"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Files",
+        "section_title": "Files & Paths",
+        "link_title": "Storing files elsewhere",
+        "url": "https://nativephp.com/docs/1/digging-deeper/files#storing-files-elsewhere"
+      }
+    ]
+  },
+  {
+    "topic": "Broadcasting",
+    "pageTitle": "Security",
+    "url": "https://nativephp.com/docs/1/digging-deeper/security",
+    "link": "https://nativephp.com/docs/1/digging-deeper/security",
+    "pageLinks": [
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your application and infrastructure",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#protecting-your-application-and-infrastructure"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your application and infrastructure",
+        "link_title": "Secrets and .env",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#secrets-and-env"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your application and infrastructure",
+        "link_title": "Files and privileges",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#files-and-privileges"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your application and infrastructure",
+        "link_title": "The web servers",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#the-web-servers"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your users and their data",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#protecting-your-users-and-their-data"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your users and their data",
+        "link_title": "When sending data over the network",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#when-sending-data-over-the-network"
+      },
+      {
+        "topic": "Broadcasting",
+        "page_title": "Security",
+        "section_title": "Protecting your users and their data",
+        "link_title": "The PHP executable",
+        "url": "https://nativephp.com/docs/1/digging-deeper/security#the-php-executable"
+      }
+    ]
+  },
+  {
+    "topic": "Building",
+    "pageTitle": "Building",
+    "url": "https://nativephp.com/docs/1/publishing/building",
+    "link": "https://nativephp.com/docs/1/publishing/building",
+    "pageLinks": [
+      {
+        "topic": "Building",
+        "page_title": "Building",
+        "section_title": "Running a build",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/publishing/building#running-a-build"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Building",
+        "section_title": "Running a build",
+        "link_title": "Cross-compilation",
+        "url": "https://nativephp.com/docs/1/publishing/building#cross-compilation"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Building",
+        "section_title": "Code signing",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/publishing/building#code-signing"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Building",
+        "section_title": "Code signing",
+        "link_title": "Windows",
+        "url": "https://nativephp.com/docs/1/publishing/building#windows"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Building",
+        "section_title": "Code signing",
+        "link_title": "macOS",
+        "url": "https://nativephp.com/docs/1/publishing/building#macos"
+      }
+    ]
+  },
+  {
+    "topic": "Building",
+    "pageTitle": "Publishing",
+    "url": "https://nativephp.com/docs/1/publishing/publishing",
+    "link": "https://nativephp.com/docs/1/publishing/publishing",
+    "pageLinks": [
+      {
+        "topic": "Building",
+        "page_title": "Publishing",
+        "section_title": "Running a build",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/publishing/publishing#running-a-build"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Publishing",
+        "section_title": "Running a build",
+        "link_title": "Cross-compilation",
+        "url": "https://nativephp.com/docs/1/publishing/publishing#cross-compilation"
+      }
+    ]
+  },
+  {
+    "topic": "Building",
+    "pageTitle": "Updating",
+    "url": "https://nativephp.com/docs/1/publishing/updating",
+    "link": "https://nativephp.com/docs/1/publishing/updating",
+    "pageLinks": [
+      {
+        "topic": "Building",
+        "page_title": "Updating",
+        "section_title": "How it works",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/publishing/updating#how-it-works"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Updating",
+        "section_title": "Configuration",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/publishing/updating#configuration"
+      },
+      {
+        "topic": "Building",
+        "page_title": "Updating",
+        "section_title": "Disabling the updater",
+        "link_title": "",
+        "url": "https://nativephp.com/docs/1/publishing/updating#disabling-the-updater"
+      }
+    ]
+  }
+]

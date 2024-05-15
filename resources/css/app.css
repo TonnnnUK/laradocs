@@ -193,3 +193,17 @@
     color: #043443;
 }
 
+.NativePHP {
+    border: solid 1px #505b93;
+}
+
+.NativePHP:hover {
+    background-color: #f2f4ff;
+}
+
+.NativePHP .highlight,
+.NativePHP .link
+{
+    color: #1a2142;
+}
+
