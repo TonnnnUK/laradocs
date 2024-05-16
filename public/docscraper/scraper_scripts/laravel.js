@@ -6,7 +6,7 @@ async function run(){
   
   try {
 
-    browser = await puppeteer.launch({headless: false});
+    browser = await puppeteer.launch({headless: true});
     let page = await browser.newPage();
   
     // Launch Laravel Docs page
@@ -84,7 +84,7 @@ async function run(){
                 page_title: pageTitle,
                 section_title: heading.querySelector('a').innerText,
                 link_title: subheading.querySelector('a').innerText,
-                url: heading.querySelector('a').href,
+                url: subheading.querySelector('a').href,
               });
             })
 
@@ -97,9 +97,8 @@ async function run(){
         return pageLinks;
       }, link);
 
-      link.pageLinks = pageLinks;
-      
-      
+      console.log("Scraping page URL:", page.url());
+      link.pageLinks = pageLinks;      
 
     }
 
@@ -110,7 +109,7 @@ async function run(){
   } catch (e) {
     console.log('run failed', e);
   } finally {
-    // await browser.close();
+    await browser.close();
   }
 
 };

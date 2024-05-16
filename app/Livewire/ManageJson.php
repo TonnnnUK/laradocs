@@ -111,4 +111,8 @@ class ManageJson extends Component
             
         }
     }
+
+    public function deleteLinks($id){
+        $deleted = Link::where('framework_id', $id)->delete();
+    }
 }
