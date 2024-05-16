@@ -24,7 +24,7 @@
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
-        <link href="https://fonts.bunny.net/css?family=bakbak-one:400" rel="stylesheet preload" />
+        <link href="https://fonts.bunny.net/css?family=bakbak-one:400" rel="stylesheet" />
 
         <style>
             h1 {

@@ -8,6 +8,26 @@
             >
                 <img class="w-4 h-4" src="/img/coffee.svg" /> <span>Buy me a coffee</span>
             </a>
+
+            <div class="flex flex-col text-left text-xs mt-2 md:mt-4 bg-gray-50 border p-3 rounded-lg" 
+                x-data="{showList: false}"
+                x-init="
+                    $nextTick(() => {
+                        if(window.innerWidth > 768 ){
+                            showList = true;
+                        }
+                    });
+                "
+            >
+                <span class="underline" x-on:click="showList = !showList">Upcoming improvements</span>
+                <div class="flex flex-col mt-2" x-cloak x-show="showList">
+                    <span>Saved filters</span>
+                    <span>Better search results</span>
+                    <span>Most popular topics</span>
+                    <span>User accounts</span>
+                </div>
+            </div>
+        
         </div>
 
         {{-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSda7x8mGB96ycmDVLw2SIfKya_bVstgS0FOhHbu0dGXkQ56JA/viewform?usp=pp_url" target="_blank" class="bg-gray-200 w-36 h-36 mt-2 flex justify-center items-center text-center text-gray-400 text-sm mx-auto">
