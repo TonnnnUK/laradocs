@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Log;
 class LaraSearch extends Component
 {
 
+    public $search_history = [];
     public $search;
     public $frameworks;
     public $allFilters = true;
@@ -82,16 +83,20 @@ class LaraSearch extends Component
                     ->get();
                 
                 
-                $search = Search::where('search', $this->search)->first();
+                if( !in_array($this->search, $this->search_history) ){
+                    $search = Search::where('search', $this->search)->first();
 
-                if( $search ){
-                    $search->count = $search->count+1; 
-                    $search->save();
-                } else {
-                    $search = Search::create([
-                        'search' => $this->search,
-                        'count' => 1
-                    ]);
+                    if( $search ){
+                        $search->count = $search->count+1; 
+                        $search->save();
+                    } else {
+                        $search = Search::create([
+                            'search' => $this->search,
+                            'count' => 1
+                        ]);
+                    }
+
+                    $this->search_history[] = $this->search;
                 }
 
 
