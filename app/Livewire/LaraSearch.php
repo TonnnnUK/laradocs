@@ -77,6 +77,7 @@ class LaraSearch extends Component
                               ->orWhere('section_title', 'LIKE', "%$keyword%")
                               ->orWhere('link_title', 'LIKE', "%$keyword%");
                     })
+                    ->orderBy('framework_id')
                     ->get();
                 
                     // ->toSql();
