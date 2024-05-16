@@ -80,9 +80,27 @@ class LaraSearch extends Component
                     })
                     ->orderBy('framework_id')
                     ->get();
+                    
+            
+                if( !in_array($this->search, $this->search_history) ){
+                    $search = Search::where('search', $this->search)->first();
+
+                    if( $search ){
+                        $search->count = $search->count+1; 
+                        $search->save();
+                    } else {
+                        $search = Search::create([
+                            'search' => $this->search,
+                            'count' => 1
+                        ]);
+                    }
+
+                    $this->search_history[] = $this->search;
+                }
     
                 // Merge the results of the current query with the overall results
                 $results = array_merge($results, $query->toArray());
+
             }
     
             // Group the merged results by link id and count the occurrences of each link id
