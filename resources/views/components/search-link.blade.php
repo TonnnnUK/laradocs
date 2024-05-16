@@ -13,7 +13,7 @@
 <div class="w-full">
 
     <a class="rounded-lg mb-2 border flex flex-col p-4 transition duration-150 bg-white {{$link['framework']['name']}}"
-        href="{{route('outbound', ['url' => json_encode($link['url'])])}}" target="_blank"
+        href="{{route('outbound', ['id' => $link['id']])}}" target="_blank"
     >
         
         <div class="flex gap-1 items-center">

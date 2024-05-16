@@ -24,9 +24,9 @@ Route::view('/manage', 'manage')
     ->name('manage');
 
 Route::get('/outbound', function(){
-    $decode = json_decode(request()->url);
-    $link = Link::where('url', $decode)->first();
-    $outbound = Outbound::where('url', $decode)->first();
+    // $decode = json_decode(request()->url);
+    $link = Link::find(request()->id);
+    $outbound = Outbound::where('url', $link->url)->first();
 
     if($outbound){
         $outbound->count = $outbound->count+1;
@@ -35,7 +35,7 @@ Route::get('/outbound', function(){
         $outbound = Outbound::create([
             'link_id' => $link->id,
             'count' => 1,
-            'url' => $decode
+            'url' => $link->url
         ]);
     }
     

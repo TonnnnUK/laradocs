@@ -58,10 +58,9 @@ class LaraSearch extends Component
         }
     }
 
-    public function searchDocs($find){
-
-        if(strlen($find) >= 3 ){   
-    
+    public function searchDocs($find)
+    {
+        if (strlen($find) >= 3) {
             $this->hasSearched = true;
             
             // Split the search string into individual words
@@ -81,25 +80,6 @@ class LaraSearch extends Component
                     })
                     ->orderBy('framework_id')
                     ->get();
-                
-                
-                if( !in_array($this->search, $this->search_history) ){
-                    $search = Search::where('search', $this->search)->first();
-
-                    if( $search ){
-                        $search->count = $search->count+1; 
-                        $search->save();
-                    } else {
-                        $search = Search::create([
-                            'search' => $this->search,
-                            'count' => 1
-                        ]);
-                    }
-
-                    $this->search_history[] = $this->search;
-                }
-
-
     
                 // Merge the results of the current query with the overall results
                 $results = array_merge($results, $query->toArray());
@@ -108,26 +88,30 @@ class LaraSearch extends Component
             // Group the merged results by link id and count the occurrences of each link id
             $occurrences = array_count_values(array_column($results, 'id'));
     
-            // Filter the merged results to include only those where all keywords were found
+            // Filter the merged results to include only those where any keywords were found
             $this->results = collect($results)->filter(function($link) use ($keywords, $occurrences) {
-                
+                $found = false;
+    
                 foreach ($keywords as $keyword) {
-                    if ( stripos($link['topic_title'], $keyword) != false
-                        && stripos($link['page_title'], $keyword) != false
-                        && stripos($link['section_title'], $keyword) != false
-                        && stripos($link['link_title'], $keyword) != false
+                    if (stripos($link['topic_title'], $keyword) !== false
+                        || stripos($link['page_title'], $keyword) !== false
+                        || stripos($link['section_title'], $keyword) !== false
+                        || stripos($link['link_title'], $keyword) !== false
                     ) {
-                        return false;
+                        $found = true;
+                        break;
                     }
                 }
-
-                
-                // Check if all keywords were found at least once for this link
-                return ($occurrences[$link['id']] == count($keywords) && in_array($link['framework_id'], $this->filters));
+    
+                // Check if any keywords were found for this link
+                return $found && in_array($link['framework_id'], $this->filters);
             });
-
+    
+            // Remove duplicate entries from the results
+            $this->results = $this->results->unique('id');
         }
     }
+    
 
     public function filterSearch(){
         $this->searchDocs($this->search);
