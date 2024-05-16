@@ -1,27 +1,45 @@
-<div x-data="{tab: 'outbound'}">
+<div x-data="{tab: 'stats'}">
 
     <div class="flex gap-2 justify-center">
-        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" :class="tab == 'outbound' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'outbound'">Outbound</div>
+        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" :class="tab == 'stats' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'stats'">Stats</div>
         <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" :class="tab == 'json' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'json'">Json</div>
     </div>
 
-    <div x-cloak x-show="tab == 'outbound'" class="border border-gray-300 p-6 flex flex-col" >
+    <div x-cloak x-show="tab == 'stats'" class="border border-gray-300 p-6 flex flex-col" >
         <span class="font-bold text-lg mb-4">Popular Outbound</span>
 
-        <div class="flex flex-col text-xs">
-            <div class="flex font-bold">
-                <span class="grow">Url</span>
-                <span class="w-1/5">Framework</span>
-                <span class="w-1/5">Count</span>
-            </div>
+        <table class="text-xs w-3/4">
+            <tr class="font-bold border bg-gray-100">
+                <td class="p-1">Url</td>
+                <td class="p-1">Framework</td>
+                <td class="p-1">Count</td>
+            </tr>
             @foreach($outbounds as $link)
-            <div class="flex">
-                <span class="grow">{{ $link->url }} </span>
-                <span class="w-1/5">{{ $link->link->framework->name }} </span>
-                <span class="w-1/5">{{ $link->count }} </span>
-            </div>
+            <tr class="border">
+                <td class="p-1">{{ $link->url }} </td>
+                <td class="p-1">{{ $link->link->framework->name }} </td>
+                <td class="p-1">{{ $link->count }} </td>
+            </tr>
             @endforeach
-        </div>
+        </table>
+
+
+        <span class="font-bold text-lg mt-8 mb-4">Popular Searches</span>
+
+        <table class="text-xs w-1/2">
+            <tr class="font-bold border bg-gray-100">
+                <td class="p-1">Search</td>
+                <td class="p-1">Count</td>
+            </tr>
+            @foreach($searches as $search)
+            <tr class="border">
+                <td class="p-1">{{ $search->search }} </td>
+                <td class="p-1">{{ $link->count }} </td>
+            </tr>
+            @endforeach
+        </table>
+
+
     </div>
 
     <div x-cloak x-show="tab == 'json'" class="border border-gray-400 flex justify-between p-6">
