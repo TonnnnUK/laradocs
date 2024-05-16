@@ -3,6 +3,7 @@
     <head>
         
         @if( config('app.env') == 'production')
+        @if( auth()->guest() ||  ( auth()->user() && auth()->user()->email != 'a.hutchinson86@gmail.com') )
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5G83ZJN9J"></script>
         <script>
@@ -12,6 +13,7 @@
 
         gtag('config', 'G-P5G83ZJN9J');
         </script>
+        @endif
         @endif
 
 
