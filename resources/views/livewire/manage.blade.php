@@ -1,11 +1,11 @@
 <div x-data="{tab: 'outbound'}">
 
     <div class="flex gap-2 justify-center">
-        <div class="tab cursor-pointer bg-gray-100 px-3 py-1" x-on:click="tab = 'outbound'">Outbound</div>
-        <div class="tab cursor-pointer bg-gray-100 px-3 py-1" x-on:click="tab = 'json'">Json</div>
+        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0" :class="tab == 'outbound' ? 'border-gray-400' : ''" x-on:click="tab = 'outbound'">Outbound</div>
+        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0" :class="tab == 'json' ? 'border-gray-400' : ''" x-on:click="tab = 'json'">Json</div>
     </div>
 
-    <div x-cloak x-show="tab == 'outbound'" class="border p-6 flex flex-col" >
+    <div x-cloak x-show="tab == 'outbound'" class="border border-gray-400 p-6 flex flex-col" >
         <span class="font-bold text-lg mb-4">Popular Outbound</span>
 
         <div class="flex flex-col text-xs">
@@ -24,7 +24,7 @@
         </div>
     </div>
 
-    <div x-cloak x-show="tab == 'json'" class="border flex justify-between p-6">
+    <div x-cloak x-show="tab == 'json'" class="border border-gray-400 flex justify-between p-6">
         <div>
             <h2>Import JSON</h2>
             <div class="flex gap-2">
