@@ -9,7 +9,7 @@
                 <h2 class="text-2xl">JSON Management</h2>
                 <a class="text-sm text-blue-500" href="/">Home</a>
             </div>
-            <livewire:manage-json />
+            <livewire:manage-data />
         </div>
     </div>
 </x-app-layout>

@@ -19,9 +19,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'home');
 
-Route::view('/json', 'json')
+Route::view('/manage', 'manage')
     ->middleware(['auth'])
-    ->name('json');
+    ->name('manage');
 
 Route::get('/outbound', function(){
     $decode = json_decode(request()->url);

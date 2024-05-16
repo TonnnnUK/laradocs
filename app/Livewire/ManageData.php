@@ -4,21 +4,23 @@ namespace App\Livewire;
 
 use App\Models\Link;
 use Livewire\Component;
+use App\Models\Outbound;
 use App\Models\Framework;
 use Illuminate\Support\Arr;
 
-class ManageJson extends Component
+class ManageData extends Component
 {
     public $frameworks;
     public $selected_framework;
     public $selected_json;
     public $json_files;
     public $files;
+    public $outbounds;
     public $added = [];
 
     public function render()
     {
-        return view('livewire.manage-json');
+        return view('livewire.manage');
     }
 
     public function mount(){
@@ -27,6 +29,7 @@ class ManageJson extends Component
             abort(403);
         }
 
+        $this->outbounds = Outbound::with('link.framework')->orderBy('count', 'DESC')->get();
         $this->frameworks = Framework::all();
 
          // Get the path to the directory where JSON files are stored
