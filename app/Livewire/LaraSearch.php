@@ -3,6 +3,7 @@
 namespace App\Livewire;
 
 use App\Models\Link;
+use App\Models\Search;
 use Livewire\Component;
 use App\Models\Framework;
 use Illuminate\Support\Arr;
@@ -80,8 +81,20 @@ class LaraSearch extends Component
                     ->orderBy('framework_id')
                     ->get();
                 
-                    // ->toSql();
-                    // dd($query);
+                
+                $search = Search::where('search', $this->search)->first();
+
+                if( $search ){
+                    $search->count = $search->count+1; 
+                    $search->save();
+                } else {
+                    $search = Search::create([
+                        'search' => $this->search,
+                        'count' => 1
+                    ]);
+                }
+
+
     
                 // Merge the results of the current query with the overall results
                 $results = array_merge($results, $query->toArray());
