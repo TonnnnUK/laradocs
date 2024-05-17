@@ -53,6 +53,13 @@
 
             @if( strlen($search) >= 4 ) 
             @forelse($results as $result)
+
+                @if ( $loop->index == 8 || $loop->index == 20)
+                <div class="w-48 text-center mx-auto mb-4">
+                    <x-buy-coffee />
+                </div>
+                @endif
+
                 <x-search-link :link="$result" :search="$search" wire:key="{{$result['id']}}" />
             @empty
             @if($hasSearched && $search !== "")

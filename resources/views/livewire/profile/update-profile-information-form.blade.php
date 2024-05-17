@@ -65,7 +65,7 @@ new class extends Component
     }
 }; ?>
 
-<section>
+<section class="flex flex-col lg:w-5/6 mx-auto mb-1 my-4 md:my-8">
     <header>
         <h2 class="text-lg font-medium text-gray-900">
             {{ __('Profile Information') }}

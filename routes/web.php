@@ -17,14 +17,13 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::view('/', 'home');
+Route::view('/', 'home')->name('home');
 
 Route::view('/manage', 'manage')
     ->middleware(['auth'])
     ->name('manage');
 
 Route::get('/outbound', function(){
-    // $decode = json_decode(request()->url);
     $link = Link::find(request()->id);
     $outbound = Outbound::where('url', $link->url)->first();
 
@@ -39,10 +38,11 @@ Route::get('/outbound', function(){
         ]);
     }
     
-    return redirect($outbound->url);
+    return view('outbound')->with('link', $outbound->url);
 })->name('outbound');
 
 Route::view('profile', 'profile')
     ->middleware(['auth'])
     ->name('profile');
+    
 require __DIR__.'/auth.php';
