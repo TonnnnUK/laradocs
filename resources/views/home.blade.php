@@ -1,5 +1,6 @@
 <x-app-layout>
         
+        <x-slot name="page_title">LaraDocs</x-slot>
             <livewire:lara-search />
 
             {{-- <div class="md:hidden w-full flex justify-end">               

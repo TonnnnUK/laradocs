@@ -27,6 +27,10 @@ new #[Layout('layouts.app')] class extends Component
         );
     }
 }; ?>
+
+
+    <x-slot name="page_title">Login // LaraDocs</x-slot>
+    
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
