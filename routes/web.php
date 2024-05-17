@@ -24,7 +24,7 @@ Route::view('/manage', 'manage')
     ->name('manage');
 
 Route::get('/outbound', function(){
-    $link = Link::find(request()->id);
+    $link = Link::with('framework')->where('id', request()->id)->first();
     $outbound = Outbound::where('url', $link->url)->first();
 
     if($outbound){
@@ -38,7 +38,11 @@ Route::get('/outbound', function(){
         ]);
     }
     
-    return view('outbound')->with('link', $outbound->url);
+    return view('outbound')->with([
+        'outbound' => $outbound->url,
+        'link' => $link
+    ]);
+
 })->name('outbound');
 
 Route::view('profile', 'profile')
