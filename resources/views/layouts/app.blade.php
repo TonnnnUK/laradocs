@@ -77,7 +77,7 @@
                         <span class="underline" x-on:click="showList = !showList">Upcoming improvements</span>
                         <div class="flex flex-col mt-2" x-cloak x-show="showList">
                             <span>&#9745; User accounts</span>
-                            <span>Saved filters</span>
+                            <span>&#9745; Saved filters</span>
                             <span>Better search results</span>
                             <span>Most popular topics</span>
                             <span>Quick links</span>
