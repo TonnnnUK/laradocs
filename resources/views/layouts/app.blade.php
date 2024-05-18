@@ -79,7 +79,7 @@
                             <span>&#9745; User accounts</span>
                             <span>&#9745; Saved filters</span>
                             <span>&#9745; Link history*</span>
-                            <span>Better search results</span>
+                            <span>&#9745; Better search results</span>
                             <span>Most popular topics</span>
                             <span>Quick links*</span>
                             <span>Filter Groups*</span>
