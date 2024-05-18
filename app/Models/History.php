@@ -9,7 +9,7 @@ class History extends Model
 {
     use HasFactory;
 
-    protected $table = 'link_user';
+    protected $table = 'history';
 
     public function user(){
         return $this->belongsTo(User::class);
