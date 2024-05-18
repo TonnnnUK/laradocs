@@ -26,6 +26,7 @@
 
         @if( Route::currentRouteName() == 'home')
         <meta property="og:title" content="LaraDocs" />
+        <meta property="og:description" content="A documentation search tool for the Laravel ecosystem, associated frameworks & packages all in one place!" />
         <meta property="og:url" content="https://www.laradocs.dev" />
         <meta property="og:image" content="https://www.laradocs.dev/img/ogimage.png" />
         @endif 
