@@ -24,6 +24,12 @@
 
         <title>@isset($page_title) {{ $page_title }} @endisset</title>
 
+        @if( Route::currentRouteName() == 'home')
+        <meta property="og:title" content="LaraDocs" />
+        <meta property="og:url" content="https://www.laradocs.dev" />
+        <meta property="og:image" content="https://www.laradocs.dev/img/ogimage.png" />
+        @endif 
+
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=bakbak-one:400" rel="stylesheet" />
