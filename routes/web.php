@@ -3,6 +3,7 @@
 use App\Models\Link;
 use Livewire\Volt\Volt;
 use App\Models\Outbound;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -36,6 +37,11 @@ Route::get('/outbound', function(){
             'count' => 1,
             'url' => $link->url
         ]);
+    }
+
+    if( Auth::user()){
+        $user =  Auth::user();
+        $user->history()->save($link);
     }
     
     return view('outbound')->with([

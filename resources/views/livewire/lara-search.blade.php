@@ -1,4 +1,6 @@
 <div class="w-full flex flex-col justify-center items-center p-2 min-h-48" x-data="searchText()">
+
+    {{-- FILTERS --}}
     <div class="flex items-stretch flex-wrap bg-gray-50 border border-gray-300 mb-4 text-sm rounded w-auto mx-auto">
         <span class="p-2 flex items-center md:border-r font-bold text-xs">Filter</span>
         <input type="hidden" wire:model.live="filters" id="filtersInput">
@@ -50,6 +52,7 @@
         </div>
     </div>
 
+    {{-- SEARCH --}}
     <div class="w-full lg:w-4/6">
         <div class="flex relative">
         
@@ -68,7 +71,27 @@
             >
         </div>
 
-        <!-- results -->
+        @auth
+            @if (count($results) == 0)
+            <div class="flex flex-col my-4 text-xs" x-data="{showHistory: false}">
+                <span class="cursor-pointer underline" x-on:click="showHistory = !showHistory">
+                    <span x-text="showHistory ? 'Hide' : 'Show'"></span> history
+                </span>
+        
+                @if( Auth::user() && is_countable($link_history))
+                <div class="flex flex-col" x-cloak x-show="showHistory">
+                    @foreach ( $link_history as $li )
+                        <a  class="" href="{{route('outbound', ['id' => $li['id']])}}" target="_blank">
+                            {{ $li->framework->name }} - {{ $li->topic_title }} - {{ $li->section_title }}
+                        </a>
+                    @endforeach
+                </div>
+                @endif
+            </div>
+            @endif
+        @endauth
+
+        {{-- RESULTS --}}
         <div class="mt-4 flex flex-wrap">
             <div wire:loading class="w-full flex justify-center my-2">
                 <span class="animate-ping inline-flex h-3 w-3 rounded-full bg-sky-400 opacity-75"></span>

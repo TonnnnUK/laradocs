@@ -74,14 +74,17 @@
                             });
                         "
                     >
-                        <span class="underline" x-on:click="showList = !showList">Upcoming improvements</span>
+                        <span class="underline" x-on:click="showList = !showList">Updates</span>
                         <div class="flex flex-col mt-2" x-cloak x-show="showList">
                             <span>&#9745; User accounts</span>
                             <span>&#9745; Saved filters</span>
+                            <span>&#9745; Link history*</span>
                             <span>Better search results</span>
                             <span>Most popular topics</span>
-                            <span>Quick links</span>
-                            <span>Link history</span>
+                            <span>Quick links*</span>
+                            <span>Filter Groups*</span>
+                            
+                            <span class="mt-2"><small>*Logged in users</small></span>
                         </div>
                     </div>
                     @endif

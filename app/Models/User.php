@@ -42,4 +42,8 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
         'password' => 'hashed',
     ];
+
+    public function history(){
+        return $this->belongsToMany(Link::class, 'history', 'user_id', 'link_id')->withTimestamps();
+    }
 }

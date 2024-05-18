@@ -12,8 +12,13 @@ class Link extends Model
     protected $table = 'links';
     
     protected $guarded = [];
+    protected $with = ['framework'];
 
     public function framework(){
         return $this->belongsTo(Framework::class);
+    }
+
+    public function user_clicks(){
+        return $this->belongsToMany(User::class, 'history', 'link_id', 'user_id');
     }
 }

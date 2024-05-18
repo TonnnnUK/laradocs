@@ -9,11 +9,14 @@ use App\Models\Framework;
 use Illuminate\Support\Arr;
 use Livewire\Attributes\Computed;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Foundation\Auth\User;
+use Illuminate\Support\Facades\Auth;
 
 class LaraSearch extends Component
 {
 
     public $search_history = [];
+    public $link_history = [];
     public $search;
     public $frameworks;
     public $allFilters = true;
@@ -31,6 +34,13 @@ class LaraSearch extends Component
         $this->frameworks = Framework::all();
         $this->filters = $this->frameworks->pluck('id')->toArray();
         $this->allFilterIds = $this->filters;
+
+        if( Auth::user() ){
+            Auth::user()->load(['history' => function ($query) {
+                $query->limit(10);
+            }]);
+            $this->link_history = Auth::user()->history;
+        }
     }
 
     public function updatedSearch(){
@@ -71,8 +81,7 @@ class LaraSearch extends Component
     
             // Iterate over each keyword and perform a separate query for each
             foreach ($keywords as $keyword) {
-                $query = Link::with('framework')
-                    ->where(function ($query) use ($keyword) {
+                $query = Link::where(function ($query) use ($keyword) {
                         $query->where('topic_title', 'LIKE', "%$keyword%")
                               ->orWhere('page_title', 'LIKE', "%$keyword%")
                               ->orWhere('section_title', 'LIKE', "%$keyword%")
@@ -103,11 +112,8 @@ class LaraSearch extends Component
 
             }
     
-            // Group the merged results by link id and count the occurrences of each link id
-            $occurrences = array_count_values(array_column($results, 'id'));
-    
             // Filter the merged results to include only those where any keywords were found
-            $this->results = collect($results)->filter(function($link) use ($keywords, $occurrences) {
+            $this->results = collect($results)->filter(function($link) use ($keywords) {
                 $found = false;
     
                 foreach ($keywords as $keyword) {
