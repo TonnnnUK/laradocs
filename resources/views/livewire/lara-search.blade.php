@@ -74,11 +74,11 @@
         @auth
             @if (count($results) == 0)
             <div class="flex flex-col my-4 text-xs" x-data="{showHistory: false}">
+                
+                @if( Auth::user() && is_countable($link_history) && count($link_history) > 0)
                 <span class="cursor-pointer underline" x-on:click="showHistory = !showHistory">
                     <span x-text="showHistory ? 'Hide' : 'Show'"></span> history
                 </span>
-        
-                @if( Auth::user() && is_countable($link_history))
                 <div class="flex flex-col" x-cloak x-show="showHistory">
                     @foreach ( $link_history as $li )
                         <a  class="" href="{{route('outbound', ['id' => $li['id']])}}" target="_blank">
