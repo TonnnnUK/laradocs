@@ -76,66 +76,75 @@ class LaraSearch extends Component
             // Split the search string into individual words
             $keywords = explode(" ", $find);
             
-            // Initialize an empty array to store the query results
-            $results = [];
-    
-            // Iterate over each keyword and perform a separate query for each
-            foreach ($keywords as $keyword) {
-                $query = Link::where(function ($query) use ($keyword) {
-                        $query->where('topic_title', 'LIKE', "%$keyword%")
-                              ->orWhere('page_title', 'LIKE', "%$keyword%")
-                              ->orWhere('section_title', 'LIKE', "%$keyword%")
-                              ->orWhere('link_title', 'LIKE', "%$keyword%");
-                    })
-                    ->orderBy('framework_id')
-                    ->get();
-                    
+            // Initialize an empty collection to store the query results
+            $results = collect();
+        
+            // Perform a query for each priority field
+            $priorityFields = [
+                'frameworks.name' => 'framework_id',
+                'topic_title' => 'topic_title',
+                'page_title' => 'page_title',
+                'section_title' => 'section_title'
+            ];
             
-                if( !in_array($this->search, $this->search_history) ){
-                    $search = Search::where('search', $this->search)->first();
-
-                    if( $search ){
-                        $search->count = $search->count+1; 
-                        $search->save();
-                    } else {
-                        $search = Search::create([
-                            'search' => $this->search,
-                            'count' => 1
-                        ]);
-                    }
-
-                    $this->search_history[] = $this->search;
-                }
-    
-                // Merge the results of the current query with the overall results
-                $results = array_merge($results, $query->toArray());
-
-            }
-    
-            // Filter the merged results to include only those where any keywords were found
-            $this->results = collect($results)->filter(function($link) use ($keywords) {
-                $found = false;
-    
+            foreach ($priorityFields as $field => $relation) {
                 foreach ($keywords as $keyword) {
-                    if (stripos($link['topic_title'], $keyword) !== false
-                        || stripos($link['page_title'], $keyword) !== false
-                        || stripos($link['section_title'], $keyword) !== false
-                        || stripos($link['link_title'], $keyword) !== false
-                    ) {
-                        $found = true;
-                        break;
-                    }
+                    $query = Link::where(function ($query) use ($field, $keyword, $relation) {
+                            if ($relation === 'framework_id') {
+                                $query->whereHas('framework', function ($query) use ($keyword) {
+                                    $query->where('name', 'LIKE', "%$keyword%");
+                                });
+                            } else {
+                                $query->where($field, 'LIKE', "%$keyword%");
+                            }
+                        })
+                        ->whereIn('framework_id', $this->filters)
+                        ->orderBy('framework_id')
+                        ->get();
+                    
+                    // Merge the results of the current query with the overall results
+                    $results = $results->merge($query);
                 }
-    
-                // Check if any keywords were found for this link
-                return $found && in_array($link['framework_id'], $this->filters);
+            }
+            
+            if (!in_array($this->search, $this->search_history)) {
+                $search = Search::firstOrCreate(['search' => $this->search], ['count' => 0]);
+                $search->increment('count');
+                $this->search_history[] = $this->search;
+            }
+            
+            // Count the number of keyword matches for each link
+            $this->results = $results->map(function ($link) use ($keywords) {
+                $link->keyword_matches = 0;
+                $link->topic_title_matches = 0;
+                $link->page_title_matches = 0;
+                
+                foreach ($keywords as $keyword) {
+                    if (stripos($link->framework->name ?? '', $keyword) !== false) $link->keyword_matches++;
+                    if (stripos($link->topic_title, $keyword) !== false) {
+                        $link->keyword_matches++;
+                        $link->topic_title_matches++;
+                    }
+                    if (stripos($link->page_title, $keyword) !== false) {
+                        $link->keyword_matches++;
+                        $link->page_title_matches++;
+                    }
+                    if (stripos($link->section_title, $keyword) !== false) $link->keyword_matches++;
+                    if (stripos($link->link_title, $keyword) !== false) $link->keyword_matches++;
+                }
+                
+                return $link;
             });
-    
-            // Remove duplicate entries from the results
-            $this->results = $this->results->unique('id');
+            
+            // Sort results by priority and then by the number of keyword matches
+            $this->results = $results->sortByDesc(function ($link) {
+                return [
+                    $link->topic_title_matches, 
+                    $link->page_title_matches
+                ];
+            })->unique('id')->values();
         }
     }
-    
 
     public function filterSearch(){
         $this->searchDocs($this->search);
