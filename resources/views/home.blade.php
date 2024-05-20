@@ -1,6 +1,7 @@
 <x-app-layout>
         
-        <x-slot name="page_title">LaraDocs</x-slot>
+        <x-slot name="page_title">LaraDocs - Laravel Documentation & Associated Frameworks Docs search</x-slot>
+        <x-slot name="page_description">Search Laravel Documentation it's associated frameworks & packages and get to the exact place in the official documentation that you need.</x-slot>
             <livewire:lara-search />
 
             {{-- <div class="md:hidden w-full flex justify-end">               

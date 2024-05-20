@@ -23,6 +23,9 @@
         <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
         <title>@isset($page_title) {{ $page_title }} @endisset</title>
+        @isset($page_description)
+        <meta name="description" content="{{ $page_description }}">
+        @endisset
 
         @if( Route::currentRouteName() == 'home')
         <meta property="og:title" content="LaraDocs" />
