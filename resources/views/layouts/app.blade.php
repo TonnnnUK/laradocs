@@ -81,17 +81,20 @@
                             });
                         "
                     >
-                        <span class="underline" x-on:click="showList = !showList">Updates</span>
-                        <div class="flex flex-col mt-2" x-cloak x-show="showList">
+                        <span class="underline" x-on:click="showList = !showList">Recent Updates</span>
+                        <div class="flex flex-col mt-2 mb-4" x-cloak x-show="showList">
                             <span>&#9745; User accounts</span>
                             <span>&#9745; Saved filters</span>
                             <span>&#9745; Link history*</span>
                             <span>&#9745; Better search results</span>
+                        </div>
+                        <span class="underline" x-on:click="showList = !showList">Todo List</span>
+                        <div class="flex flex-col mt-2" x-cloak x-show="showList">
                             <span>Most popular topics</span>
                             <span>Quick links*</span>
                             <span>Filter Groups*</span>
-                            
-                            <span class="mt-2"><small>*Logged in users</small></span>
+                            <span>Older doc versions</span>
+                            <span class="mt-2"><small>*for registered users</small></span>
                         </div>
                     </div>
                     @endif
