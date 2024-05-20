@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Password;
 use Livewire\Attributes\Layout;
 use Livewire\Volt\Component;
 
-new #[Layout('layouts.guest')] class extends Component
+new #[Layout('layouts.app')] class extends Component
 {
     public string $email = '';
 
@@ -35,8 +35,12 @@ new #[Layout('layouts.guest')] class extends Component
         session()->flash('status', __($status));
     }
 }; ?>
+<x-slot name="page_title">Forgot password // LaraDocs</x-slot>
+    
+<!-- Session Status -->
+<x-auth-session-status class="mb-4" :status="session('status')" />
 
-<div>
+<div class="flex flex-col lg:w-1/2 mx-auto mb-1 my-4 md:my-8">
     <div class="mb-4 text-sm text-gray-600">
         {{ __('Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.') }}
     </div>

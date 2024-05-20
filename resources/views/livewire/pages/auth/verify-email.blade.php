@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Session;
 use Livewire\Attributes\Layout;
 use Livewire\Volt\Component;
 
-new #[Layout('layouts.guest')] class extends Component
+new #[Layout('layouts.app')] class extends Component
 {
     /**
      * Send an email verification notification to the user.
@@ -38,8 +38,13 @@ new #[Layout('layouts.guest')] class extends Component
         $this->redirect('/', navigate: true);
     }
 }; ?>
+<x-slot name="page_title">Verify email // LaraDocs</x-slot>
+    
+<!-- Session Status -->
+<x-auth-session-status class="mb-4" :status="session('status')" />
 
-<div>
+<div class="flex flex-col lg:w-1/2 mx-auto mb-1 my-4 md:my-8">
+
     <div class="mb-4 text-sm text-gray-600">
         {{ __('Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn\'t receive the email, we will gladly send you another.') }}
     </div>

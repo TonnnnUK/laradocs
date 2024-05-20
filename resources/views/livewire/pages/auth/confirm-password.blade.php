@@ -6,7 +6,7 @@ use Illuminate\Validation\ValidationException;
 use Livewire\Attributes\Layout;
 use Livewire\Volt\Component;
 
-new #[Layout('layouts.guest')] class extends Component
+new #[Layout('layouts.app')] class extends Component
 {
     public string $password = '';
 
@@ -36,8 +36,14 @@ new #[Layout('layouts.guest')] class extends Component
         );
     }
 }; ?>
+<x-slot name="page_title">Confirm Password // LaraDocs</x-slot>
+    
+<!-- Session Status -->
+<x-auth-session-status class="mb-4" :status="session('status')" />
 
-<div>
+<div class="flex flex-col lg:w-1/2 mx-auto mb-1 my-4 md:my-8">
+
+
     <div class="mb-4 text-sm text-gray-600">
         {{ __('This is a secure area of the application. Please confirm your password before continuing.') }}
     </div>

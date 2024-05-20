@@ -10,7 +10,7 @@ use Livewire\Attributes\Layout;
 use Livewire\Attributes\Locked;
 use Livewire\Volt\Component;
 
-new #[Layout('layouts.guest')] class extends Component
+new #[Layout('layouts.app')] class extends Component
 {
     #[Locked]
     public string $token = '';
@@ -68,8 +68,13 @@ new #[Layout('layouts.guest')] class extends Component
         $this->redirectRoute('login', navigate: true);
     }
 }; ?>
+<x-slot name="page_title">Reset password // LaraDocs</x-slot>
+    
+<!-- Session Status -->
+<x-auth-session-status class="mb-4" :status="session('status')" />
 
-<div>
+<div class="flex flex-col lg:w-1/2 mx-auto mb-1 my-4 md:my-8">
+
     <form wire:submit="resetPassword">
         <!-- Email Address -->
         <div>
