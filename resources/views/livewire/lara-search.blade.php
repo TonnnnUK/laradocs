@@ -71,6 +71,7 @@
                 </div>
             </div>
 
+            @if(count($filter_groups) > 0)
             <div>
                 Filter groups: @foreach ( $filter_groups as $item )
                     <span class="text-red-600 hover:underline cursor-pointer" wire:click="applyFilters({{$item->id}})" 
@@ -80,6 +81,7 @@
                     </span> @if(!$loop->last)|@endif
                 @endforeach
             </div>
+            @endif
         </div>
         @endauth
     </div>
