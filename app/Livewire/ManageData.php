@@ -3,6 +3,7 @@
 namespace App\Livewire;
 
 use App\Models\Link;
+use App\Models\User;
 use App\Models\Search;
 use Livewire\Component;
 use App\Models\Outbound;
@@ -19,6 +20,7 @@ class ManageData extends Component
     public $files;
     public $outbounds;
     public $added = [];
+    public $users;
 
     public function render()
     {
@@ -50,6 +52,8 @@ class ManageData extends Component
             $this->files[$key]['path'] = $file; 
             $this->files[$key]['name'] = $last[0];
         }
+
+        $this->users = User::withCount('history')->get();
 
     }
 
