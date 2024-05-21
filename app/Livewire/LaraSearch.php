@@ -6,6 +6,7 @@ use App\Models\Link;
 use App\Models\Search;
 use Livewire\Component;
 use App\Models\Framework;
+use App\Models\FilterGroup;
 use Illuminate\Support\Arr;
 use Livewire\Attributes\Computed;
 use Illuminate\Support\Facades\Log;
@@ -24,6 +25,8 @@ class LaraSearch extends Component
     public $filters = [];
     public $hasSearched = false;
     public $results = [];
+    public $newFilterGroup = '';
+    public $filter_groups = [];
 
     public function render()
     {
@@ -34,6 +37,7 @@ class LaraSearch extends Component
         $this->frameworks = Framework::all();
         $this->filters = $this->frameworks->pluck('id')->toArray();
         $this->allFilterIds = $this->filters;
+        $this->filter_groups = Auth::user() ? Auth::user()->filter_groups : [];
 
         if( Auth::user() ){
             Auth::user()->load(['history' => function ($query) {
@@ -176,6 +180,31 @@ class LaraSearch extends Component
         }
 
         $this->searchDocs($this->search);
+    }
+
+
+    public function addFilterGroup(){
+
+        foreach($this->filters as $key => $item){
+            $this->filters[$key] = intval($item);
+        }
+
+        $filter_group = FilterGroup::create([
+            'name' => $this->newFilterGroup,
+            'user_id' => Auth::user()->id,
+        ]);
+
+
+        $filter_group->frameworks()->attach($this->filters);
+
+        $this->newFilterGroup = '';
+
+    }
+
+    public function applyFilters($id){
+        $getFilters = FilterGroup::with('frameworks')->where('id', $id)->first();
+        $filterIds = $getFilters->frameworks->pluck('id')->toArray();
+        $this->filters = $filterIds;
     }
 
 }

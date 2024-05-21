@@ -1,59 +1,92 @@
 <div class="w-full flex flex-col justify-center items-center p-2 min-h-48" x-data="searchText()">
 
-    {{-- FILTERS --}}
-    <div class="flex items-stretch flex-wrap bg-gray-50 border border-gray-300 mb-4 text-sm rounded w-auto mx-auto">
-        <span class="p-2 flex items-center md:border-r font-bold text-xs">Filter</span>
-        <input type="hidden" wire:model.live="filters" id="filtersInput">
+    <div class="flex flex-col"
+        x-data="{
+            allFilters: $wire.filters,
+            filters: $wire.entangle('filters'),
 
-        <div class="flex items-stretch flex-wrap gap-1" 
-            x-data="{
-                allFilters: $wire.filters,
-                filters: $wire.entangle('filters'),
+            syncFilters( all = false){
+                setTimeout( () => {
 
-                syncFilters( all = false){
-                    setTimeout( () => {
-                        
-                        if(all == 'all'){
-                            localStorage.setItem('active-filters', JSON.stringify(this.allFilters));
-                        } else {
-                            localStorage.setItem('active-filters', JSON.stringify(this.filters));
-                        }
-                    },150)
-                }
-            }"
-            x-init="
-                if( localStorage.getItem('active-filters') ){
-                    let filters = localStorage.getItem('active-filters');
-                    $wire.set('filters', JSON.parse(filters));
-                } else {
-                    localStorage.setItem('active-filters', JSON.stringify(filters));
-                }
-            "
-        >
-            @foreach($frameworks as $framework)
-                <label wire:key="{{$framework->id}}" wire:click="filterSearch()" x-on:click="syncFilters()" 
-                    class="flex gap-1 md:gap-0 md:flex-col justify-between items-center border-gray-300 md:border-r px-3 pb-1 cursor-pointer">
-                    <div class="py-2 w-6 flex justify-center items-center grow">
-                        @if( in_array( $framework->id, $filters ))
-                        <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%]">
-                        @else
-                        <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%] grayscale">
-                        @endif
-                    </div>
-                    <input class="w-3 h-3" type="checkbox" wire:model.live="filters" value="{{ intval($framework->id) }}" wire:key="{{$framework->id}}">
-                </label>
-            @endforeach
-                <label class="flex md:flex-col gap-1 md:gap-0 justify-between items-center border-gray-300 md:border-r px-3 pb-1 cursor-pointer" x-on:click="syncFilters('all')">
-                    <div class="py-2 w-6 flex flex-col justify-center items-center grow text-center">
-                        <small>All</small>
-                    </div>
-                    <input class="w-3 h-3" type="checkbox" wire:model.live="allFilters" wire:click="toggleAll()" value="{{ $framework->id }}" wire:key="{{$framework->id}}">
-                </label>
+                    console.log('syncing', this.filters);
+                    
+                    if(all == 'all'){
+                        localStorage.setItem('active-filters', JSON.stringify(this.allFilters));
+                    } else {
+                        localStorage.setItem('active-filters', JSON.stringify(this.filters));
+                    }
+                },350)
+            }
+        }"
+        x-init="
+            if( localStorage.getItem('active-filters') ){
+                let filters = localStorage.getItem('active-filters');
+                $wire.set('filters', JSON.parse(filters));
+            } else {
+                localStorage.setItem('active-filters', JSON.stringify(filters));
+            }
+        "
+    >
+
+        {{-- FILTERS --}}
+        <div class="flex items-stretch flex-wrap bg-gray-50 border border-gray-300 mb-2 text-sm rounded w-auto mx-auto">
+            <span class="p-2 flex items-center md:border-r font-bold text-xs">Filter</span>
+            <input type="hidden" wire:model.live="filters" id="filtersInput">
+    
+            <div class="flex items-stretch flex-wrap gap-1" 
+            >
+                @foreach($frameworks as $framework)
+                    <label wire:key="{{$framework->id}}" wire:click="filterSearch()" x-on:click="syncFilters()" 
+                        class="flex gap-1 md:gap-0 md:flex-col justify-between items-center border-gray-300 md:border-r px-3 pb-1 cursor-pointer">
+                        <div class="py-2 w-6 flex justify-center items-center grow">
+                            @if( in_array( $framework->id, $filters ))
+                            <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%]">
+                            @else
+                            <img width="20" height="20" src="/img/icons/{{$framework->logo_icon}}" alt="{{$framework->name}} icon" title="{{$framework->name}}" class="min-w-[95%] w-[95%] grayscale">
+                            @endif
+                        </div>
+                        <input class="w-3 h-3" type="checkbox" wire:model.live="filters" value="{{ intval($framework->id) }}" wire:key="{{$framework->id}}">
+                    </label>
+                @endforeach
+                    <label class="flex md:flex-col gap-1 md:gap-0 justify-between items-center border-gray-300 md:border-r px-3 pb-1 cursor-pointer" 
+                        x-on:click="syncFilters('all')">
+                        <div class="py-2 w-6 flex flex-col justify-center items-center grow text-center">
+                            <small>All</small>
+                        </div>
+                        <input class="w-3 h-3" type="checkbox" wire:model.live="allFilters" wire:click="toggleAll()" value="{{ $framework->id }}" wire:key="{{$framework->id}}">
+                    </label>
+            </div>
+    
         </div>
+    
+        @auth
+        <div class="text-xs mt-2 mb-4 flex justify-between items-center gap-2"
+            x-data="{showField: false}"
+        >
+            <div class="text-left">
+                <span class="cursor-pointer text-blue-800 hover:text-blue-950" x-on:click="showField = !showField">Save filter group</span>
+                <div class="flex" x-cloak x-show="showField">
+                    <input class="w-40 text-xs rounded-l" type="text" wire:model="newFilterGroup" placeholder="Filter group name" />
+                    <button class="bg-blue-700 text-white py-1 px-3 rounded-r hover:bg-blue-800" x-on:click="$wire.addFilterGroup(); showField = false">Save</button>
+                </div>
+            </div>
+
+            <div>
+                Filter groups: @foreach ( $filter_groups as $item )
+                    <span class="text-red-600 hover:underline cursor-pointer" wire:click="applyFilters({{$item->id}})" 
+                        x-on:click="syncFilters()"    
+                    >
+                        {{ $item->name }}
+                    </span> @if(!$loop->last)|@endif
+                @endforeach
+            </div>
+        </div>
+        @endauth
     </div>
 
+
     {{-- SEARCH --}}
-    <div class="w-full lg:w-4/6">
+    <div class="w-full lg:w-4/6 mt-2">
         <div class="flex relative">
         
             @if(!$hasSearched)

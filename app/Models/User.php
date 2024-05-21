@@ -46,4 +46,8 @@ class User extends Authenticatable
     public function history(){
         return $this->belongsToMany(Link::class, 'history', 'user_id', 'link_id')->withTimestamps();
     }
+
+    public function filter_groups(){
+        return $this->hasMany(FilterGroup::class);
+    }
 }

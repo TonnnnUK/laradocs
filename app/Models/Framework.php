@@ -14,4 +14,8 @@ class Framework extends Model
     public function links(){
         return $this->hasMany(Link::class);
     }
+
+    public function filter_groups(){
+        return $this->belongsToMany(FilterGroup::class, 'filter_group_framework', "framework_id", 'filter_group_id');
+    }
 }
