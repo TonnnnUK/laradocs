@@ -63,7 +63,7 @@
         <div class="text-xs mt-2 mb-4 flex justify-between items-center gap-2"
             x-data="{showField: false}"
         >
-            <div class="text-left">
+            <div class="text-left flex items-center gap-2">
                 <span class="cursor-pointer text-blue-800 hover:text-blue-950" x-on:click="showField = !showField">Save filter group</span>
                 <div class="flex" x-cloak x-show="showField">
                     <input class="w-40 text-xs rounded-l" type="text" wire:model="newFilterGroup" placeholder="Filter group name" />

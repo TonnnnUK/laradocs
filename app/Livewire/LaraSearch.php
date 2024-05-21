@@ -198,6 +198,7 @@ class LaraSearch extends Component
         $filter_group->frameworks()->attach($this->filters);
 
         $this->newFilterGroup = '';
+        $this->filter_groups = Auth::user()->filter_groups;
 
     }
 
