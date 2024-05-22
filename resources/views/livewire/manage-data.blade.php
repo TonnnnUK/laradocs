@@ -1,48 +1,62 @@
 <div x-data="{tab: 'stats'}">
 
     <div class="flex gap-2 justify-center">
-        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" :class="tab == 'stats' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'stats'">Stats</div>
-        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" :class="tab == 'json' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'json'">Json</div>
+        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" 
+            :class="tab == 'stats' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'stats'">
+            Stats
+        </div>
+        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" 
+            :class="tab == 'users' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'users'">
+            Users
+        </div>
+        <div class="tab cursor-pointer bg-gray-100 px-3 py-1 border border-b-0 hover:bg-gray-200 transition" 
+            :class="tab == 'json' ? 'border-gray-300 bg-gray-200' : ''" x-on:click="tab = 'json'">
+            Json
+        </div>
     </div>
 
-    <div x-cloak x-show="tab == 'stats'" class="border border-gray-300 p-6 flex flex-col" >
-
+    <div x-cloak x-show="tab == 'users'" class="border border-gray-300 w-full p-6 flex flex-col">
         <div class="w-full p-4 mb-4">
             <span class="block font-bold text-lg mb-2">Users</span>
                     
-            <div class="flex flex-wrap gap-2">
+            <div class="flex flex-wrap gap-2 w-full">
                 @foreach($users as $user)
-                <div class="flex justify-between gap-2 border px-2 w-[32%]">
-                    <div class="p-1">{{ $user->name }} </div>
-                    <div class="p-1">{{ $user->history_count }} clicks</div>
+                <div class="flex gap-2 px-2 w-full border">
+                    <div class="w-1/4 p-1">{{ $user->name }} </div>
+                    <div class="w-1/4 p-1">{{ $user->history_count }} clicks</div>
+                    <div class="w-1/4 p-1">{{ $user->email }}</div>
+                    <div class="w-1/4 p-1">{{ $user->created_at->format('d M Y') }} </div>
                 </div>
                 @endforeach
             </div>
         </div>
 
+    </div>
+    <div x-cloak x-show="tab == 'stats'" class="border border-gray-300 p-6 flex flex-col">
+
         <div class="flex flex-wrap">
-            <div class="w-3/4">
+            <div class="w-full">
                 <div class="flex flex-col px-4">
                     <span class="font-bold text-lg mb-4">Popular Outbound</span>
     
                     <table class="text-xs full">
                         <tr class="font-bold border bg-gray-100">
-                            <td class="p-1">Url</td>
-                            <td class="p-1">Framework</td>
+                            <td class="p-1 px-3">Framework</td>
+                            <td class="p-1 grow">Link Data</td>
                             <td class="p-1">Count</td>
                         </tr>
-                        @foreach($outbounds as $link)
+                        @foreach($outbounds as $outbound)
                         <tr class="border">
-                            <td class="p-1">{{ $link->url }} </td>
-                            <td class="p-1">{{ $link->link->framework->name }} </td>
-                            <td class="p-1">{{ $link->count }} </td>
+                            <td class="p-1 flex gap-1"><img class="w-3" src="/img/icons/{{ $outbound->link->framework->logo_icon }}" /> {{ $outbound->link->framework->name }} </td>
+                            <td class="p-1">{{ $outbound->link->topic_title }} / {{ $outbound->link->page_title }} / {{ $outbound->link->section_title }} / {{ $outbound->link->link_title }}</td>
+                            <td class="p-1">{{ $outbound->count }} </td>
                         </tr>
                         @endforeach
                     </table>
                 </div>
             </div>
             
-            <div class="w-1/4">
+            <div class="w-full mt-4">
                 <div class="flex flex-col px-4">
                     <span class="font-bold text-lg mb-4">Popular Searches</span>
     
@@ -54,7 +68,7 @@
                         @foreach($searches as $search)
                         <tr class="border">
                             <td class="p-1">{{ $search->search }} </td>
-                            <td class="p-1">{{ $link->count }} </td>
+                            <td class="p-1">{{ $search->count }} </td>
                         </tr>
                         @endforeach
                     </table>
