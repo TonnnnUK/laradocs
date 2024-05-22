@@ -37,7 +37,10 @@
         <div class="flex flex-wrap">
             <div class="w-full">
                 <div class="flex flex-col px-4">
-                    <span class="font-bold text-lg mb-4">Popular Outbound</span>
+                    <div class="flex items-center gap-2 mb-4">
+                        <span class="font-bold text-lg">Popular Outbound</span>
+                        <span class="text-sm">({{$total_outbounds}} total)</span>
+                    </div>
     
                     <table class="text-xs full">
                         <tr class="font-bold border bg-gray-100">
@@ -58,7 +61,10 @@
             
             <div class="w-full mt-4">
                 <div class="flex flex-col px-4">
-                    <span class="font-bold text-lg mb-4">Popular Searches</span>
+                    <div class="flex items-center gap-2 mb-4">
+                        <span class="font-bold text-lg">Popular Searches</span>
+                        <span class="text-sm">({{$total_searches}} total)</span>
+                    </div>
     
                     <table class="text-xs w-full">
                         <tr class="font-bold border bg-gray-100">
