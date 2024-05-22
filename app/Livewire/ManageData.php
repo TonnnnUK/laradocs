@@ -34,7 +34,7 @@ class ManageData extends Component
         }
 
         $this->outbounds = Outbound::with('link.framework')->orderBy('count', 'DESC')->limit(50)->get();
-        $this->searches = Search::limit('50')->get();
+        $this->searches = Search::orderBy('count', 'DESC')->limit('50')->get();
         $this->frameworks = Framework::all();
 
          // Get the path to the directory where JSON files are stored
