@@ -88,7 +88,7 @@
 
 
     {{-- Common Searches --}}
-    <div class="w-full md:w-4/6">
+    <div class="w-full md:w-4/6 mt-4 md:mt-8">
         <div class="flex flex-wrap gap-2 text-xs">
             <span>Common Searches:</span>
             @foreach($common_searches as $search)
