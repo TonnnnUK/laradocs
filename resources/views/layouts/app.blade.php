@@ -91,10 +91,10 @@
                             <span>&#9745; Link history*</span>
                             <span>&#9745; Better search results</span>
                             <span>&#9745; Filter Groups*</span>
+                            <span>&#9745; Common searches</span>
                         </div>
                         <span class="underline" x-on:click="showList = !showList">Todo List</span>
                         <div class="flex flex-col mt-2" x-cloak x-show="showList">
-                            <span>Most popular topics</span>
                             <span>Quick links*</span>
                             <span>Older doc versions</span>
                             <span class="mt-2"><small>*for registered users</small></span>

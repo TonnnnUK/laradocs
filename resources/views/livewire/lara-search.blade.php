@@ -87,6 +87,20 @@
     </div>
 
 
+    {{-- Common Searches --}}
+    <div class="w-full md:w-4/6">
+        <div class="flex flex-wrap gap-2 text-xs">
+            <span>Common Searches:</span>
+            @foreach($common_searches as $search)
+                <span class="text-blue-600 cursor-pointer hover:underline"
+                    wire:click="set('search', '{{ucwords($search->search)}}')"
+                >
+                    {{ ucwords($search->search) }}
+                </span>
+            @endforeach
+        </div>
+    </div>
+
     {{-- SEARCH --}}
     <div class="w-full lg:w-4/6 mt-2">
         <div class="flex relative">
