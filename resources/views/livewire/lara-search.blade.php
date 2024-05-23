@@ -64,7 +64,7 @@
             x-data="{showField: false}"
         >
             <div class="text-left flex items-center gap-2">
-                <span class="cursor-pointer text-blue-800 hover:text-blue-950" x-on:click="showField = !showField">Save filter group</span>
+                <span class="cursor-pointer text-blue-800 hover:text-blue-950" x-on:click="showField = !showField">Save current filters</span>
                 <div class="flex" x-cloak x-show="showField">
                     <input class="w-40 text-xs rounded-l" type="text" wire:model="newFilterGroup" placeholder="Filter group name" />
                     <button class="bg-blue-700 text-white py-1 px-3 rounded-r hover:bg-blue-800" x-on:click="$wire.addFilterGroup(); showField = false">Save</button>
@@ -95,8 +95,8 @@
                 <span class="text-blue-600 cursor-pointer hover:underline"
                     wire:click="set('search', '{{ucwords($search->search)}}')"
                 >
-                    {{ ucwords($search->search) }}
                 </span>
+                {{ ucwords($search->search) }} @if(!$loop->last)|@endif
             @endforeach
         </div>
     </div>
