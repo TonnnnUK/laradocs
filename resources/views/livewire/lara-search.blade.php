@@ -95,8 +95,9 @@
                 <span class="text-blue-600 cursor-pointer hover:underline"
                     wire:click="set('search', '{{ucwords($search->search)}}')"
                 >
+                {{ ucwords($search->search) }} 
                 </span>
-                {{ ucwords($search->search) }} @if(!$loop->last)|@endif
+                @if(!$loop->last)|@endif
             @endforeach
         </div>
     </div>
