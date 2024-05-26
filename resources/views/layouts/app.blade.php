@@ -68,8 +68,11 @@
                     @endguest
                     
                     @auth
-                    <div class="bg-white p-2 rounded-lg flex gap-2 md:mb-4 text-sm justify-center w-auto">
+                    <div class="bg-white p-2 rounded-lg gap-2 md:mb-4 text-sm justify-center w-auto flex flex-col">
                         <a href="/profile" class="py-1 px-2 border border-red-600 rounded transition hover:bg-red-600 hover:text-white duration-100">Profile</a>
+                        @if(Auth::user()->email == 'a.hutchinson86@gmail.com')
+                        <a href="/manage">Manage</a>
+                        @endif
                     </div>
                     @endauth
         
