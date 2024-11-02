@@ -76,34 +76,6 @@
                     </div>
                     @endauth
         
-                    @if( Route::currentRouteName() == 'home')
-                    <div class="flex flex-col text-left text-xs mt-2 md:mt-4 bg-gray-50 border p-3 rounded-lg" 
-                        x-data="{showList: false}"
-                        x-init="
-                            $nextTick(() => {
-                                if(window.innerWidth > 768 ){
-                                    showList = true;
-                                }
-                            });
-                        "
-                    >
-                        <span class="underline" x-on:click="showList = !showList">Recent Updates</span>
-                        <div class="flex flex-col mt-2 mb-4" x-cloak x-show="showList">
-                            <span>&#9745; User accounts</span>
-                            <span>&#9745; Saved filters</span>
-                            <span>&#9745; Link history*</span>
-                            <span>&#9745; Better search results</span>
-                            <span>&#9745; Filter Groups*</span>
-                            <span>&#9745; Common searches</span>
-                        </div>
-                        <span class="underline" x-on:click="showList = !showList">Todo List</span>
-                        <div class="flex flex-col mt-2" x-cloak x-show="showList">
-                            <span>Quick links*</span>
-                            <span>Older doc versions</span>
-                            <span class="mt-2"><small>*for registered users</small></span>
-                        </div>
-                    </div>
-                    @endif
                 </div>
         
                 {{-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSda7x8mGB96ycmDVLw2SIfKya_bVstgS0FOhHbu0dGXkQ56JA/viewform?usp=pp_url" target="_blank" class="bg-gray-200 w-36 h-36 mt-2 flex justify-center items-center text-center text-gray-400 text-sm mx-auto">
