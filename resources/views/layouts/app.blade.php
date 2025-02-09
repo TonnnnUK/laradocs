@@ -88,7 +88,7 @@
             
                 <div class="pt-6 px-6 text-gray-900">
                     <a href="/">
-                    <h1 class="text-2xl lg:text-4xl text-center">
+                    <h1 class="text-2xl lg:text-4xl text-center hover:opacity-75">
                         <span class="text-red-500">LARA</span><img class="w-8 h-8 inline" src="/img/book.svg" />DOCS
                     </h1>
                     </a>
