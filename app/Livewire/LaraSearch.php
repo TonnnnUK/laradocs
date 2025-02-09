@@ -39,7 +39,7 @@ class LaraSearch extends Component
         $this->filters = $this->frameworks->pluck('id')->toArray();
         $this->allFilterIds = $this->filters;
         $this->filter_groups = Auth::user() ? Auth::user()->filter_groups : [];
-        $this->common_searches = Search::where('count', '>=', 4)->limit(10)->get();
+        $this->common_searches = Search::where('count', '>=', 4)->limit(25)->get();
 
         if( Auth::user() ){
             Auth::user()->load(['history' => function ($query) {
