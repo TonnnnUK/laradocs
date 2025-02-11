@@ -121,13 +121,21 @@
         <div class="w-1/2">
             <div class="flex justify-end items-center flex-wrap gap-y-1">
                 @foreach($frameworks as $fr)
-                    <div class="w-[50%] flex justify-end items-center text-sm gap-2">
+                    <div class="w-[50%] flex justify-end items-center text-sm gap-2" x-data="{confirm: false}">
                         {{ $fr->name }} 
                         <button class="bg-gray-100 px-2 py-1 text-xs hover:bg-gray-200" 
+                            x-on:click="confirm = !confirm"
+                            x-show="!confirm"
+                        >
+                            Delete {{ $fr->links_count }} links
+                        </button>
+                        <button class="bg-red-100 px-2 py-1 text-xs text-red-700 hover:bg-red-200 hover:underline"
+                            x-show="confirm" 
                             wire:click="deleteLinks({{$fr->id}})"
                         >
-                            Delete links
+                            Confirm delete links
                         </button>
+                        <span class="p-2 cursor-pointer" x-show="confirm" x-on:click="confirm = false">x</span>
                     </div>
                 @endforeach
             </div>

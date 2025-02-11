@@ -102,7 +102,9 @@ async function run(){
 
     }
 
-    fs.writeFileSync('../json/laravel.json', JSON.stringify(navLinks, null, 2));
+    // datestamp in format YYYY-MM-DD-HH-MM-SS
+    let date = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '').replace(/:/g, '-');
+    fs.writeFileSync('../json/laravel-'+date+'.json', JSON.stringify(navLinks, null, 2));
     console.log('Data has been written to laravel.json');
 
 

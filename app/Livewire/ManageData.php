@@ -3,6 +3,7 @@
 namespace App\Livewire;
 
 use App\Models\Link;
+use App\Models\History;
 use App\Models\User;
 use App\Models\Search;
 use Livewire\Component;
@@ -39,7 +40,7 @@ class ManageData extends Component
         $this->total_outbounds = Outbound::count();
         $this->searches = Search::orderBy('count', 'DESC')->limit('50')->get();
         $this->total_searches = Search::count();
-        $this->frameworks = Framework::all();
+        $this->frameworks = Framework::withCount('links')->get();
 
          // Get the path to the directory where JSON files are stored
         $directory = public_path('docscraper/json');
@@ -127,6 +128,21 @@ class ManageData extends Component
     }
 
     public function deleteLinks($id){
-        $deleted = Link::where('framework_id', $id)->delete();
+        
+        // First, remove Outbound models where link_id matches the framework's links
+        Outbound::whereIn('link_id', function($query) use ($id) {
+            $query->select('id')
+                ->from('links')
+                ->where('framework_id', $id);
+        })->delete();
+
+        History::whereIn('link_id', function($query) use ($id) {
+            $query->select('id')
+                ->from('links')
+                ->where('framework_id', $id);
+        })->delete();
+
+        // Then, delete the links
+        Link::where('framework_id', $id)->delete();
     }
 }
